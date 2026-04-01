@@ -1,0 +1,1861 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CoVerCat.Deca — Garcia i Ferrandis, Francesc Vicent (TEI export)</title>
+        <principal>Pere Garau Borràs</principal>
+        <respStmt>
+          <name>Pere Garau Borràs</name>
+          <resp>AiMeRiC (automatic metrical annotation and TEI export)</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>CoVerCat / AiMeRiC</publisher>
+        <idno>AiMeRiC 0.7.1</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>CoVerCat.Deca</title>
+          <idno>CoVerCat.Deca</idno>
+          <author>Pere Garau Borràs</author>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:id="aimeric" type="met" pattern="((\+|\-)+)*">
+        <metSym value="+">stressed syllable</metSym>
+        <metSym value="-">unstressed syllable</metSym>
+      </metDecl>
+    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Francesc Vicent Garcia">
+            <persName>
+              <name>Garcia i Ferrandis, Francesc Vicent</name>
+            </persName>
+            <birth when="1579"/>
+            <death when="1623"/>
+            <note>city: Vallfogona</note>
+            <note>dialect: gironí</note>
+            <idno type="VIAF">100257561</idno>
+            <idno type="Wikidata">Q8962226</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change>Generated with AiMeRiC version 0.7.1</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="author" xml:id="Francesc Vicent Garcia">
+        <head>Garcia i Ferrandis, Francesc Vicent</head>
+        <div type="book" n="garcia_obra">
+          <head>Obra completa</head>
+          <div type="poem">
+            <head>
+              <title>Si a la gran dignitat.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="--+--++--+--">Si a la gran dignitat d’eixa presència,</l>
+              <l n="2" met="--+-+-+--+-">veguer il·lustre, que la fúria estranya</l>
+              <l n="3" met="-+-+-+-+-+--">desfàs de Caco i vences la insolència</l>
+              <l n="4" met="-+-+-+---+-">com Hèrcules segon d’esta campanya;</l>
+              <l n="5" met="-+-+-+-+-+--">si a eix resplendor de gran magnificència,</l>
+              <l n="6" met="--+--+-+-+-">paers d’esta ciutat, honor d’Espanya,</l>
+              <l n="7" met="+--+-+-+-+">fóra proporcionada ma Talia,</l>
+              <l n="8" met="-+-+-+-+-+-">en tan terrible angústia no em veuria.</l>
+              <l n="9" met="-+-+-+-+-+-">No em pren lo cor la púrpura de Tiro,</l>
+              <l n="10" met="-+-+-+-+-+-">per més que als ulls sa gran finor suborna:</l>
+              <l n="11" met="-+-+-+-+-+-">de béns tan peremptoris no m’admiro,</l>
+              <l n="12" met="-+-+-+-+-+-">que la Fortuna els porta i se’ls ne torna,</l>
+              <l n="13" met="+--+-+-+-+-">per lo que ab justa causa me retiro.</l>
+              <l n="14" met="+--+-+-+-+-">És la virtut que a l’ànimo us adorna:</l>
+              <l n="15" met="-+-+-+-+-+-">ni la comprèn lo llímit ni la ralla</l>
+              <l n="16" met="--+--+-+-+-">del breu temps de la vara i la gramalla.</l>
+              <l n="17" met="-+-+-+-+-+-">Però, com los reflexos lluminosos</l>
+              <l n="18" met="+--+-+-+-+-">nats de la sua glòria soberana</l>
+              <l n="19" met="+-+--+-+-+-">són dins mon pensament tan grandiosos</l>
+              <l n="20" met="--+--+-+-+-">que acovarden la musa inútil, vana,</l>
+              <l n="21" met="+--+-+-+-+-">sols se veuran efectes vergonyosos</l>
+              <l n="22" met="-+-+-+-+-+-">en ma faç, oh paers!, de vostra grana;</l>
+              <l n="23" met="--+--+-+-+-">si ja no em favoreix aqueix aspecte</l>
+              <l n="24" met="--+--+-+-+-">seminari d’amor i de respecte.</l>
+              <l n="25" met="-+-+---+-+-">¡Volgués lo Cel que, d’aquells rics matisos</l>
+              <l n="26" met="-+-+-+-+-+-">que il·lustren lo demés d’est auditori</l>
+              <l n="27" met="-+-+-+-+-+-">(de qui els encomis, sobre marbres llisos,</l>
+              <l n="28" met="+--+-+-+-+-">grava la Fama en sos taulons de vori</l>
+              <l n="29" met="-+-+-+-+-+-">i ab ells de son palau adorna els frisos</l>
+              <l n="30" met="-+-+--+--+-">perquè son gran valor sia notori),</l>
+              <l n="31" met="-+-+--+--+-">com los vener, ab reverència muda,</l>
+              <l n="32" met="-+-+-+-+-+-">així ho poguera dir ma llengua ruda!</l>
+              <l n="33" met="-+-+-+-+-+-">Sobre est tan just recel que m’acovarda,</l>
+              <l n="34" met="-+-+-+-+-+-">lo desigual assumpt que en aquest dia</l>
+              <l n="35" met="-+-+-+-+-+-">ha emprès la mia musa, tosca i tarda,</l>
+              <l n="36" met="-+--+--+-+-">me posa en major ànsia i agonia;</l>
+              <l n="37" met="-+-+-+-+-+-">perquè és sa vena inútil i bastarda</l>
+              <l n="38" met="--+-++-+-+-">empleada en tan ampla praderia,</l>
+              <l n="39" met="+--+-+-+-+-">com si per un gran tros de terra campa</l>
+              <l n="40" met="+--+-+-+-+-">una tasseta d’aigua sols s’hi escampa.</l>
+              <l n="41" met="+--+-+-+-+-">¿Què podré dir d’aquell a qui us presenta</l>
+              <l n="42" met="+--+-+-+-+-">vui ab tan gran aplauso nostra Escola</l>
+              <l n="43" met="-+-+-+-+-+-">i, ab vostres vots, diu que serà contenta</l>
+              <l n="44" met="-+-+-+-+-+-">de governar-se ab sa prudència sola,</l>
+              <l n="45" met="-+-+-+-+-+-">si dels blasons que son valor sustenta</l>
+              <l n="46" met="-+-+-+-+-+-">la idea gran tan remuntada vola</l>
+              <l n="47" met="-+-+-+-+-+-">que al més agut ingeni troba en calma</l>
+              <l n="48" met="-+-+-+-+-+-">de veure tant llorer i tanta palma?</l>
+              <l n="49" met="--+--+-+-+-">Si tan fàcil com fou en lo conclavi</l>
+              <l n="50" met="-+-+-+-+-+-">posar los ulls en don Felip de Berga</l>
+              <l n="51" met="-+-+-+-+-+-">ho fos no fer a ses virtuts agravi,</l>
+              <l n="52" met="+-+--+-+-+-">no em veuria ab pressura tan soberga;</l>
+              <l n="53" met="+--+-+-+-+-">tinc per molt cert que l’orador més savi</l>
+              <l n="54" met="-+-+-+---+-">que es trobe des de Ganges a Pisuerga</l>
+              <l n="55" met="+--+-+-+-+-">no tindria tant corrent ni tanta còpia</l>
+              <l n="56" met="-+-+-+-+-+--">que en est empleo no patís inòpia.</l>
+              <l n="57" met="--+--+-+-+-">Als d’Europa la roba de Cambaia,</l>
+              <l n="58" met="+-+-+-+--+-">àmbar, almesc i algàlia de la Xina,</l>
+              <l n="59" met="--+--+-+-+-">lo betum i coral d’aquella plaia,</l>
+              <l n="60" met="-+-+-+-+-+-">benjui, riubarbo i porcellana fina,</l>
+              <l n="61" met="+--+--+--+-">l’èbano, calambuc i àloes desmaia:</l>
+              <l n="62" met="+-+--+-+-+-">tanta droga i aroma els desatina,</l>
+              <l n="63" met="-+-+-+-+-+-">i de Venècia umplen duana i domo</l>
+              <l n="64" met="--+--+-+-+-">canyafístula, encens i cardamomo.</l>
+              <l n="65" met="-+-+-+-+-+-">Mes no ha vingut d’Orient tanta riquesa</l>
+              <l n="66" met="-+-+--+--+-">en diamants, robins, perles i aljofre</l>
+              <l n="67" met="--+--+-+-+-">(ab què es cobre d’Espanya la noblesa</l>
+              <l n="68" met="-+-+-+-+-+-">de perles ja com de cabells Onofre),</l>
+              <l n="69" met="--+--+-+-+-">ni ses mines, ab l’or de més finesa</l>
+              <l n="70" met="--+--+-+-+-">ni ab la plata acendrada, lo real cofre</l>
+              <l n="71" met="+--+-+-+-+-">han enriquit jamai de tal manera</l>
+              <l n="72" met="-+-+-+-+-+-">com enriquir-se vui l’Estudi espera.</l>
+              <l n="73" met="-+-+-+-+-+-">De presidència eternament honrosa,</l>
+              <l n="74" met="+-+--+---+-">oh paers purpurats, deixareu mostra,</l>
+              <l n="75" met="+--+-+-+-+-">quan ab just títol no la fes lustrosa</l>
+              <l n="76" met="-+-+-+-+-+-">la gran prudència i vigilància vostra,</l>
+              <l n="77" met="+-+--+-+-+-">sols perquè ab eixa gràcia generosa</l>
+              <l n="78" met="+--+-+-+-+-">puja de punt l’Academia nostra</l>
+              <l n="79" met="-+-+-+-+-+-">ab lo valor que vostra mà li dóna,</l>
+              <l n="80" met="-+-+-+-+-+-">fiant-la del govern de tal persona;</l>
+              <l n="81" met="+--+-+-+-+-">d’una persona tal, que governara</l>
+              <l n="82" met="-+-+-+-+-+-">tot un imperi gran, si li cabera</l>
+              <l n="83" met="-+-+-+-+-+-">la sort que gosa nostra Escola ara,</l>
+              <l n="84" met="-+-+-+-+-+-">i, a mil províncies que regir poguera,</l>
+              <l n="85" met="--+--+-+-+-">com un altre Solon les legislara,</l>
+              <l n="86" met="-+-+--+--+-">puix la prudència en ell tan s’acelera</l>
+              <l n="87" met="-+-+-+-+-+-">que, si brins d’or en sos bigots se filen,</l>
+              <l n="88" met="-+-+-+-+-+-">de son saber les canes lo jubilen.</l>
+              <l n="89" met="-+-+-+-+-+-">Fiau-la a aquell que, sent de Bergues planta,</l>
+              <l n="90" met="-+-+-+-+-+-">quilats tan grans a sa noblesa ajusta</l>
+              <l n="91" met="--+--+-+-+-">que la deixa pagada ab altra tanta</l>
+              <l n="92" met="+--+-+-+-+-">glòria com rep de sa família augusta;</l>
+              <l n="93" met="+--+--+--+-">doncs, si elegiu rector ab gràcia tanta,</l>
+              <l n="94" met="+-+--+-+-+-">bé podeu inferir, ab raó molt justa,</l>
+              <l n="95" met="+--+-+-+-+--">que ha de donar a vostra Escola amplària</l>
+              <l n="96" met="+--+-+-+-+--">fent-la una jerarquia literària.</l>
+              <l n="97" met="+-+--+-+-+">Fiau-la a un descendent del qui li fia</l>
+              <l n="98" met="-+-+-+-+-+-">lo gran Felip aquells designes seris</l>
+              <l n="99" met="-+-+-+-+-+-">ab què rig tan estesa monarquia</l>
+              <l n="100" met="-+-+-+-+-+-">i aspira a posseir eterns imperis:</l>
+              <l n="101" met="-+-+-+-+-+-">ensaig serà lo d’esta Academia,</l>
+              <l n="102" met="--+--+-+-+-">per est altre Felip, dels ministeris</l>
+              <l n="103" met="-+-+-+-+-+-">que li promet la favorable estela</l>
+              <l n="104" met="+--+-+-+-+-">que en ell tan bons prenuncis nos revela.</l>
+              <l n="105" met="-+-+-+-+-+-">Fiau-la al que per prenda amada el presa:</l>
+              <l n="106" met="-+-+-+-+-+-">aquell que li han fiat, de les ovelles</l>
+              <l n="107" met="-+-+-+-+-+-">que Cristo té en la ibèrica devesa,</l>
+              <l n="108" met="-+-+-+-+-+-">les que més blanques són i les més belles,</l>
+              <l n="109" met="-+-+-+-+-+-">a qui l’antiga Roma les mans besa</l>
+              <l n="110" met="--+--+-+-+-">ab molt certa esperança de què aquelles</l>
+              <l n="111" met="--+--+-+-+-">virtuts grans que l’adornen són la prova</l>
+              <l n="112" met="-+-+-+-+-+-">de què los peus li besarà ab la nova.</l>
+              <l n="113" met="-+-+--+--+-">Nebot, vull dir, dels dos grans Aliagues;</l>
+              <l n="114" met="-+-+-+-+-+-">a l’un dels quals sa majestat lo crida</l>
+              <l n="115" met="-+-+-+-+-+-">per a què li ministre, de les plagues</l>
+              <l n="116" met="-+-+-+-+-+-">de Cristo, aquell licor d’eterna vida,</l>
+              <l n="117" met="-+-+-+-+-+-">i, sens pretendre les honroses pagues</l>
+              <l n="118" met="-+-+-+-+-+-">ab què sa llarga mà sempre el convida,</l>
+              <l n="119" met="--+--+-+-+-">representa en lo real confessionari</l>
+              <l n="120" met="-+---++--+-">un altre Ramon, un altre Hilari;</l>
+              <l n="121" met="+--+-+-+-+--">i del que, ab tan desperta vigilància,</l>
+              <l n="122" met="+--+-+-+-+--">des de la sede sacra de València</l>
+              <l n="123" met="+-+-++-+-+--">dóna al Cel de mil ànimes ganància</l>
+              <l n="124" met="--+--+-+-+--">i confon la diabòlica potència:</l>
+              <l n="125" met="+--+--+--+--">muda’l la Sort d’una en altra estància,</l>
+              <l n="126" met="--+--+-+-+--">a sos mèrits cercant correspondència;</l>
+              <l n="127" met="-+-+-+-+-+-">ja el té en Albarrracín, i ja en Tortosa,</l>
+              <l n="128" met="-+-+-+-+-+-">i ja en l’arquebisbat, cadira honrosa.</l>
+              <l n="129" met="-+-+-+-+-+-">Aquestes qualitats, que el món venera,</l>
+              <l n="130" met="-+-+-+-+-+-">en ell no causen arrogància alguna:</l>
+              <l n="131" met="-+-+-+-+-+-">en la virtut, no en la noblesa, espera,</l>
+              <l n="132" met="-+-+-+-+-+-">que aquella és pròpria dot, esta és comuna;</l>
+              <l n="133" met="+-+--+-+-+-">i és molt cert que, onsevulla que nasquera,</l>
+              <l n="134" met="+--+-+-+-+-">ell mateix se comprara la fortuna</l>
+              <l n="135" met="--+--+-+-+--">i, per més que ja en tinga, és bé que es sàpia</l>
+              <l n="136" met="-+-+-+-+-+--">que donarà nou lustre a sa prosàpia.</l>
+              <l n="137" met="+-+--+-+-+-">Bé que, ab tals exemplars, lo Cel aviva</l>
+              <l n="138" met="--+--+-+-+-">en lo qui ha de regir nostre museo</l>
+              <l n="139" met="-+-+-+-+-+-">les consonàncies de virtut nativa,</l>
+              <l n="140" met="-+-+-+-+-+-">ab què suspèn al món millor que Orfeo,</l>
+              <l n="141" met="-+-+-+-+-+-">la Fama emprèn ab veu sonora i viva</l>
+              <l n="142" met="+--+-+-+-+-">fer-ho a saber del Caspi al mar Egeo,</l>
+              <l n="143" met="-+-+-+-+-+-">i a quants habiten de Cracòvia a Meca,</l>
+              <l n="144" met="--+--+-+-+-">en lo punt que el veuran ab lloba i beca.</l>
+              <l n="145" met="-+-+-+-+-+-">Lo sacro Apol·lo es vestirà de gala,</l>
+              <l n="146" met="-+-+-+-+-+-">pentinarà sa rossa cabellera,</l>
+              <l n="147" met="+--+-+-+-+-">èmulo fet del qui no sols iguala</l>
+              <l n="148" met="-+-+-+-+-+-">sa llum, mes l’excedeix en gran manera;</l>
+              <l n="149" met="-+-+-+-+-+-">perquè, si bé es contempla, aquesta sala</l>
+              <l n="150" met="-+-+-+-+-+-">de lletres i virtut és una esfera:</l>
+              <l n="151" met="+--+-+-+-+-">Don Felip és lo Sol que la il·lumina,</l>
+              <l n="152" met="-+-+--+--+-">i, en cada cor, d’amor cria una mina.</l>
+              <l n="153" met="-+-+-+-+-+-">Ja no tindrà més fam ni més bravea</l>
+              <l n="154" met="-+-+-+-+-+-">la mar, que ab boques de bromera plenes,</l>
+              <l n="155" met="-+-+-+-+-+-">aprés que ha devorada la riquea,</l>
+              <l n="156" met="-+-+-+-+-+-">la nau, com os, escup en les arenes;</l>
+              <l n="157" met="--+--+-+-+-">donaran a Neptuno i Citerea</l>
+              <l n="158" met="+--+-+-+-+-">música regalada les sirenes,</l>
+              <l n="159" met="+--+-+-+-+-">quan en sos reines líquids entre Segre</l>
+              <l n="160" met="-+-+-+-+-+-">i, ab esta nova, ses deidats alegre.</l>
+              <l n="161" met="-+-+-+-+-+-">Qui mira en sos cristalls a les divines</l>
+              <l n="162" met="+--+-+-+-+-">nimfes compondre sa bellesa rara,</l>
+              <l n="163" met="+--+-+-+-+-">venes que el mineral més ric empara,</l>
+              <l n="164" met="-+-+-+-+-+-">dirà que a celebrar en les marines</l>
+              <l n="165" met="+--+-+-+-+-">sales aquesta nova ja es prepara;</l>
+              <l n="166" met="-+-+-+-+-+-">però, per més que llengües d’or hi aplica,</l>
+              <l n="167" met="+--+-+-+-+-">més que les llengües és la nova, rica.</l>
+              <l n="168" met="-+-+-+-+-+-">De tan feliç succés la bella Flora</l>
+              <l n="169" met="-+-+-+-+-+-">també voldrà mostrar-se satisfeta</l>
+              <l n="170" met="-+-+-+-+-+-">i, plena d’alegria, traure fora</l>
+              <l n="171" met="-+-+-+-+-+-">la nata de ses obres més perfeta;</l>
+              <l n="172" met="-+-+-+-+-+-">sa blanca mà li donarà l’Aurora,</l>
+              <l n="173" met="-+-+-+-+-+-">d’aljófar retocant cada floreta,</l>
+              <l n="174" met="+--+-+-+-+-">com la que està de Cèfalo obligada</l>
+              <l n="175" met="+-+-+-+--+-">don Felip de Berga sols li agrada.</l>
+              <l n="176" met="--+--+-+-+-">Ab lo vel de Cambrai brodat de plata,</l>
+              <l n="177" met="--+--+-+-+-">i de púrpura i or la mantellina,</l>
+              <l n="178" met="-+-+-+-+-+-">i aquella saia que el valor remata</l>
+              <l n="179" met="-+-+-+-+-+-">de quanta pedra hi ha preciosa i fina,</l>
+              <l n="180" met="-+-+-+-+-+-">sa gràcia adornarà, ab què d’amor mata</l>
+              <l n="181" met="--+--+-+-+-">a l’amant que segueix sa llum divina,</l>
+              <l n="182" met="-+-+-+-+-+-">i, en fe del que han guanyat nostres escoles,</l>
+              <l n="183" met="-+-+-+-+-+-">plourà sobre elles roses i violes.</l>
+              <l n="184" met="-+-+-+-+-+-">Les nou germanes, sempre agermanades</l>
+              <l n="185" met="-+-+-+-+-+-">en fer a don Felip favors insignes,</l>
+              <l n="186" met="--+--+-+-+-">com comencen a veure premiades</l>
+              <l n="187" met="-+-+-+-+-+-">ses grans virtuts, de major glòria dignes,</l>
+              <l n="188" met="-+-+-+-+-+-">perquè en tot l’orbe sien celebrades</l>
+              <l n="189" met="-+-+-+-+-+-">prometen que han de fer cantar mil cignes:</l>
+              <l n="190" met="--+--+-+-+-">¡Compliu, muses sagrades, la promesa,</l>
+              <l n="191" met="-+-+-+-+-+-">donant-me nou favor a nova empresa!</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (1).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+--+--+-">¡Ai, cap de déus en vós, nimfa de aigüera,</l>
+              <l n="2" met="-+-+-+-+-+-">que us ho vull dir ab frase catalana!</l>
+              <l n="3" met="-+-+-+-+-+-">¿No us era molta sort que ma sotana</l>
+              <l n="4" met="-+-+-+-+-+-">tocàs vostra faldilla mondonguera?</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    ¿No sabem tots que en vostra claveguera</l>
+              <l n="6" met="+-+--+-+-+-">entren mil reguerons cada setmana,</l>
+              <l n="7" met="+--+--+--+-">i que en lo ubert clivell d'eixa magrana</l>
+              <l n="8" met="+-+--+---+-">piquen tots los pardals d'eixa Ribera?</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+--">    Si per desopilar-me de pecúnia</l>
+              <l n="10" met="-+-+-+-+-+-">al florejat tenor de mon precari</l>
+              <l n="11" met="-+-+-+-+-+-">voleu mostrar-vos espinosa i grave,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+--">    perquè us vull tràurer prest d'aqueixa angúnia,</l>
+              <l n="13" met="-+-+-+-+-+-">sapiau què és lo tresor de mon armari:</l>
+              <l n="14" met="-+-+-+-+-+-">dos prunes solament, i un famós rave!</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>sonet (10).txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">sens dubte és Anaxarte transformada:</l>
+              <l n="2" met="-+-+-+-+-+-">No és de toc, ni fonc jamés tocada;</l>
+              <l n="3" met="-+-+-+-+-+-">no és de tempestat, que en mon cor dura;</l>
+              <l n="4" met="+-+-+-+--+-">    menos és d'edifici, antes procura</l>
+              <l n="5" met="--+--+-+-+-">assolar lo que estimo; ni és l'amada</l>
+              <l n="6" met="-+-+-+-+-+-">imant, que al nord de Amor no està inclinada.</l>
+              <l n="7" met="+-+--+-+-+-">Ai, si fóra per mi de sepultura!</l>
+              <l n="8" met="-+-+-+-+-+-">    En sa duresa, veig mos impossibles;</l>
+              <l n="9" met="-+-+-+-+-+-">en sa bellesa, ador enganys forçosos:</l>
+              <l n="10" met="-+-+-+-+-+-">No esper, ni desesper; sufro i porfio.</l>
+              <l n="11" met="-+-+-+-+-+-">    Fineses son de Amor i mals sufribles,</l>
+              <l n="12" met="--+-++-+-+-">que, en empleos tan nobles i ditxosos,</l>
+              <l n="13" met="--+--+-+-+-">lo valor del subjecte dóna brio.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (11).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+-">Amor, que de mon bé ja no s'empatxa</l>
+              <l n="2" met="-+-+-+-+-+-">després que m'ha ferit ab mortal fletxa,</l>
+              <l n="3" met="+--+-+-+-+-">dóna a mon cant lo punt de trista endetxa,</l>
+              <l n="4" met="+--+-+-+-+-">puix per al lloc de penes me despatxa.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    En vostres ulls, que cada u és una atxa,</l>
+              <l n="6" met="+-+--+-+-+-">ja no•m mostra la Mort tapada i quetxa,</l>
+              <l n="7" met="-+-+-+-+-+-">sinó ab aquella fúria que l'arc fletxa</l>
+              <l n="8" met="+--+-+-+-+-">contra mon pit lleal, que ab rigor tatxa.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+-">    L'ànima, per senyal de gran desditxa,</l>
+              <l n="10" met="-+-+-+-+-+-">ab una rossegant i negra clotxa</l>
+              <l n="11" met="-+-+-+-+-+-">de funeral baieta s'encaputxa,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+-">    i•l surtidor del cor tanta aigua esquitxa</l>
+              <l n="13" met="+-+--+-+-+-">vent que l'ha traspassat tanta garrotxa,</l>
+              <l n="14" met="-+-+-+-+-+-">que al seu dol me convida la caputxa.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (12).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+-+--+-+-+-">Ara baixes la vista envers la immunda  </l>
+              <l n="2" met="+--+-+-+-+-">gruta de l’univers, alberg de pena,  </l>
+              <l n="3" met="+-+--+-+-+-">on jamai s’avingué la llum serena  </l>
+              <l n="4" met="-+-+-+-+-+-">ab les tenebres de la nit profunda;</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    ara en lo cel, que de claror abunda,  </l>
+              <l n="6" met="+--+-+-+-+-">mires del signes la dorada vena,  </l>
+              <l n="7" met="-+-+-+-+-+-">i en la gran bola d’alimàries plena  </l>
+              <l n="8" met="-+-+-+-+-+-">les pollegueres fermes on se funda;  </l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+-">    ara te’n vages a la terra freda,</l>
+              <l n="10" met="-+-+-+-+-+-">a qui lo Sol ab raigs escassos mira,  </l>
+              <l n="11" met="+--+-+-+-+-">o a la que més de l’equinocci abrase,  </l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+-">	entres en mar tempestuosa o queda,  </l>
+              <l n="13" met="-+-+-+-+-+-">en terra estigues, sossegat o ab ira:</l>
+              <l n="14" met="+-+--+-+-+-">sempre, pio lector, seràs un ase.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>sonet (13).txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--+---+-+-">Brama, ocupada de rabioses penes,</l>
+              <l n="2" met="-+-+-+-+-+-">del fort lleó la natural feresa</l>
+              <l n="3" met="+-+--+-+-+-">quan l’astut caçador, ab sa destresa,</l>
+              <l n="4" met="-+-+-+-+-+-">lligat lo deixa ab trampes i cadenes;</l>
+              <l n="5" met="+--+-+-+-+-">    brama ab mil boques de bromera plenes</l>
+              <l n="6" met="--+--+-+-+-">en senyal de sa fam i sa bravesa</l>
+              <l n="7" met="-+-+-+-+-+-">lo mar, que aprés que es menja la riquesa</l>
+              <l n="8" met="-+-+-+-+-+-">escup la nau, com os, en les arenes;</l>
+              <l n="9" met="+--+-+-+-+--">    brama lo cel, si ab qualitats contràries</l>
+              <l n="10" met="-+-+-+-+-+-">los elements en ses regions s’alteren,</l>
+              <l n="11" met="--+--+-+-+-">ab què l’aire condensen, i l’inflamen;</l>
+              <l n="12" met="+--+-+-+-+--">    bramen les infernals i temeràries</l>
+              <l n="13" met="-+-+-+-+-+-">però més pròpriament los àsens bramen.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (14).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">"D'eixos cabells tan pentinats debades</l>
+              <l n="2" met="--+--+-+-+-">per al gust de un traïdor que d'ells no gusta,</l>
+              <l n="3" met="-+-+-+-+-+-">sinó quan per la causa més injusta</l>
+              <l n="4" met="--+--++--+-">te n'arranca del cap llargues manades;</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="--+--+-+-+-">    d'eixa llet entre roses encarnades</l>
+              <l n="6" met="-+-+--+--+-">que a tants gusts ha donat causa tan justa;</l>
+              <l n="7" met="--+--+-+-+-">de l'armari que sols ne tens la fusta;</l>
+              <l n="8" met="--+--+-+-+-">¿com les mans de un ingrat ne has adornades?"</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="--+--+-+-+-">    "Callau, mare", respon, "que sou caduca;</l>
+              <l n="10" met="-+-+--+--+-">que en los brocats més fins cau esta taca,</l>
+              <l n="11" met="--+--+-+-+-">i, tras gran tempestat, ix clar lo dia;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    que, si ara·m destrueix com a matxuca,</l>
+              <l n="13" met="-+-+-+-+-+-">restituirà algun temps com a ardiaca;</l>
+              <l n="14" met="--+--+-+-+-">que si no·m volgués bé no·m pegaria."</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (15).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+-">De l'Arca on s'embarcà Naturalesa</l>
+              <l n="2" met="-+-+-+-+-+-">saltà Jafet, les aigües sossegades;</l>
+              <l n="3" met="-+-+-+-+-+-">i en lo punt se li foren entregades</l>
+              <l n="4" met="-+---+-+-+-">d'Europa les regions i terra estesa.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="--+--+-+-+-">    I com fos la muller de gran empresa,</l>
+              <l n="6" met="-+-+-+-+-+-">ab sa ventricultura, en breus anyades,</l>
+              <l n="7" met="-+-+-+-+-+-">tingué de humanes plantes adornades</l>
+              <l n="8" met="-+-+-+-+-+-">les terres, despullades de bellesa.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="--+--+-+-+-">    Tubal fonc lo primer que en nostra Espanya</l>
+              <l n="10" met="--+--+---+-">trasplantà la muller i florí en ella,</l>
+              <l n="11" met="+-+--+-+-+-">i és lo tronc de la rama vostra i mia.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+-+-++-+-+-">    Sent així, la molt dama, ¿qué s'estranya?</l>
+              <l n="13" met="--+--+-+-+-">¿Podrà fer una rel tal maravella:</l>
+              <l n="14" met="-+-+-+-+-+-">brotar cardots i rams de satalia?</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (16).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+">De les exhalacions que l'aire cria</l>
+              <l n="2" met="+--+-+-+-+-">una cruel batalla s'engendrava;</l>
+              <l n="3" met="--+--+-+-+-">temerosos tambors lo cel tocava</l>
+              <l n="4" met="-+-+-+-+-+-">i disparava espessa artilleria.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    Ja l'aire de tenebres se cubria</l>
+              <l n="6" met="-+-+-+-+-+-">i la fogosa flama s'il·lustrava;</l>
+              <l n="7" met="-+-+-+---+-">estranya era la llum; la foscor, brava:</l>
+              <l n="8" met="-+-+-+-+-+-">ni bona per a nit ni per a dia.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    Ab oracions devotes, lo vicari</l>
+              <l n="10" met="-+-+-+-+-+-">i tot lo poble junt, ab mans plegades,</l>
+              <l n="11" met="+-+--+-+-+">feien pies pregàries al Senyor,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+-">    quan, a deshora, un cuiro temerari,</l>
+              <l n="13" met="-+-+-+-+-+-">"¿Qué es cansen?", dix; "¡que aquestes nuvolades</l>
+              <l n="14" met="+--+-+-+-+">ixen de la bragueta del rector!"</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (17).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="--+--+-+-+-">De ma estela fatal la heretge cara</l>
+              <l n="2" met="-+---+-+-+-">mil boques m'està fent des de la esfera,</l>
+              <l n="3" met="+--+-+-+-+-">vent que ma fe importuna persevera</l>
+              <l n="4" met="+--+-+-+-+-">contra sa força, en perseguir-me rara.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    No hi ha valor per a la sort avara,</l>
+              <l n="6" met="--+--+-+-+-">que la pròpria confiança desespera;</l>
+              <l n="7" met="--+--+-+-+-">i li'n pren, al de fe més verdadera,</l>
+              <l n="8" met="--+--+-+-+-">com qui pinta ab carbó sobre mascara.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+-">    Jo que, a mos desigs, no m'aconhorto</l>
+              <l n="10" met="--+--+-+-+-">que me'ls maten fregones a pedrades</l>
+              <l n="11" met="-+--++-+-+-">ab títol de què jugo de lisonja,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+-">    de les de porta, mil reganys me'n porto;</l>
+              <l n="13" met="-+-+-+-+-+-">de les enfinestrades, finestrades;</l>
+              <l n="14" met="-+-+-+-+-+-">i, sobretot, desdenys de una malmonja.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (18).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+-+--+-+-+-">De unes hores romanes, sor Maria</l>
+              <l n="2" met="-+--++-+-+-">nocturnos a sos llavis traslladava,</l>
+              <l n="3" met="-+-+-+-+-+-">i al foc de Purgatori sobornava</l>
+              <l n="4" met="-+-+-+-+-+-">perqué fos manso a sa difunta tia.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    Jo, que en lo infern de son desdeny patia</l>
+              <l n="6" met="+--+-+-+-+-">pena qual nunca amant sufrí més brava,</l>
+              <l n="7" met="-+-+-+-+-+-">des de l'abisme de l'olvit cridava</l>
+              <l n="8" met="--+--+-+-+-">a la ingrata que oir-me no volia.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+-">    I, tenint ja perduda la esperança</l>
+              <l n="10" met="--+--+-+-+-">del remei de una mà que és tan escassa,</l>
+              <l n="11" met="--+--+-+-+-">diguí en pena final de ma ventura:</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+---+-">    "Ja que sufragi l'ànima no alcança,</l>
+              <l n="13" met="-+-+-+-+-+-">sufriu que, al cos almanco, se li faça</l>
+              <l n="14" met="-+-+-+-+-+-">del marbre de aqueix pit la sepultura".</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (19).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">Deixe's de això, senyora Isabeleta!</l>
+              <l n="2" met="+--+-+-+-+-">¿Pensa que só algun comte, per ventura,</l>
+              <l n="3" met="-+-+-+-+-+-">que vull que, franca fins a la cintura,</l>
+              <l n="4" met="-+-+-+-+-+-">en la finestra un dia estiga dreta?</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    Tire's allà, no sia tan fresqueta,</l>
+              <l n="6" met="-+-+-+-+-+-">que jo no só de aqueixa compostura,</l>
+              <l n="7" met="--+--+-+-+-">puix tindré a molta sort i a gran ventura</l>
+              <l n="8" met="--+--+-+-+-">si la puc columbrar per una cleta.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+">    No perqué em té lo Amor tan afamat</l>
+              <l n="10" met="-+-+-+-+-+-">de tant que la cobejo, presumesca</l>
+              <l n="11" met="-+-+-+-+-+-">que tota ab un bocí desig menjar-la;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+">    que és vossasté bocí molt regalat,</l>
+              <l n="13" met="-+-+-+-+-+-">i, com a tal, és bo en la boca cresca;</l>
+              <l n="14" met="-+-+-+-+-+-">i així vull tot lo jorn companejar-la.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (2).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+">¡Pel cap de greus, minyona, que et vull bé</l>
+              <l n="2" met="--+--+-+-+">i que vaig musclejant per ton badoc!</l>
+              <l n="3" met="-+-+-+-+-+">Si gustes de posar lo morro al broc,</l>
+              <l n="4" met="--+--+-+-+">ab la cua de l'ull fes-me "ce, ce";</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+">    que et jur que en lo punt que sentiré</l>
+              <l n="6" met="--+--+-+-+">de la tua boqueta lo dolç oc,</l>
+              <l n="7" met="--+--+---+">en aqueix mateix punt te farà "croc"</l>
+              <l n="8" met="-+-+-+-+-+">lo vidre que en lo armari·t trencaré.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="--+--+-+-+">    I no tingues temor que lo Janot,</l>
+              <l n="10" met="-+-+-+---+">lo vespre nupcial del primer "xac!",</l>
+              <l n="11" met="-+--+--+-+">conega que està ja encetat lo buc;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+-+--+-+-+">    que estos dies trobí ab un paperot</l>
+              <l n="13" met="+-+--+-+-+">que és molt bo, per a clòurer lo teu sac,</l>
+              <l n="14" met="+--+-+-+-+">suc de garrofes i oli de saüc.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (20).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">Eixos desmais que ab desigual cruesa</l>
+              <l n="2" met="--+--+-+-+-">executen, Lucrècia soberana,</l>
+              <l n="3" met="-+-+-+-+-+-">la gràcia d'eixa cara més que humana</l>
+              <l n="4" met="-+-+-+-+-+-">que al cor recull gran part de sa riquesa,</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    alguasils són d'Amor, que a eixa bellesa</l>
+              <l n="6" met="+-+--+-+-+-">mil pensions no pagades li demana;</l>
+              <l n="7" met="-+-+--+--+-">que no repara en veure-us sagristana</l>
+              <l n="8" met="-+-+-+---+-">qui a la deitat més sacra tingué presa.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+-+--+-+-+-">    No us queixeu de l'Amor, que per vós mira</l>
+              <l n="10" met="+--+--+--+-">mentres lo vil i odiós nom de deutora</l>
+              <l n="11" met="--+--+-+-+-">en subjecte tan ric li desagrada.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    Guardau de incórrer en sa interna ira:</l>
+              <l n="13" met="--+--+-+-+-">advertiu que us desitja acreedora,</l>
+              <l n="14" met="-+-+-+-+-+-">imaginau que us vol descarregada.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (21).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+-">En hora bona sies tota mia!</l>
+              <l n="2" met="-+-+-+-+-+-">¡Encaixa, perla, abraça al teu Semproni</l>
+              <l n="3" met="-+-+-+-+-+-">que, en foc ardent més que el de sant Antoni,</l>
+              <l n="4" met="-+-+-+-+-+-">està cremant per tu la nit i·l dia!</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+---+-+-+">    Apreta! Però aguarda, que voldria</l>
+              <l n="6" met="-+-+-+-+-+-">saber de tu si·t tempta lo dimoni</l>
+              <l n="7" met="-+-+-+-+-+-">pensant ab mi contraure matrimoni</l>
+              <l n="8" met="-+-+-+-+-+-">o traure algun ric dot per esta via:</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+-">    Has de saber que el catre penso dar-te,</l>
+              <l n="10" met="-+-+-+-+-+-">si fos esta la octava maravella,</l>
+              <l n="11" met="+--+-++--+-">i que, per altra part, tinc ja corona.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    Lo que faré per tu serà soldar-te,</l>
+              <l n="13" met="+--+-+-+-+-">si (lo que Déu no vulla) ets prim poncella,</l>
+              <l n="14" met="-+-+-+-+-+-">ab turmes de crestat i sang de mona.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (22).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="--+--+-+-+-">En les faldes del Somni descansava</l>
+              <l n="2" met="-+-+-+---+-">los membres fatigats del penós dia,</l>
+              <l n="3" met="+--+-+-+-+-">quan la profunda i vana Fantasia</l>
+              <l n="4" met="-+-+-+-+-+-">tesors de immens valor me presentava:</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+-+--+-+-+-">    Dos mil títols la Fama·m publicava,</l>
+              <l n="6" met="--+--+-+-+-">ab un ceptre real me sostenia,</l>
+              <l n="7" met="-+-+-+-+-+-">i a la enemiga Enveja no temia,</l>
+              <l n="8" met="+--+-+-+-+-">ans me temia a mi qui m'envejava.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="--+--+-+-+-">    Senyalava mon pit la creu vermella,</l>
+              <l n="10" met="-+-+-+-+-+-">i mil se'n feia·l món, vent la quimera</l>
+              <l n="11" met="-+-+-+-+-+-">de ma noblesa apòcrifa realçada.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="--+--+-+-+-">    Despertà'm, en açò, la dura anella</l>
+              <l n="13" met="-+-+-+---+-">que al coll tenia, i fui, com abans era,</l>
+              <l n="14" met="--+--+-+-+-">mossén Pere Franquesa de Igualada.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (23).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+-">En lo rigor de certa matinada,</l>
+              <l n="2" met="-+-+-+-+-+-">rentant bugada viu una donzella</l>
+              <l n="3" met="--+--+-+-+-">que, ab los raigs de sa cara fresca i bella,</l>
+              <l n="4" met="-+-+-+-+-+-">desfeia la ribera congelada.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    Com vora l'aigua la mirí sentada</l>
+              <l n="6" met="-+-+-+-+-+-">i allí, en lo seu costat, una cistella,</l>
+              <l n="7" met="-+-+--+--+-">pensí si era la Lluna, i si ab ella</l>
+              <l n="8" met="-+-+-+-+-+-">acàs l'havien los de Vic pescada.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+-">    No m'enganyí, que és lluna tan serena</l>
+              <l n="10" met="-+-+-+-+-+-">com variable, a qui en les ànsies mies</l>
+              <l n="11" met="-+-+--+--+-">ador qual índio i son favor imploro.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+-">    Mitja se'm mostra, i a un Adonis, plena;</l>
+              <l n="13" met="-+-+-+-+-+-">per on estic, ha més de quinze dies,</l>
+              <l n="14" met="-+-+-+-+-+-">ab esta mitja lluna fet un moro.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>sonet (24).txt</title>
+            </head>
+            <lg>
+              <l n="1" met="--+--+-+-+">En poder de mossén Tuturutut</l>
+              <l n="2" met="+--+-+-+-+">he començat de aprèndrer vui la mà;</l>
+              <l n="3" met="+--+-+-+-+">ja·m va mostrant los punts que en ella hi ha,</l>
+              <l n="4" met="-+-+-+-+-+">i sé que lo primer és gama ut.</l>
+              <l n="5" met="-+--++-+-+">    Joana, lo meu ídol de or batut,</l>
+              <l n="6" met="-+-+-+-+-+">i Amor, ab dolç article, juntarà</l>
+              <l n="7" met="-+-+-+-+-+">aquell sol bell ab mon humil re, ut.</l>
+              <l n="8" met="--+--+-+-+">    Que, si Orfeo suspengué ab son contrabaix</l>
+              <l n="9" met="-+-+-+-+-+">les Fúries infernals, i deslliurar</l>
+              <l n="10" met="-+-+-+-+-+">a sa muller pogué de l'etern plor,</l>
+              <l n="11" met="--+--+-+-+">    jo, que tinc lo tenor un poc més baix,</l>
+              <l n="12" met="-+-+-+-+-+">lo infern de son desdeny podré aplacar</l>
+              <l n="13" met="-+-+-+-+-+">i tràurer de ses penes al meu cor.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (25).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">Entre sos braços dolçament tenia</l>
+              <l n="2" met="+--+-+-+-+-">pres a Medoro Angèlica, i estava</l>
+              <l n="3" met="+--+-+-+-+-">ella en los seus tan presa que dubtava</l>
+              <l n="4" met="-+-+-+-+-+-">l'Amor en qui dels dos més dret tenia;</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="--+--+-+-+-">    i, dient-li que d'ells no el soltaria</l>
+              <l n="6" met="--+--+-+-+-">si allí fermament no li jurava</l>
+              <l n="7" met="-+-+-+-+-+-">que, en quant la humana vida li durava,</l>
+              <l n="8" met="-+-+-+-+-+-">a qui l'amava tant no olvidaria,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    "¿com és possible", respongué, "senyora,</l>
+              <l n="10" met="--+-++-+-+-">si vós sou lo meu cor i la mia vida,</l>
+              <l n="11" met="-+-+-+-+-+-">que visca i que us olvid vostre Medoro?"</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+-">    ¿Qué us n'apar, don Ramon, d'esta traidora</l>
+              <l n="13" met="--+-+--+-+-">que los prínceps desdenya i_ls reis olvida,</l>
+              <l n="14" met="-+-+-+-+-+-">i es perd i s'apassiona per un moro?</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (26).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="--+--+-+-+-">Estafeta de muses renegades,</l>
+              <l n="2" met="-+-+-+-+-+--">desventurat pasquí de la malícia,</l>
+              <l n="3" met="+--+-+-+-+--">bruta cucala, exemple de immundícia,</l>
+              <l n="4" met="-+-+-+-+-+-">que ab plomes de altri vols donar volades,</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    ¿qué et dóna de portar les embaixades</l>
+              <l n="6" met="--+--+-+-+--">aquest mono envejós, ple de tristícia</l>
+              <l n="7" met="-+-+-+-+-+--">perqué a sos versos los de la justícia</l>
+              <l n="8" met="--+--+-+-+-">rectament condemnaren a gatades?</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="--+--+-+-+-">    Celebrar una vil naturalesa</l>
+              <l n="10" met="+--+-+-+-+-">no és molt de qui la té perversa i mala,</l>
+              <l n="11" met="-+-+-+-+-+-">que alegra al Mal del mal la odiosa vista.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    Per ço lo Cel, que véu tan gran bestiesa,</l>
+              <l n="13" met="+--+-+-+-+-">ab la que aquí publiques vui la iguala:</l>
+              <l n="14" met="--+--+-+-+-">A tal hèroe ha donat tal coronista.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (27).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+">Estic per a posar-me dins d'un foc</l>
+              <l n="2" met="-+-+-+-+-+">qual numantí frenètic i arriscat,</l>
+              <l n="3" met="--+--+-+-+">o llançar-me com un desesperat</l>
+              <l n="4" met="--+--+-+-+">d'una torre molt alta o més alt lloc.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+">    ¡Que sia un home jo per a tan poc</l>
+              <l n="6" met="-+-+-+-+-+">que, sols per un soneto començat,</l>
+              <l n="7" met="-+-+-+-+-+">jamai lo consonant haja trobat;</l>
+              <l n="8" met="-+-+-+-+-+">que de cercar-lo me só tornat groc!</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+">    Vós sols, Herèdia, sou lo que podeu</l>
+              <l n="10" met="-+-+-+-+-+">mostrar que haveu begut d'aquesta font;</l>
+              <l n="11" met="+--+-+-+-+">i, per a mi, tots los demés són fum.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+">    Ab tal facilitat los versos feu</l>
+              <l n="13" met="-+-+-+-+-+">que per als forasters serviu de pont,</l>
+              <l n="14" met="--+--+-+-+">i als que són naturals serviu de llum.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (28).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">Flaca parcialitat de ma ventura,</l>
+              <l n="2" met="--+--+-+-+-">d'enemics poderosos rodejada,</l>
+              <l n="3" met="-+-+-+-+-+-">¿a on va aqueixa esperança mal fundada</l>
+              <l n="4" met="-+-+-+-+-+-">per glòria incerta i pena tan segura?</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    ¿Qué vana presumpció, qué desventura</l>
+              <l n="6" met="-+-+-+-+-+-">te anima a la conquista senyalada</l>
+              <l n="7" met="-+-+-+-+-+-">del gust mortal, essent tan desditxada</l>
+              <l n="8" met="-+-+-+-+-+-">que para en miserable sepultura?</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+-">    Si de la humana sort més poderosa</l>
+              <l n="10" met="-+-+-+-+-+-">a la més dèbil, ab igual tristesa</l>
+              <l n="11" met="+-+--+-+-+-">veus queixar-se a tothom de la fortuna,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+-">    muda l'intent, camina valerosa</l>
+              <l n="13" met="-+-+-+-+-+-">a conquistar la perfecció i bellesa</l>
+              <l n="14" met="--+--+-+-+-">de Qui porta entre peus al Sol i Lluna.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (29).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+-+--+---+-">Ix la pròdiga llum, que ab sutil ralla  </l>
+              <l n="2" met="-+-+-+-+-+-">per un escàs forat al pres visita:</l>
+              <l n="3" met="-+-+-+-+-+-">del somni breu desperta, i ressuscita  </l>
+              <l n="4" met="-+-+-+-+-+-">del gust amarg la dèbil revivalla.  </l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    Al navegant, que ab fràgil buc treballa  </l>
+              <l n="6" met="+--+--+--+-">vèncer la fúria al mar, casi infinita,  </l>
+              <l n="7" met="-+-+-+-+-+-">i ab la bevenda amarga allí vomita  </l>
+              <l n="8" met="-+-+-++--+-">la vida, i lo vaixell s'obre i encalla;  </l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="--+--+-+-+-">    al privat, que en les faldes de Fortuna  </l>
+              <l n="10" met="+--+-+-+-+-">mama la dolça llet i, ab faç doblada,  </l>
+              <l n="11" met="-+-+-+-+-+-">la llança de son pit en poca estona;  </l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    per totes ses angústies, una a una,  </l>
+              <l n="13" met="-+-+-+-+-+-">i al bon lector, perquè és ma camarada,  </l>
+              <l n="14" met="-+-+-+-+-+-">un tigre els faça a tots la catxamona. </l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (3).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+-">Ab una pinta de marfil polia</l>
+              <l n="2" met="--+--+-+-+-">los cabells de finíssima atzabeja,</l>
+              <l n="3" met="-+-+--+--+-">a qui los d’or més fi tenen enveja,</l>
+              <l n="4" met="-+-+-+-+-+-">en un terrat la bella Flora un dia.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    Entre ells, la pura neu se descobria</l>
+              <l n="6" met="-+-+-+-+-+-">del coll, que ab son contrari més campeja,</l>
+              <l n="7" met="-+-+-+-+-+-">i, com la mà com lo marfil blanqueja,</l>
+              <l n="8" met="+-+--+-+-+-">pinta i mà d’una peça pareixia.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    Jo, de lluny, tan atònit contemplava</l>
+              <l n="10" met="-+-+-+-+-+--">lo dolç combat que ab extremada gràcia</l>
+              <l n="11" met="-+-+-+-+-+-">aquestos dos contraris mantenien</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    que el cor enamorat se m’alterava,</l>
+              <l n="13" met="-+-+-+-+-+--">i, temerós d’alguna gran desgràcia,</l>
+              <l n="14" met="-+-+-+-+-+-">de prendre’ls treves ganes me venien.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (30).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">Ja per a dar un tomb mon seny estava;</l>
+              <l n="2" met="+-+--+-+-+-">mil transsumpts la memòria fet havia,</l>
+              <l n="3" met="-+-+-+-+-+-">ab qué, de la passada glòria mia,</l>
+              <l n="4" met="-+-+-+-+-+-">a l'ànima afligida confortava.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    Lo pensament dreceres li cercava,</l>
+              <l n="6" met="-+-+-+-+-+-">a abreviar les llegües se oferia,</l>
+              <l n="7" met="--+--+-+-+-">aplanar les muntanyes prometia,</l>
+              <l n="8" met="-+-+-+-+-+-">i cosa alguna d'estes no hi bastava.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+-">    L'ànima a tal extrem era vinguda;</l>
+              <l n="10" met="+-+--+-+-+-">quan, dolent-se lo cor de sa agonia,</l>
+              <l n="11" met="+--+-+-+-+-">vostre retrato natural li mostra:</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="--+--+-+-+-">    Adorà-us i restà socorreguda,</l>
+              <l n="13" met="-+-+-+-+-+-">fundant-se en mon amor la pena mia</l>
+              <l n="14" met="-+-+-+-+-+-">i en vostre amor la medicina vostra.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (31).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+--+--+">Jo no sé, Amor, en qué havem de parar,</l>
+              <l n="2" met="--+-++-+-+">respectant de tes fletxes lo poder;</l>
+              <l n="3" met="-+-+-+---+">per tu dos mil locures veem fer,</l>
+              <l n="4" met="+--+-+-+-+">sens que ningú se'n puga deslliurar:</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+">    A Júpiter del Cel fas devallar</l>
+              <l n="6" met="-+-+-+-+-+">i, fent ell lo que toca a sa muller,</l>
+              <l n="7" met="-+-+-+-+-+">s'adorna el cap ab fusta de tinter</l>
+              <l n="8" met="-+-+-+-+-+">pensant que, per pacient, podrà agradar.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+--+--+">    I, vent alguns que li va succeir</l>
+              <l n="10" met="--+-++-+-+">a son gust, i va vèncer lo rigor</l>
+              <l n="11" met="--+--+-+-+">de la dama ab astúcia de taür,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+-+--+-+-+">    han volgut imitar-lo sens fingir,</l>
+              <l n="13" met="--+--+-+-+">desdenyant de sa casa el propi honor,</l>
+              <l n="14" met="--+--+-+-+">per poder escalar de l'altra el mur.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (32).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+-">Los raigs de l’Orient desembeinava</l>
+              <l n="2" met="-+-+-+-+-+-">Apol·lo irat, i en espantable guerra</l>
+              <l n="3" met="--+--+-+-+-">per les còncaves boques de la terra</l>
+              <l n="4" met="-+-+-+-+-+-">al Tàrtaro enemic ferir pensava.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    Cruixia el vent, llibert, Neptú bramava,</l>
+              <l n="6" met="--+--+-+-+-">lo Tità es rebullia baix la terra;</l>
+              <l n="7" met="-+-+-+-+-+-">Peneo en ses arenes se soterra,</l>
+              <l n="8" met="-+-+-+-+-+-">tement si acàs de Dafne es recordava.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    Les nimfes transparents, espavorides,</l>
+              <l n="10" met="-+-+-++--+-">la mare dels cristalls criden cuitades</l>
+              <l n="11" met="-+-+-+-+-+-">i dins la pròpria font encara temen.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+-+--+-+-+-">    Cauen-ne per los prats d’esmortuïdes,</l>
+              <l n="13" met="-+-+-+-+-+-">dels faunos, sos amics, desemparades:</l>
+              <l n="14" met="-+-+-+-+-+-">mes, què se’m dóna a mi que a tots los cremen?</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (33).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+-+--++--+-">Mala Pasqua us dó Déu, monja corcada,</l>
+              <l n="2" met="+--+-+-+-+-">bresca sens mel, trepada gelosia,</l>
+              <l n="3" met="-+-+-+-+-+-">formatge ullat,  cruel fisonomia,</l>
+              <l n="4" met="--+--+-+-+-">ab més puntes i grops que té l’arada!</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    D’alguna fossa us han desenterrada</l>
+              <l n="6" met="-+-+-+-+-+-">per no sofrir los morts tal companyia,</l>
+              <l n="7" met="-+-+-+-+-+-">quan eixa mala cara se us podria</l>
+              <l n="8" met="-+-+--+--+-">i estava ja de cucs mig rosegada;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    però, si sou de vèrmens escapada,</l>
+              <l n="10" met="--+--+-+-+-">per a ésser menjar de les cucales</l>
+              <l n="11" met="--+--+-+-+-">(que de mal en pijor la sort vos porta)</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    mantinga-us Déu la negra burullada,</l>
+              <l n="13" met="-+-+-+-+-+-">i adéu-siau, que em par que em naixen ales</l>
+              <l n="14" met="-+-+-+-+-+-">i em torno corb després que pic carn morta.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (34).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-++--+">Maleta de convent, gruta d’hostal,</l>
+              <l n="2" met="-+-+-+-+-+">frontissa rovellada de cancell,</l>
+              <l n="3" met="--+--+-+-+">malaltia perpètua de bordell,</l>
+              <l n="4" met="-+-+-+-+-+">florida primavera de tot mal!</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+">    Si pensa que, per vèurer-me venal,</l>
+              <l n="6" met="-+-+-+-+-+">me té de garrotar ab un cordell</l>
+              <l n="7" met="-+-+-+-+-+">per a sacrificar-me com anyell</l>
+              <l n="8" met="+--+-+-+-+">dels que en lo Born se venen per Nadal,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+">    vaja a guanyar perdons tirant al moll,</l>
+              <l n="10" met="--+--+-+-+">que no só jo Abindeme ni Gazul</l>
+              <l n="11" met="-+-+-+-+-+">per a prendar-me d’ella com un foll;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+">    que, sent de mal francès prenyat baül,</l>
+              <l n="13" met="+--+-+-+-+">sols la prendré per a què em xupe un moll</l>
+              <l n="14" met="-+-+-+-+-+">que tinc entre los pèls de l’ull del cul.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (35).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">Més espinosa sou que les castanyes,</l>
+              <l n="2" met="+--+-+-+-+-">nimfa bajana i húmeda donzella,</l>
+              <l n="3" met="-+-+-+-+-+-">de boca tal que sols per fugir d'ella</l>
+              <l n="4" met="-+-+-++--+-">se'n van molts a poblar terres estranyes.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    Los sàtiros i déus de les muntanyes,</l>
+              <l n="6" met="-+-+-+-+-+-">del mar, llaguna d'esta platja bella,</l>
+              <l n="7" met="-+-+-+-+-+-">ningú la veu que faça maravella</l>
+              <l n="8" met="--+--+-+-+-">que per ella se us vegen les entranyes;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-++--+-">    i, en ella, vostre ser veu qui se assoma</l>
+              <l n="10" met="+--+-+-+-+-">a eixa finestra pròdiga de bada,</l>
+              <l n="11" met="-+-+-+-+-+-">i descubriu lo fals de vostra mina.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    Pasquí per vostre mal vindrà de Roma,</l>
+              <l n="13" met="-+-+-+-+-+-">si dau en ser esquiva i entonada;</l>
+              <l n="14" met="+--+-++--+-">que és un poeta irat mala veïna.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (36).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="--+--+-+-+-">"Monseñor Ilustrísimo ha mandado</l>
+              <l n="2" met="-+-+-+-+-+-">que humillen estas porras". "Com, les porres?</l>
+              <l n="3" met="+-+--+-+-+-">Ans vendrem les gramalles i les gorres!"</l>
+              <l n="4" met="+--+-+-+-+-">"¡Pues presumir de hablalle en escusado!"</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    "De guardar nòstron dret tindrem cuidado!"</l>
+              <l n="6" met="+--+-+-+-+-">"Todo fundar serà en el aire torres".</l>
+              <l n="7" met="+--+-++--+-">"Som, per ventura, ací, cònsols de borres?"</l>
+              <l n="8" met="+-+--++--+-">"¡Por lo que sean! ¡Se nos da un cornado!"</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    "Ai, cap de no de tal ab la faena!</l>
+              <l n="10" met="+--+-+-+-+-">La ciutat sent aquesta desmesura?</l>
+              <l n="11" met="+--+-+-+-+-">No·s facen festes fins que açò·s millore!"</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    "¡Però que sea muy en hora buena;</l>
+              <l n="13" met="-+-+-+-+-+-">que no es el arzobispo criatura</l>
+              <l n="14" met="+--+-+-+-+-">para que, si no le hacen fiestas, llore!"</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (37).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+--+--+-">No·m tir ni·m pag ab tu, vana quimera!</l>
+              <l n="2" met="-+-+-+-+-+-">Puix no·m pots dar los béns que en mi fabriques,</l>
+              <l n="3" met="-+-+-+-+-+-">jamai per mi·s veuran, tes ares, riques;</l>
+              <l n="4" met="-+-+--+--+-">que empleo mos encens de altra manera.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="--+--+-+-+-">    ¿Tu no veus que la més lustrosa esfera</l>
+              <l n="6" met="-+-+-+-+-+-">i altitud major que al món apliques</l>
+              <l n="7" met="-+-+-+-+-+-">no·s té de acomparar a coses xiques?</l>
+              <l n="8" met="+--+-+-+-+-">Quant més ab qui en grandor és la primera!</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+-">    Deixa que visca estèril ma esperança,</l>
+              <l n="10" met="--+--+-+-+-">qual, l'arena que els murs de Barcelona</l>
+              <l n="11" met="-+-+-+-+-+-">termina, ·l mar salobre esmalta i banya;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="--+--+-+-+-">    que, puix medi impossible fi no alcança,</l>
+              <l n="13" met="+-+--+-+-+-">un remei fabulós salut no·m dóna;</l>
+              <l n="14" met="-+-+-+-+-+-">i, a un ser humil, lisonja a tard lo enganya.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (38).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+">Ocari, així de l'un a l'altre Pol</l>
+              <l n="2" met="-+-+-+-+-+">la Fama us alce trenta mil altars,</l>
+              <l n="3" met="-+-+-+-+-+">i en cada boca dels estesos mars</l>
+              <l n="4" met="+-+--+-+-+">un colós, i en Espanya un mauseol,</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+">    i els cignes de la vora del Pactol</l>
+              <l n="6" met="-+-+-+-+-+">se muiren de pepida a milenars</l>
+              <l n="7" met="--+--+-+-+">celebrant vostre nom ab sos cantars,</l>
+              <l n="8" met="-+-+-+-+-+">i cigne vós resteu perfet, tot sol;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+">    Així Déu vos deslliure de mal fat,</l>
+              <l n="10" met="-+-+-+-+-+">de taques la sotana i lo manteu,</l>
+              <l n="11" met="-+-+-+-+-+">de bili-gonorrea los ronyons;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+">    i així arribeu, de simple tonsurat,</l>
+              <l n="13" met="-+-+-+-+-+">a concedir en Roma un jubileu:</l>
+              <l n="14" met="--+--+-+-+">Escriviu-me, siquiera, dos renglons.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (39).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+-+--+-+-+">Oh, tu, insigne poeta català,</l>
+              <l n="2" met="--+--+-+-+">descendent de la casa de Terré</l>
+              <l n="3" met="-+-+-+-+-+">i successor de aquell que sempre bé</l>
+              <l n="4" met="-+-+-+-+-+">lo agut i lo privat comunicà;</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+">    arrima lo xerés carmelità,</l>
+              <l n="6" met="-+--++-+-+">assumpto que a ta ploma no convé;</l>
+              <l n="7" met="-+-+-+-+-+">no olvides a Lluçàs, que ens entreté;</l>
+              <l n="8" met="+--+-+-+-+">mira que enuges al senyor degà:</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+">    còmic escriu, que et brinda lo rubí,</l>
+              <l n="10" met="+--+-+-+-+">oh, victoriós triümfant del cabelló,</l>
+              <l n="11" met="+--+-+-+-+">ja que en Cerdanya pots més que ningú;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+">    les canonades deixa per a mi,</l>
+              <l n="13" met="--+-++-+-+">que, com elles no passen de dobló,</l>
+              <l n="14" met="+--+-+-+-+">sempre que el puc gastar, me ric de tu.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (4).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="--+--+-+-+">Agraciada senyora del cos prim</l>
+              <l n="2" met="-+-+-+-+-+">(així per ell me veja jo enfilat,</l>
+              <l n="3" met="-+-+-+-+-+">com és de mes potències adorat</l>
+              <l n="4" met="-+-+-+-+-+">i com tal sort més que la vida estim),</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+">    trau-me de les tenebres de aquest llim</l>
+              <l n="6" met="-+-+-+-+-+">a on eixes mans me tenen sepultat,</l>
+              <l n="7" met="-+-+-+-+-+">i plenes de bellesa i crueltat</l>
+              <l n="8" met="-+-+-+-+-+">contínuament m'estan donant suplim!</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+">    Si com a esclau meresc tan gran rigor,</l>
+              <l n="10" met="-+-+-+-+-+">com a lleal la llibertat meresc,</l>
+              <l n="11" met="-+-+-+-+-+">puix sols per a rendir-te-la la vull.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+">    Agenollat t'ho està pregant l'Amor;</l>
+              <l n="13" met="--+--+-+-+">obeeix a l'Amor, puix l'obeesc,</l>
+              <l n="14" met="+--++--+-+">que ara és lo temps, mentres la sang nos bull!</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (40).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+">Oh, vós, discret notari afadrinat,</l>
+              <l n="2" met="-+-+-+-+-+">¿quin mal pecat en cobles ara us met?</l>
+              <l n="3" met="-+-+-++--+">¿Pensau que és despedir lletres de vet</l>
+              <l n="4" met="-+-+-+-+-+">tocar de Apol·lo lo instrument daurat?</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+">    !Judicau vós mateix la enemistat</l>
+              <l n="6" met="-+-+-+-+-+">dels versos barallats de aqueix sonet,</l>
+              <l n="7" met="-+-+-+-+-+">que per eixir de la torreta net</l>
+              <l n="8" met="+--+-+-+-+">no poc aquell galant lo us ha estimat!</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+">    Si és justa aquella pròxima, digau:</l>
+              <l n="10" met="--+--+-+-+">¿Com així eclesiàstica la feu,</l>
+              <l n="11" met="-+-+-+-+-+">que hauran mil en lo cànon incidit?</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+-+--+-+-+">    I, entre tantes mudances com tocau</l>
+              <l n="13" met="-+-+-+-+-+">en un subjecte estrany, ¿com no veieu</l>
+              <l n="14" met="--+--+-+-+">en lo vostre que el verd ja està florit?</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (41).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+-">Per aigua anava lo meu bé un cert dia</l>
+              <l n="2" met="-+-+-+-+-+-">i foc ardent per los seus ulls llançava,</l>
+              <l n="3" met="--+--+-+-+-">i en los meus, ab qué atent la contemplava,</l>
+              <l n="4" met="-+-+-+-+-+-">umplir los cànters fàcilment podia.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    Lo raig de l'aigua, que més clar eixia,</l>
+              <l n="6" met="+--+-+-+-+-">com qui li diu regalos murmurava,</l>
+              <l n="7" met="-+-+-+-+-+-">i quan la delicada mà banyava</l>
+              <l n="8" met="-+-+-+-+-+-">la neu que va fonent-se pareixia.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+-+--+-+-+-">    A un extrem arribí tan insufrible,</l>
+              <l n="10" met="-+-+-+-+-+-">i als raigs fogosos de sa bella vista</l>
+              <l n="11" met="-+-+-+-+-+-">tant se'm cremava l'ànima afligida,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    que, per a mitigar lo ardor terrible,</l>
+              <l n="13" met="-+-+-+-+-+-">entrà en un cànter, i restà, la trista,</l>
+              <l n="14" met="-+-+-+-+-+-">en ànima de cànter convertida.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (42).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+-">Per eixos ulls te jur, gentil Madrona,</l>
+              <l n="2" met="--+--+-+-+-">que no veig en los meus cosa que sia</l>
+              <l n="3" met="-+-+-+-+-+-">des de què Amor volgué que et ves un dia</l>
+              <l n="4" met="-+-+-+-+-+-">fertilisar los camps de Barcelona.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    Estaves tan bonica que Pomona</l>
+              <l n="6" met="-+-+-+-+-+-">per los camins floretes espargia,</l>
+              <l n="7" met="-+-+-+-+-+-">solemnisant la molta gallardia</l>
+              <l n="8" met="-+-+-+-+-+-">que el Cel volgué cifrar en ta persona.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+-">    Fins a les seques plantes rebrotaven,</l>
+              <l n="10" met="-+-+-++--+-">i, alegres de mirar coses tan belles,</l>
+              <l n="11" met="-+-+-+-+-+-">les de tos peus, contentes, adoraven.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    Jo, fet un pom de Amor estava entre elles,</l>
+              <l n="13" met="-+-+-+-+-+-">mirant que les que més m'enamoraven</l>
+              <l n="14" met="+--+-+-+-+-">eren de tan bell cos les maravelles.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (43).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="--+--+-+-+">Per sa pròpia senyora, un majordom</l>
+              <l n="2" met="-+-+-+-+-+">estava rematat de amor estrany,</l>
+              <l n="3" met="+--+-+-+-+">quan ab quimeres la mitat de l'any</l>
+              <l n="4" met="+-+--+-+-+">passa, sens oferir-se-li lo com.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+">    Ella, que entén i vol al gentilhom,</l>
+              <l n="6" met="-+-+-+-+-+">procura dar remei a son afany,</l>
+              <l n="7" met="-+-+-+-+-+">mes lo covard, que dubta si és engany,</l>
+              <l n="8" met="-+-+-+-+-+">se glaça i no en la beina·l com ha nom.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="--+-+--+-+">    Deixà'l al fi per nècio al propi instant</l>
+              <l n="10" met="+--+-+-+-+">quan allargava·l morro·l caragol,</l>
+              <l n="11" met="-+-+-+-+-+">vermell com una grana d'empeguit;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+---+">    i jura·l gentilhom li pesà tant</l>
+              <l n="13" met="--+--+-+-+">que se'l troba plorant de sol a sol</l>
+              <l n="14" met="-+-+-+-+-+">i·l té ab caldsfreds i basques cada nit.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (44).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+-">Plantant llorers junt a les cristal·lines</l>
+              <l n="2" met="+--+-+-+-+-">limfes que foren del Pegàs unglades</l>
+              <l n="3" met="-+-+-+-+-+-">estaven una d’estes matinades</l>
+              <l n="4" met="-+-+-+-+-+-">les muses, fetes unes clavellines.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    Véu-les Apol·lo i, com ja les divines</l>
+              <l n="6" met="-+-+-+-+-+-">colors d’aquelles cares delicades</l>
+              <l n="7" met="-+-+-+-+-+-">mostrassen clarament quant fatigades</l>
+              <l n="8" met="-+-+-+-+-+-">restaven de plantar, les pobres nines,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="--+--+-+-+-">    volgué’ls dar entenent que s’ofenia</l>
+              <l n="10" met="--+--+-+-+-">de trobar-les a totes tan distretes</l>
+              <l n="11" met="--+--+-+-+-">dels oficis tocants a ses persones;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    i, per disculpa, li digué Talia:</l>
+              <l n="13" met="-+-+-+-+-+-">«Senyor, són tants los que es fan vui poetes</l>
+              <l n="14" met="-+-+-+-+-+-">que ens falten los llorers per a corones».</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (45).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+-">Poc més de la primera passaria</l>
+              <l n="2" met="+--+-+-+-+-">lo primer quart mitja hora, quan tocava</l>
+              <l n="3" met="-+-+-+-+-+-">dormir sobre un postís a on procurava</l>
+              <l n="4" met="--+--+-+-+-">descansar-me los membres com podia:</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    Mentres aquest repòs me posseïa,</l>
+              <l n="6" met="+--+-+-+-+-">no tenint tot mon gust, me desvetllava</l>
+              <l n="7" met="--+--+-+-+-">i ab tan aspres sanglots se provocava</l>
+              <l n="8" met="--+--+-+-+-">que em vingué a despertar quan més dormia.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    Alcí'm ab tanta fam que bé poguera</l>
+              <l n="10" met="-+-+-+-+-+-">valer-me de això meu com de la pica,</l>
+              <l n="11" met="-+-+-+-+-+-">si acàs lo dejunar durava gaire.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+-+--+-+-+-">    Una mossa trobí, i la badoquera</l>
+              <l n="13" met="-+-+-+-+-+-">de la desventurada era tan xica</l>
+              <l n="14" met="-+-+-+-+-+-">que, sens tocar-li un pèl, la hi fiu en l'aire.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (46).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+---+-">Quan baixes de Montseny, valerós Roca,</l>
+              <l n="2" met="-+-+-+-+-+-">com si una roca de Montseny baixara,</l>
+              <l n="3" met="+--+-+-+-+-">mostres al món ta fortalesa rara,</l>
+              <l n="4" met="+--+-+---+--">i per a tu sa fúria tota és poca.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+--++---+-">    Ninguna de tes bales algú toca</l>
+              <l n="6" met="-+-+-+-+-+-">lo qual no·t veja, si no fuig la cara,</l>
+              <l n="7" met="-+-+-+-+-+-">que ton valor insigne no·s repara</l>
+              <l n="8" met="-+-+---+-+-">tras falsa mata ni traïdora soca.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="--+--+-+-+-">    Tot aquest Principat fas que badalle:</l>
+              <l n="10" met="-+-+--+--+-">qui·t persegueix de son, qui persegueixes</l>
+              <l n="11" met="--+-+--+-+-">ab mortal i fúnebre parassisme.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    Qui tinga sa·l judici, mire i calle,</l>
+              <l n="13" met="-+-+-+-+-+-">o diga't "senyoria"; que ho mereixes</l>
+              <l n="14" met="-+-+-+-+-+-">per lo millor pillard del Cristianisme.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (47).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+-+--+-+-+-">Quan los ulls d'esmeralda, Gràcia mia,</l>
+              <l n="2" met="+--+-+-+-+-">mous al descuit, per dar-me qualque ullada,</l>
+              <l n="3" met="--+--+-+-+-">me fas veure els ulls verds cada vegada,</l>
+              <l n="4" met="-+-+-+-+-+-">i les esteles en lo mig del dia.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    Si tanta és d'eixos ulls la valentia,</l>
+              <l n="6" met="-+-+-+-+-+-">espadatxins que han fet tanta bugada,</l>
+              <l n="7" met="-+-+-+-+-+-">per matadors i gent de vida airada</l>
+              <l n="8" met="-+-+-+-+-+-">posar la mà dessobre se'ls deuria.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    ¡Amansen tant orgull, tanta bravesa!</l>
+              <l n="10" met="-+-+-+-+-+-">¡Desarmen-los, que sa afilada espasa</l>
+              <l n="11" met="+--+-+-+-+--">passa de mida i causa sa arrogància!</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+-">    Prenga'ls lo cor, que és rei en la noblesa,</l>
+              <l n="13" met="-+-+-++--+-">i, com a principal, porte'ls-ne a casa,</l>
+              <l n="14" met="-+-+-+-+-+--">i done'ls per presó sa pròpia estància.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>sonet (48).txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">Que puga tant la força de la usança</l>
+              <l n="2" met="-+-+-+-+-+">que, encara que un, vestit del gran Delfí</l>
+              <l n="3" met="+-+--+-+-+">quan estiga de or sobre espolí</l>
+              <l n="4" met="-+-+-+-+-+-">(si està tallat així com se usa en França)</l>
+              <l n="5" met="-+-+-+-+-+-">    en lloc de dar-nos gust a tots nos cansa!</l>
+              <l n="6" met="--+--+-+-+">I direm moltes voltes de un fadrí,</l>
+              <l n="7" met="-+-+-+-+-+">que a penes no·s coneix si és serafí</l>
+              <l n="8" met="-+-+-+-+-+-">si com tothom no vist, que és curta llança!</l>
+              <l n="9" met="-+-+-+-+-+-">i des que començà lo món fins ara,</l>
+              <l n="10" met="-+-+-+-+-+-">així en ciutat i llocs com en muntanes,</l>
+              <l n="11" met="+-+--+-+-+-">    se ha usat lo ser humil i ser de cera,</l>
+              <l n="12" met="--+--+-+-+-">los que tenen muller de bona cara,</l>
+              <l n="13" met="--+--+---+-">¿per qué no ha d'estar bé lo portar banyes?</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (49).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">Reixa cruel, que la claror divina</l>
+              <l n="2" met="-+-+-+-+-+-">que mos ulls cerquen com a glòria sua</l>
+              <l n="3" met="-+-+-+-+-+-">entre eixa espessa nuvolada tua</l>
+              <l n="4" met="+--+-+-+-+-">cubres i causes ma fatal ruïna!</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    No degué eixir de l’ordinària mina</l>
+              <l n="6" met="+--+-+-+-+">eixa matèria forta, odiosa i crua,</l>
+              <l n="7" met="-+-+-+-+-+-">sinó d’algun volcà per on traspua</l>
+              <l n="8" met="+--+-+-+-+-">la infernal flama a ton miner veïna.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    Però, què dic? Oh reixa generosa!</l>
+              <l n="10" met="-+-+-+-+-+-">En gràcia de mes queixes faç mudança</l>
+              <l n="11" met="-+-+-+-+-+-">i, arrepentit, adoro ta duresa:</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    ja no et vull dir cruel, sinó piadosa,</l>
+              <l n="13" met="--+--+-+-+-">puix tu sola has pogut, en ma venjança,</l>
+              <l n="14" met="+--+-+-+-+-">a la que a mi em té pres, tenir-la presa.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (5).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="--+-+-+--+-">"Aguardau-vos un poc! Tanta prestesa,</l>
+              <l n="2" met="+-+--+-+-+-">no tenint una llegua caminada!</l>
+              <l n="3" met="-+--++-+-+-">Mirau que no és tan llarga la jornada</l>
+              <l n="4" met="--+--+-+-+-">que meresca tenir tanta destresa!</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    Molt greu me sap tingau tal sutilesa,</l>
+              <l n="6" met="+-+--+-+-+-">no estant altra vegada preparada;</l>
+              <l n="7" met="-+-+--+--+-">donau-me temps de fer-ho altra vegada,</l>
+              <l n="8" met="-+-+-+-+-+-">que en ocasions és bona la peresa!"</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+-+--+-+-+-">    Estes queixes donava una donzella</l>
+              <l n="10" met="-+-+-+-+-+-">a un cert amador seu quan la gozava,</l>
+              <l n="11" met="-+--+-+--+-">estant abraçat ab ella un dia.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="--+--+-+-+-">    Respongué lo galant a esta querella:</l>
+              <l n="13" met="-+-+-+-+-+-">"Per cert, senyora mia, jo pensava</l>
+              <l n="14" met="-+-+-+-+-+">que tanta experiència no tenia!"</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (50).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+">Renec, com Déu és Déu, de un petit pler</l>
+              <l n="2" met="-+-+-+-+-+">que m'haja de costar un gros trentí;</l>
+              <l n="3" met="-+-+-+-+-+">no sento tant que em pique un escorpí</l>
+              <l n="4" met="-+-+-+-+-+">com que brivones pillen mon diner.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+">    al que no·m costa res, dic ben voler;</l>
+              <l n="6" met="-+-+-+-+-+">i dic rodonament que és un rossí</l>
+              <l n="7" met="-+-+-+-+-+">lo que per capgirar un faldellí</l>
+              <l n="8" met="-+-+-+-+-+">li giren les botxaques tot primer.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+-+--+-+-+">    Déu mantinga la xina i la salut,</l>
+              <l n="10" met="--+--+-+-+">que qui té molta mosca i sanitat</l>
+              <l n="11" met="-+-+-+-+-+">no pot en esta vida haver més sort;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+">    perquè està vui lo món tan corromput</l>
+              <l n="13" met="-+-+-+-+-+">que, en no portar ardits un desditxat,</l>
+              <l n="14" met="-+-+-+-+-+">li canten De profundis com a mort.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (51).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="--+--+-+-+-">Renunciant les arades i les relles,</l>
+              <l n="2" met="-+-+-+-+-+-">baixà mossén Joan de la muntanya,</l>
+              <l n="3" met="-+-+-+-+-+-">fadrí de gran ventura i poca manya,</l>
+              <l n="4" met="--+--+-+-+-">fiador de casades i donzelles.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    Fet un bou mans, anava sempre ab elles,</l>
+              <l n="6" met="+--+-+-+-+-">i una que presumia de tacanya</l>
+              <l n="7" met="-+-+-+-+-+-">tant se'n jugà, prenent-lo per la banya,</l>
+              <l n="8" met="-+-+-+-+-+-">que la hi clavà, i no gens per les costelles.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    Ferida, i no per burles, la minyona,</l>
+              <l n="10" met="-+-+-+-+-+-">per al remei comares se juntaren:</l>
+              <l n="11" met="-+-+-+-+-+-">qual pren l'alum, qual seda i qual l'agulla;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+-">    mes ningun vol la xica vellacona</l>
+              <l n="13" met="-+-+-+-+-+-">de quants medicaments li proposaren,</l>
+              <l n="14" met="-+-+-+-+-+-">sinó que hi torn la banya com se vulla.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (52).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">Sempre ha tingut lo món per cosa estranya</l>
+              <l n="2" met="--+--+-+-+-">lo posar-se entre dos que molt bé es volen,</l>
+              <l n="3" met="-+-+-+-+-+-">i així queixar-se los poetes solen,</l>
+              <l n="4" met="-+-+-+-+-+-">que per ço·s queixa aquell de la muntanya</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    ab tant extrem que ab aigua dels ulls banya</l>
+              <l n="6" met="-+-+-+-+-+-">la terra, i diu que, quan ab fúria molen</l>
+              <l n="7" met="-+-+-+-+-+-">les moles del molí, les mans li assolen</l>
+              <l n="8" met="-+-+-+-+-+-">al que, posant-se entre les dos, s'enganya;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    però que al doble més és temerari,</l>
+              <l n="10" met="--+--+-+-+-">i, sens dubte, molt més ha de costar-li,</l>
+              <l n="11" met="-+-+-+-+-+-">al que entre dos amants, curiós, se posa.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    I així us suplic deixeu aquest desvari,</l>
+              <l n="13" met="-+-+-+-+-+-">deixant als jóvens a son temps donar-li</l>
+              <l n="14" met="-+-+-+-+-+-">lo deute, puix sabeu que és justa cosa.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>sonet (53).txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+">Si dec als oficials, si a ningú pag,</l>
+              <l n="2" met="--+--+-+-+">si·l sombrero del cap no·m desapeg,</l>
+              <l n="3" met="--+--+-+-+">si no porto diners i sempre bec,</l>
+              <l n="4" met="-+-+-+-+-+">si m'unflo de cotó per no ser flac,</l>
+              <l n="5" met="-+-+-+-+-+">    si quan se fa de nit de tots me amag,</l>
+              <l n="6" met="-+-+-+-+-+">si a l'home més discret lo tinc per llec,</l>
+              <l n="7" met="-+-+-+---+">si oint parlar a tots a ningú crec,</l>
+              <l n="8" met="--+--++--+">si als papers de l'Amor tinc un buirac,</l>
+              <l n="9" met="-+-+-+-+-+">    si porto tres sortiges al dit xic</l>
+              <l n="10" met="-+-+-+-+-+">i al qui les mira tinc per un badoc,</l>
+              <l n="11" met="-+-+-+-+-+">si a la marina pujo sobre un ruc,</l>
+              <l n="12" met="--+--+-+-+">    si tinc males entranyes, si só inic,</l>
+              <l n="13" met="--+--+-+-+">si a la més estirada tinc en poc,</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (54).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+-">Si fósseu majordona de soldada,</l>
+              <l n="2" met="--+--+-+-+-">mossetona de cànter o cambrera,</l>
+              <l n="3" met="-+-+-+-+-+-">abans que se n'anàs la primavera</l>
+              <l n="4" met="--+--+-+-+-">pretendria tenir-vos encambrada;</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    perqué, ab una gandalla almidonada,</l>
+              <l n="6" met="-+-+-+-+-+-">ab un calçat grosser i una gorguera,</l>
+              <l n="7" met="--+-++-+-+-">vos tindria més blana que la cera</l>
+              <l n="8" met="--+--+-+-+-">i us faria plorar ab una albada.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+--+--+-">    Però, com sou de sang pura i sencera</l>
+              <l n="10" met="+--+-+-+-+-">(no com la que jo tinc, de humors gastada),</l>
+              <l n="11" met="+--+-+-+-+-">sols los que són de casta us fan dentera.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+--+--+-">    En suma: me deixau. Trista deixada!</l>
+              <l n="13" met="--+--+-+-+-">I de modo eix desdeny me desespera</l>
+              <l n="14" met="+--+-+-+-+-">que em farà fer en lo aire una gambada.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (55).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="--+--+-+-+-">Si los raigs ab qué a penes me tocàreu</l>
+              <l n="2" met="--+--+-+-+-">de la llum celestial de aqueixa cara,</l>
+              <l n="3" met="-+-+-+-+-+-">perqué mon tendre cor no se abrasara</l>
+              <l n="4" met="--+-+-+--+-">ab tal pressa, senyora, •ls retiràreu,</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    una piadosa crueltat usàreu:</l>
+              <l n="6" met="+--+-+-+-+-">juntament fóreu pròdiga i avara,</l>
+              <l n="7" met="-+-+-+-+-+-">puix, escusant un mal que bé causara,</l>
+              <l n="8" met="--+--+-+-+-">de mil béns i dulçures me privàreu;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+---+-">    quant més que, si mon fat venturós era</l>
+              <l n="10" met="-+-+-+-+-+-">(oh, ídol de mon gust, ingrata amada!)</l>
+              <l n="11" met="-+-+-+-+-+-">que fósseu ma tirana i homicida,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+-+--+-+-+-">    cert, morir per morir, més me valguera</l>
+              <l n="13" met="--+--+-+-+-">que lo foc amorós, no la gelada</l>
+              <l n="14" met="--+--+-+-+-">del desdeny, acabàs ma trista vida.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (56).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">Sola una mija dent que li restava</l>
+              <l n="2" met="-+-+-+-+-+-">de totes les demés a la mia tia,</l>
+              <l n="3" met="-+-+-+-+-+-">ab la qual mil haçanyes emprenia,</l>
+              <l n="4" met="+--+-+---+-">l'altra nit li va càurer, pelant fava.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    Turbà's i dix, molt enujada i brava:</l>
+              <l n="6" met="-+-+-+-+-+-">"En fava tot mon mal cifrat venia,</l>
+              <l n="7" met="-+-+-+-+-+-">tallant des de la flor primera mia</l>
+              <l n="8" met="--+--+-+-+-">a fins esta penyora que em restava".</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    Jo detinguí la risa, i a la vella,</l>
+              <l n="10" met="--+--+-+-+-">consolant-la, diguí que ab les genives</l>
+              <l n="11" met="-+-+-+-+-+-">iguals me pareixia més graciosa,</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+-+-++---+-">    ço és, que em feia més ríurer. Però ella,</l>
+              <l n="13" met="-+-+-+-+-+-">llançant-la alegre entre les flames vives,</l>
+              <l n="14" met="-+-+-+-+-+-">"maleita", dix, "la dent tan enfadosa!"</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (57).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+-+--+-+-+-">Sou, oh Nise, la suma de bellesa</l>
+              <l n="2" met="-+-+-+-+-+-">on, totes juntes, contemplar se poden</l>
+              <l n="3" met="-+-+-+-+-+-">les mostres del vestit que a Flora broden</l>
+              <l n="4" met="+--+-+-+-+-">seda i agulla de Naturalesa:</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+-">    clavell la boca, olor de camuesa;</l>
+              <l n="6" met="-+-+-+-+-+-">als ulls, dos ulls de lliris s’acomoden;</l>
+              <l n="7" met="-+-+-+-+-+-">tot lo demés, ab dolces bandes, roden</l>
+              <l n="8" met="-+-+-+-+-+-">les roses i jasmins, ab sa puresa.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    Puix, ¿què diré de la bellesa rara</l>
+              <l n="10" met="--+--+-+-+-">del jardí d’aqueix pit, que sempre hi neva</l>
+              <l n="11" met="-+-+-+-+-+-">i sempre està cobert de meravelles||</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+-">    No com les altres, que la sort avara</l>
+              <l n="13" met="+--+-+-+-+-">dintre d’un dia la bellesa els lleva:</l>
+              <l n="14" met="--+--+-+-+-">que divines i eternes són aquelles.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (58).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+">Ton aire i ton donaire és tan estrany</l>
+              <l n="2" met="--+--++--+">que no hi ha en aquest lloc home de seny</l>
+              <l n="3" met="-+-+-+-+-+">que a amar ta bizarria no s'empeny,</l>
+              <l n="4" met="-+-+-+-+-+">a bé que tots s'empenyen per son dany;</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+">    perqué tos ulls, fent ganyes, ab engany</l>
+              <l n="6" met="-+--++-+-+">atrauen als qui tracten ab desdeny,</l>
+              <l n="7" met="-+-+-+-+-+">i, sent més blanca i freda que el Montseny,</l>
+              <l n="8" met="--+--++--+">per caçar los pastors tens un parany.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+--+-+-+-+">    No és molt que a mi·m caçasses ab tal giny,</l>
+              <l n="10" met="-+-+-+-+-+">que, si mir ta bellesa, prop o lluny,</l>
+              <l n="11" met="-+-+-+-+-+">la veig més cotoneta que un codony.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+">    Mon cor, sens llibertat, de dol se tiny,</l>
+              <l n="13" met="+-+--+-+-+">i unes llàgrimes llança com lo puny</l>
+              <l n="14" met="-+-+-+-+-+">si no vols dar-me un consonant en "ony".</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (59).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">Tota apressada, la senyora Aurora</l>
+              <l n="2" met="-+-+-+-+-+-">eixia un dia, ab tall de fer-lo alegre,</l>
+              <l n="3" met="+--+-+-+-+-">quan, ab sos peus, los arenals de Segre</l>
+              <l n="4" met="+-+--+-+-+-">més rics feia que l'or la bella Flora.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+-+-+-+-">    Morta d'enveja, la deessa plora;</l>
+              <l n="6" met="+-+--+-+-+-">cubre tot l'horizont de un núvol negre;</l>
+              <l n="7" met="+--+--+--+-">ni aire, ni aucell, ni flor vol que s'alegre</l>
+              <l n="8" met="-+-+-+-+-+-">en tan funesta i desditxada hora.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="+-+--+-+-+-">     Febo, vent a sa amiga tan zelosa,</l>
+              <l n="10" met="-+-+-+-+-+-">travessa arrebossat per no enfadar-la:</l>
+              <l n="11" met="--+--+-+-+-">ni ab un raig solament la Terra toca.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    Ab tot això, està Flora tan graciosa</l>
+              <l n="13" met="--+--+-+-+-">que, la ausència del Sol, pot reparar-la:</l>
+              <l n="14" met="--+--+---+-">ni•s veu falta de llum, molta ni poca.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>sonet (6).txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+-+--+-+-+">Ah, senyor lluminós, ¿a on anau,</l>
+              <l n="2" met="-+-+-+-+-+">seguint aqueixa ingrata que no us creu</l>
+              <l n="3" met="--+--+-+-+">ni vol res escoltar del que dieu,</l>
+              <l n="4" met="-+-+-++--+">sinó que us deixa estar fet un babau||</l>
+              <l n="5" met="+--+-+-+-+">    No es girarà, per més que li digau,</l>
+              <l n="6" met="--+--+-+-+">ni per més requebrets que li llanceu,</l>
+              <l n="7" met="-+-+-+-+-+">encara que digau que sou un déu</l>
+              <l n="8" met="--+--+-+-+">i que tot l'hemisferi il·luminau.</l>
+              <l n="9" met="-+-+-+-+-+">    Si ab dàdives lo cor no li ablaniu,</l>
+              <l n="10" met="--+--+-+-+">tot lo vostre poder no serà prou</l>
+              <l n="11" met="-+-+-+-+-+">per aplacar sa còlera i rigor:</l>
+              <l n="12" met="-+-+-+-+-+">    donau-li alguns trentins, si és que en teniu,</l>
+              <l n="13" met="-+--+-+--+">que, en veure'ls, jo us pag si ella no us ou</l>
+              <l n="14" met="-+-+-+-+-+">i no s'aplica a fer-vos molt favor.</l>
+              <l n="15" met="--+--+---+-">de les dones és tal, en aquesta era,</l>
+              <l n="16" met="-+-+--+--+-">que en vèurer un trentí tornen de cera.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (60).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+--+-+-+-+-">Una amorosa junta, un desposori</l>
+              <l n="2" met="+--+-+-+-+-">(que és pecat fer judici temerari)</l>
+              <l n="3" met="-+-+-+-+-+-">celebre's vui ab crit extraordinari</l>
+              <l n="4" met="--+--+-+-+-">des del Tauro al sagrat i alt Promontori:</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="+--+--+--+-">    Sàpia lo món com dintre un locutori,</l>
+              <l n="6" met="+--+-+-+-+-">fent una reixa ofici de vicari,</l>
+              <l n="7" met="+--+-+-+-+-">trava la mà carnuda de fra Hilari</l>
+              <l n="8" met="+--+-+-+-+-">ab la de sor Mirlada , que és de vori;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="--+--+-+-+-">    i, juntats per a en u, tras del llarg dia</l>
+              <l n="10" met="-+-+-+-+-+-">vingué la nit, i·ls novis se colgaren;</l>
+              <l n="11" met="--+--+-+-+-">mes no junts, que una milla enmig se posa.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    Ab basques cada u en son llit rabia,</l>
+              <l n="13" met="-+-+-+-+-+-">i, al fi, lo matrimoni consumaren</l>
+              <l n="14" met="-+--+--+-+-">somiant los dos una mateixa cosa.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (61).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+-+--+-+-+-">Una xica s'estava aquestos dies</l>
+              <l n="2" met="--+-+-+--+--">escalfant ab un braser, perquè hivern era,</l>
+              <l n="3" met="-+-+--+--+-">arremangada; i de aquesta manera</l>
+              <l n="4" met="--+--+-+-+-">divertia ses grans melancolies;</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="--+--+-+-+-">    les quals eren perqué lo seu Elies</l>
+              <l n="6" met="+-+--+-+-+-">no li havia regat la badoquera,</l>
+              <l n="7" met="--+--+-+-+-">puix, pocs dies havia, ausentat s'era</l>
+              <l n="8" met="--+--+-+-+-">dels seus ulls, que els parà qual Jeremies.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="--+--+-+-+-">    En açò, lo calor féu son ofici,</l>
+              <l n="10" met="-+-+--+--+-">i de tal modo vingué a inquietar-se</l>
+              <l n="11" met="--+--+-+-+-">la xicota, que en res remei trobava.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+-+-+-+-">    Son dit posant-se dins, digué: "Ai, Maurici,</l>
+              <l n="13" met="--+-++-+-+-">qui pogués en tos braços menejar-se!"</l>
+              <l n="14" met="-+-+-+-+-+-">I·ls ulls en blanc tragué, i son dit en bava.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (7).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="+-+--++--+">Ai, ai! Mal hajau vós, dama d’escac!</l>
+              <l n="2" met="+--+-+-+-+">Crec que deveu pensar que só algun llec</l>
+              <l n="3" met="-+-+-+-+-+">i que no m’ha caigut lo groc del bec,</l>
+              <l n="4" met="+--+--+--+">tras que en lo mar d’Amor só estat lo drac.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+">    Ab quantes fletxes porta en son buirac</l>
+              <l n="6" met="+-+--++--+">no traurà de mon cor sols un gemec:</l>
+              <l n="7" met="--+--+-+-+">passà el temps que ab un feix de llenya sec</l>
+              <l n="8" met="-+-+-+-+-+">pujava al sacrifici, com Isac!</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+">    Millor un cent de corbs la cara us pic,</l>
+              <l n="10" met="+--+-+-+-+">que a mi se’m dóna un clau que en vostre emboc</l>
+              <l n="11" met="-+-+-+---+">me guanye marso el joc qualsevol truc;</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="-+-+--+--+">    que, ab tot que jo no só bo ni mal ric,</l>
+              <l n="13" met="-+-+-+-+-+"> quan l’ham enganyador, golós, emboc,</l>
+              <l n="14" met="--+--+-+-+">Amor sap que no em pesca ab tan vil cuc.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>sonet (8).txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+">¡Ai, cap de tal en mi! ¿No só mussol,</l>
+              <l n="2" met="+--+-+-+-+">haja cremat encens i fet més foc</l>
+              <l n="3" met="-+-+-+-+-+">que feren los Egiptes al déu Sol,</l>
+              <l n="4" met="-+-+-+-+-+">    i que haja bavejat com caragol</l>
+              <l n="5" met="-+-+-+-+-+">imaginant en son florit badoc,</l>
+              <l n="6" met="--+--+-+-+">i que, fent-me favors de poc en poc,</l>
+              <l n="7" met="-+-+--+--+">pensara ser volgut únic i sol?</l>
+              <l n="8" met="-+-+-+-+-+">    ¡Benhaja per a sempre un desengany,</l>
+              <l n="9" met="-+-+-+-+-+">que m'ha portat a temps que he conegut</l>
+              <l n="10" met="+--+--+--+">que d'açò no en puc tràurer algun guany!</l>
+              <l n="11" met="+--+--+--+">    I, puix a tal extrem só ja vingut,</l>
+              <l n="12" met="+--+-+---+">antes de no arribar a major dany</l>
+              <l n="13" met="-+-+-+-+-+">estic, de no ser ase, resolut.</l>
+            </lg>
+          </div>
+          <div type="poem" subtype="sonet">
+            <head>
+              <title>sonet (9).txt</title>
+            </head>
+            <lg type="quartet">
+              <l n="1" met="-+-+-+-+-+">Al punt de les tres hores cavalcam</l>
+              <l n="2" met="-+-+-+-+-+">des del cavalcador de aquesta Seu</l>
+              <l n="3" met="-+-+-+-+-+">los que a cavall, ab llobes i manteu,</l>
+              <l n="4" met="-+-+-+-+-+">la cavalcada il·lustre acompanyam.</l>
+            </lg>
+            <lg type="quartet">
+              <l n="5" met="-+-+-+-+-+">    I, cavalcats de dos en dos, guiam,</l>
+              <l n="6" met="--+--+-+-+">saludant de a cavall a molts que, a peu,</l>
+              <l n="7" met="-+-+-+-+-+">cavalquen molt millor que, ab son xipeu,</l>
+              <l n="8" met="-+-+-+-+-+">lo monsenyor que a recebir anam.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="9" met="-+-+-+-+-+-">    Los uns rossí cavalquen; altres, mula;</l>
+              <l n="10" met="--+--+---+-">qui cavalca de franc; qui lloguer paga;</l>
+              <l n="11" met="-+-+-+-+-+-">i·l bon cavalcador cavalca en egua.</l>
+            </lg>
+            <lg type="tercet">
+              <l n="12" met="+--+-+-+-+-">    ¡Merda ab lo cavalcar, si ab tan gran dula</l>
+              <l n="13" met="-+-+-+-+-+-">no hi entra una somera (bella plaga)</l>
+              <l n="14" met="-+-+-+-+-+-">durant la colla de àsens una llegua!</l>
+            </lg>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

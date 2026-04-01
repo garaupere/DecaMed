@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CoVerCat.Deca — Miquel, Bernat (TEI export)</title>
+        <principal>Pere Garau Borràs</principal>
+        <respStmt>
+          <name>Pere Garau Borràs</name>
+          <resp>AiMeRiC (automatic metrical annotation and TEI export)</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>CoVerCat / AiMeRiC</publisher>
+        <idno>AiMeRiC 0.7.1</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>CoVerCat.Deca</title>
+          <idno>CoVerCat.Deca</idno>
+          <author>Pere Garau Borràs</author>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:id="aimeric" type="met" pattern="((\+|\-)+)*">
+        <metSym value="+">stressed syllable</metSym>
+        <metSym value="-">unstressed syllable</metSym>
+      </metDecl>
+    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Bernat Miquel">
+            <persName>
+              <name>Miquel, Bernat</name>
+            </persName>
+            <birth when="1350"/>
+            <death when="1450"/>
+            <idno type="Wikidata">Q85634818</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change>Generated with AiMeRiC version 0.7.1</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="author" xml:id="Bernat Miquel">
+        <head>Miquel, Bernat</head>
+        <div type="book" n="poesies">
+          <head>Poesies</head>
+          <div type="poem">
+            <head>
+              <title>1.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+--+--+"> A Deu primer, qui es causa causant,</l>
+              <l n="2" met="-+-+--+--+-"> tot conprenent e per si 'nconprensible,</l>
+              <l n="3" met="-+-+-+-+-+"> genols ficats, estich lahor donant</l>
+              <l n="4" met="-+-+-+-+-+-"> com ha format rey tant inconvensible,</l>
+              <l n="5" met="-+-+-+-+-+"> sobrepugant tots los qui son mortals</l>
+              <l n="6" met="-+-+-+-+-+-"> de seny, saber, poder e valor tanta,</l>
+              <l n="7" met="-+-+-+-+-+"> e de virtuts qui ditas son morals,</l>
+              <l n="8" met="-+-+-+-+-+-"> que sol pensar l'enteniment m'espanta.</l>
+              <l n="9" met="-+-+--+--+"> Lo septre us veig en ma dreta portar,</l>
+              <l n="10" met="-+-+--+--+-"> e'n l'altre part lo pom d'or qui denota</l>
+              <l n="11" met="-+-+-+-+-+"> lo món, subdit a vós sens contrestar,</l>
+              <l n="12" met="+--++--+-+-"> ab rahó gran, car virtut no·s desvota</l>
+              <l n="13" met="-+-+-+-+-+"> de vós hun punt, avent las cardinals,</l>
+              <l n="14" met="-+-+--+--+-"> honor amant com honor amativa,</l>
+              <l n="15" met="-+-+-+-+-+"> segons descriu esser menys prinsipals</l>
+              <l n="16" met="-+-+--+--+-"> lo Philosof e per vós les diriva.</l>
+              <l n="17" met="+--+--+--+"> L'altre virtut es en vós aperent,</l>
+              <l n="18" met="-+-+-+-+-+-"> senyor molt gran, qui magnitat es dita,</l>
+              <l n="19" met="-+-+--+--+"> si que no·s pot declarar al pressent</l>
+              <l n="20" met="-+-+-+-+-+-"> la gran lahor essent mes que no scrita,</l>
+              <l n="21" met="+--+-+-+-+"> no tement res en tot l'universall,</l>
+              <l n="22" met="-+-+-+-+-+-"> e per ço veigh esser en vós conplida</l>
+              <l n="23" met="-+-+--+--+"> per lo voler del gran Déu supernal,</l>
+              <l n="24" met="-+-+-+-+-+-"> qui'n vostre cors l'a molt ben estabblida.</l>
+              <l n="25" met="-+-+--+--+-"> per los vivens, sens que jens apartada</l>
+              <l n="26" met="-+-+--+--+"> hun sol moment pensar no·s pot ne·s deu</l>
+              <l n="27" met="-+-+-+-+-+-"> que lo bastó no aja monarchia.</l>
+              <l n="28" met="--+--+-+-+"> Mes que Céssar, car vos signant se veu</l>
+              <l n="29" met="-+-++--+-+-"> los animals perdre la senyoria.</l>
+              <l n="30" met="+--+-+-+-+"> Mitga es vist de vós no depertir,</l>
+              <l n="31" met="-+-+-+-+-+-"> ne la virtut qui dita es largessa,</l>
+              <l n="32" met="-+-+-+-+-+"> liberitat qui us fa les mans obrir,</l>
+              <l n="33" met="-+-+--+--+-"> e clar se veu que de vós es enpressa;</l>
+              <l n="34" met="+--+-+-+-+"> vostres vassals estranys e no subdits</l>
+              <l n="35" met="-+-+-+-+-+-"> son libertats en vostre sola vista,</l>
+              <l n="36" met="-+-++--+-+"> e·ls altres reys prenen de vós escrits,</l>
+              <l n="37" met="+--+--+--+-"> donchs tal no·s lig des que vench lo Batista.</l>
+              <l n="38" met="-+-+-+-+-+-"> E qui pensar pot la molt gran altura</l>
+              <l n="39" met="--+-+-+--+"> ne comcebre, scrivint ne de cor,</l>
+              <l n="40" met="-+-+--+--+-"> de vostre cors splicar la natura?</l>
+              <l n="41" met="-+-+--+--+"> Pensant estich cascun jorn e la nit</l>
+              <l n="42" met="-+-+--+--+-"> qui trobarà una sola persona</l>
+              <l n="43" met="-+-+--+--+"> haver en tant elevat l'espirit,</l>
+              <l n="44" met="+--+--+--+-"> e a la fi veig qu'en vós se condona.</l>
+              <l n="45" met="-+-+-+-+-+"> Los mérits grans qui son a mon parer</l>
+              <l n="46" met="-+-+--+--+-"> en vostres fets, e la nova conquesta,</l>
+              <l n="47" met="-+-+--+--+"> mansuetut, giny, art, seny e saber,</l>
+              <l n="48" met="--+-+-+--+-"> e tot quant es de virtuts, en vós resta.</l>
+              <l n="49" met="-+-+-+-+-+"> Los ignorants no·s cansen de dir bé,</l>
+              <l n="50" met="-+-+-+-+-+-"> e als sabents, jutjant, siença manque</l>
+              <l n="51" met="-+-+-+-+-+"> en sol pensar poder disernir bé</l>
+              <l n="52" met="-+-+--+--+-"> la quinta part del que vostro cors tanca.</l>
+              <l n="53" met="-+-+-+-+-+"> Naturalment los quatre alaments</l>
+              <l n="54" met="+--+-+-+-+-"> hobeir veig a vós ab lur conpanya;</l>
+              <l n="55" met="+--+-+-+-+"> vostres subdits se troben molt contents</l>
+              <l n="56" met="-+-+--+--+-"> dient tot jorn que jamés en Espanya,</l>
+              <l n="57" met="+--+-+-+-+"> e'n lo restant del mon, ne 'n altre ley,</l>
+              <l n="58" met="+--++-+--+-"> no·s lig ne·s veu hun senyor tan afable.</l>
+              <l n="59" met="-+-+-+-+-+"> Ho! com pressat deu esser hun tal rey</l>
+              <l n="60" met="+--+-+-+-+-"> qu'a totas jents es vist tan delitable.</l>
+              <l n="61" met="+--+--+--+"> Rey dels regnants, la derrera virtut</l>
+              <l n="62" met="-+-+-+-+-+-"> qui en mon dir se troba no s'absenta</l>
+              <l n="63" met="-+-+-+-+-+"> de vós hun pas sens fer ne atribut:</l>
+              <l n="64" met="+--+-+-+-+-"> bon conversar se mostre e·s presenta.</l>
+              <l n="65" met="+--+--+--+"> E si per cas ha ma lengua faltat</l>
+              <l n="66" met="-+-+--+--+-"> ne'n prosaguir lo mes da vos jaquesca,</l>
+              <l n="67" met="-+-+--+--+-"> ab tot confiu mon voler no u meresca.</l>
+              <l n="68" met="+--+--+--+"> Porta dell cell e del món lo govern,</l>
+              <l n="69" met="-+-+--+--+-"> en vós jo tinch tota ma confiança</l>
+              <l n="70" met="-+-+-+-+-+"> e us prech sovín que sia de l'hinfern</l>
+              <l n="71" met="-+-++--+-+-"> del tot lunyat, puys tal es ma sperança</l>
+              <l n="72" met="-+-+-+-+-+"> De cor e cors, de boca e voler,</l>
+              <l n="73" met="-+-+-+-+-+-"> a vós supplich ma culpa gran remeta</l>
+              <l n="74" met="+--+--+--+"> vostre virtut, si mon pobre saber</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>2.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+--+--+">          Per molt pensar so en un pensament</l>
+              <l n="2" met="-+-+--+--+-">          vengut tan fort que la pensa·m desvia;</l>
+              <l n="3" met="-+-++-+--+-">          per molt pensar so entrat en la via</l>
+              <l n="4" met="-+-+-+-+-+">          dels caminants e per mi no sabent;</l>
+              <l n="5" met="-+-+-+-+-+">          per molt pensar stich fora de tent,</l>
+              <l n="6" met="+--+-+-+-+-">          acostant me de punt en punt al dia;</l>
+              <l n="7" met="-+-+--+--+-">          per molt pensar a la mort consentria,</l>
+              <l n="8" met="+--+-+-+-+">          ffi de tots mals e per mi no tement.</l>
+              <l n="9" met="+--+-+-+-+">          Causa del mal qui·m fa lo sentiment</l>
+              <l n="10" met="-+-+--+--+-">         de mi lunyar e lo bé que avia;</l>
+              <l n="11" met="+--+-+-+-+-">         causa del mal es vostra fisomia</l>
+              <l n="12" met="+--+--+--+">         e·l vostre dir e mostrar aperent;</l>
+              <l n="13" met="+--+-+-+-+">         causa del mal es vostre continent,</l>
+              <l n="14" met="+--+-+-+-+-">         vostre mirar e gran parenseria;</l>
+              <l n="15" met="+--+-+-+-+-">         causa del mal es vostre senyoria</l>
+              <l n="16" met="-+-+-+-+-+">         e, si us voleu, remey a mon turment.</l>
+              <l n="17" met="+--+-+-+-+">         No·s meravell algú si·m vaig perdent,</l>
+              <l n="18" met="-+-+--+--+-">         ne per amar lo sentir si·m cambia;</l>
+              <l n="19" met="+--+-+-+-+-">         no·s meravell, car nunque presumia</l>
+              <l n="20" met="-+-+--+--+">         de vós restar axí mal descontent;</l>
+              <l n="21" met="+--+-+-+-+">         no·s meravell, car mon mereximent,</l>
+              <l n="22" met="-+-+-+-+-+-">         a vós servint, tal dan no merexia;</l>
+              <l n="23" met="+--++--+-+-">         no·s meravell, pux sent que no sentia</l>
+              <l n="24" met="-+-+-+-+-+">         e us veigh hobrar com ha desconaxent.</l>
+              <l n="25" met="-+-+--+--+">         Ma voluntat qui segueix lo pressent</l>
+              <l n="26" met="+--+--+--+-">         ha contrestat al que deu esser guia;</l>
+              <l n="27" met="-+-+-+-+-+-">         ma volentat per lo que discernia</l>
+              <l n="28" met="+--+--+--+">         m’ha subjugat en la pena que sent;</l>
+              <l n="29" met="-+-++--+-+">         ma volentat causa de partiment</l>
+              <l n="30" met="-+-+-+-+-+-">         de mon trist cors, e crech tan fort no sia;</l>
+              <l n="31" met="-+-+--+--+-">         ma volentat tal dolor no sabia</l>
+              <l n="32" met="-+-+--+--+">         al comensar e tostemps mes creixent.</l>
+              <l n="33" met="-+-+--+--+">         No és a mi de trobar me absent</l>
+              <l n="34" met="-+-+-+-+-+-">         de vostre part e aspre companyia;</l>
+              <l n="35" met="-+-+-+-+-+-">         no és a mi, si bé ma fentasia</l>
+              <l n="36" met="+--+-+-+-+">         passa tristor e mall insessantment;</l>
+              <l n="37" met="-+-+--+--+">         no és a mi, car so vostro servent</l>
+              <l n="38" met="-+-+-+-+-+-">         e cativat per vós en vida mia;</l>
+              <l n="39" met="+--+---+-+-">         no es a mi, car partir no·m poria</l>
+              <l n="40" met="-+-+-+-+-+">         de vós hun pas ne hun patit moment.</l>
+              <l n="41" met="+--+-+-+-+">         Prat delitós, pus so naturalment</l>
+              <l n="42" met="+--+--+--+-">         vostre subdit, no parlant ab falsia,</l>
+              <l n="43" met="+--+-+-+-+-">         Prat delitós, ussau de cortessia,</l>
+              <l n="44" met="+--+-+-+-+">         car, si us voleu, no us fall expadient.</l>
+            </lg>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1649 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CoVerCat.Deca — Vinyoles, Narcí­s (TEI export)</title>
+        <principal>Pere Garau Borràs</principal>
+        <respStmt>
+          <name>Pere Garau Borràs</name>
+          <resp>AiMeRiC (automatic metrical annotation and TEI export)</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>CoVerCat / AiMeRiC</publisher>
+        <idno>AiMeRiC 0.7.1</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>CoVerCat.Deca</title>
+          <idno>CoVerCat.Deca</idno>
+          <author>Pere Garau Borràs</author>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:id="aimeric" type="met" pattern="((\+|\-)+)*">
+        <metSym value="+">stressed syllable</metSym>
+        <metSym value="-">unstressed syllable</metSym>
+      </metDecl>
+    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Narcís Vinyoles">
+            <persName>
+              <name>Vinyoles, Narcí­s</name>
+            </persName>
+            <birth when="1442"/>
+            <death when="1517"/>
+            <note>city: València</note>
+            <note>dialect: valencia</note>
+            <idno type="VIAF">216145542704896642224</idno>
+            <idno type="Wikidata">Q610622</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change>Generated with AiMeRiC version 0.7.1</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="author" xml:id="Narcís Vinyoles">
+        <head>Vinyoles, Narcí­s</head>
+        <div type="book" n="poesies">
+          <head>Poemes rao203</head>
+          <div type="poem">
+            <head>
+              <title>1.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">         Alçant los ulls en creu per a mirar-te,</l>
+              <l n="2" met="-+-+-+-+-+-">          caygut lo cap y coronat d’espines,</l>
+              <l n="3" met="-+-+--+--+-">          qual tan cruel poria may contemplar-te</l>
+              <l n="4" met="-+-+-+-+-+-">          que contemplant bé de plorar no·s far-te,</l>
+              <l n="5" met="-+-+-+-+-+-">          vent córrer sanch les tues carns divines?</l>
+              <l n="6" met="-+-+-+-+-+-">          Los ulls tancats, la tua boca closa,</l>
+              <l n="7" met="+--+-+-+-+-">          morta del tot, que ja, Senyor, no·ns parla,</l>
+              <l n="8" met="-+-+-+-+-+-">          a qui no dol tan dolorosa cosa?</l>
+              <l n="9" met="+--+-+-+-+-">          Fels chrestians, qual esperit reposa</l>
+              <l n="10" met="-+-+-+-+-+-">         que tal dolor may cesse de plorar-la?</l>
+              <l n="11" met="-+-+-+-+-+--">         Lo cap beneyt, principi de prudència,</l>
+              <l n="12" met="+--+-+-+-+-">         fins al cervell spines lo travessen;</l>
+              <l n="13" met="-+-+-+-+-+--">         los ulls tancats, finestra de clemència,</l>
+              <l n="14" met="-+-+-+-+-+--">         los cors sens crim, ab molta pasciència,</l>
+              <l n="15" met="-+-+-+---+-">         de sostenir justícia no cessen.</l>
+              <l n="16" met="-+-+-+-+-+-">         Per fortitud estan les mans clavades,</l>
+              <l n="17" met="+--+-+-+-+-">         y per la fe ubertes les corades,</l>
+              <l n="18" met="-+-+-+-+-+-">         per caritat les carns tan açotades,</l>
+              <l n="19" met="-+-+-+-+-+-">         que·ls peccadors habunden d’esperança.</l>
+              <l n="20" met="-+-++--+-+-">         Superbiós, pensa quants l’escarnexen!</l>
+              <l n="21" met="+--++--+-+-">         Envejós mal, guarda·l Senyor com pena!</l>
+              <l n="22" met="-+-+-+-+-+-">         Irós inich, contempla com lo veixen!</l>
+              <l n="23" met="-+-++-+--+-">         O, golater, tasta·l gust de què·l peixen,</l>
+              <l n="24" met="-+-+-+-+-+-">         y ab sa ’margor la tua fam ordena!</l>
+              <l n="25" met="-+-++--+-+-">         Carnal maleyt, mira la cam batuda</l>
+              <l n="26" met="-+-+-+-+-+-">         del Redemptor, tan flaca de dejunis!</l>
+              <l n="27" met="-+-+-+-+-+-">         Per los avars aquella fon venuda;</l>
+              <l n="28" met="-+-+-+-+-+-">         del pereós la culpa gran, remuda</l>
+              <l n="29" met="-+-+-+-+-+-">         diligentment, a força d’infortunis.</l>
+              <l n="30" met="-+-+-+-+-+-">         Semblants peccats com a serpents a mossos,</l>
+              <l n="31" met="-+-+-+-+-+-">         no cessen may mordent de devorar-nos.</l>
+              <l n="32" met="+--+-+-+-+-">         Membres son teus, Senyor, los nostres cossos;</l>
+              <l n="33" met="-+-+-+-+-+-">         Tu·ns has formats los nirvis y los ossos,</l>
+              <l n="34" met="+--+-+-+-+-">         no verament, Senyor, per a damnar-nos.</l>
+              <l n="35" met="+--+-+-+-+-">         Car Tu per tots del cel fins en lo centre</l>
+              <l n="36" met="-+-+-+-+-+-">         volguist venir per traure los sancts pròmens,</l>
+              <l n="37" met="+--+-+-+-+-">         pares antichs, d’aquell maligne ventre</l>
+              <l n="38" met="-+-++-+--+-">         del cors d’infern, hon te prech yo no entre,</l>
+              <l n="39" met="-+-+-+-+-+-">         o, Redemptor, salut de tots los hòmens.</l>
+              <l n="40" met="-+-+-+-+-+-">         Supplich-te, donchs, que mos desigs arregle,</l>
+              <l n="41" met="-+-+-+-+-+-">         perquèvivint jamés prengué sinistre.</l>
+              <l n="42" met="+--+-+-+-+-">         Fes-me, Senyor, anar per aquell regle</l>
+              <l n="43" met="-+-+-+-+-+-">         del teu voler, a ffi que’n aquest setgle</l>
+              <l n="44" met="-+-+-+-+-+-">         de quant es teu yo sia bon ministre.</l>
+              <l n="45" met="+--+--+--+-">         Fes que·l meu cors sia delitós temple</l>
+              <l n="46" met="-+-+-+-+-+-">         on tes llaors cantant se sacrifiquen.</l>
+              <l n="47" met="-+-+--+--+-">         O, sanct Corder figurat per exemple</l>
+              <l n="48" met="+--+-+-+-+-">         Fes que’n lo cel mos senys te glorifiquen.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10a.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">          O, immortal y mort per mos delictes,</l>
+              <l n="2" met="-+-+-+-+-+-">          clavat en creu, pintat de improperis,</l>
+              <l n="3" met="-+-+--+--+-">          joyell immens esmaltat de conflictes!</l>
+              <l n="4" met="+--+-+---+-">          Reb-me, Jhesús, les llàgrimes no fictes,</l>
+              <l n="5" met="+--+-+-+-+-">          Tu, que per mi rebist tants vituperis.</l>
+              <l n="6" met="+--+-+-+-+-">          Reb-me, Senyor, del spirit offerta,</l>
+              <l n="7" met="-+-+--+--+-">          Tu, qui rebist per mi colps y empentes</l>
+              <l n="8" met="-+-+-+-+-+-">          O, guiador y tremontana certa!</l>
+              <l n="9" met="+--+--+--+-">          Porta'm al loch hon ver goig se conçerta,</l>
+              <l n="10" met="-+-+-+-+-+-">         acompanyant les ànimes contentes.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10b.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--+-+-+-+-">          Fruyt divinal collit d’umana planta,</l>
+              <l n="2" met="-+-+-+-+-+-">          florint al món en fresca primavera.</l>
+              <l n="3" met="-+-+-+-+-+-">          O, Fill humil de nostra mare sancta!</l>
+              <l n="4" met="-+-+-+-+-+-">          Venguist al món cubert de nostra manta</l>
+              <l n="5" met="-+-+--+--+-">          per dar a ’quell salut pus verdadera.</l>
+              <l n="6" met="+--+-+-+-+-">          Metge dels mals malignes incurables,</l>
+              <l n="7" met="+--+-+-+-+-">          viu Redemptor de nostra vida morta,</l>
+              <l n="8" met="-+-+-+-+-+-">          clavat estàs pels hòmens detestables,</l>
+              <l n="9" met="-+-+-+-+-+-">          y ab exos claus insignes, ineffables,</l>
+              <l n="10" met="-+-+-+-+-+-">         Tu·ns has ubert de paradís la porta.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10c.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">         Que may sens Tu, Senyor, a Tu no miren</l>
+              <l n="2" met="-+-+-+-+-+-">          los nostres ulls ni·t basten a comprendre.</l>
+              <l n="3" met="-+-+-+-+-+-">          Per Tu, Senyor, los peccadors sospiren:</l>
+              <l n="4" met="-+-+-+-+-+-">          plorant, devots, los pits i·l cor se firen,</l>
+              <l n="5" met="-+-+-+-+-+-">          ab gran dolor, com t’han pogut offendre.</l>
+              <l n="6" met="-+-+-+-+-+-">          perdona·ls mals del qui a Tu s’acosta;</l>
+              <l n="7" met="-+-+-+-+-+-">          si de aquells he fet esmena poca,</l>
+              <l n="8" met="+--+--+--+-">          poch es lo seny que poch vici·l derroca:</l>
+              <l n="9" met="+--+-+-+-+-">         salva·l, Senyor, puix tant’ amor te costa.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10d.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--++--+-+-">       Donchs, Capità, dona·m les armes tues</l>
+              <l n="2" met="-+-++-+--+-">          y ensemps ab mi lleva t’en ma deffensa.</l>
+              <l n="3" met="-+-+-+-+-+-">          Les vives fonts de vera sanch que sues,</l>
+              <l n="4" met="-+-+-+-+-+-">          les tues carns nafrades y tan nues,</l>
+              <l n="5" met="-+-+-+-+-+-">          ab mos peccats fes-ne, Senyor, compensa.</l>
+              <l n="6" met="-+-+--+--+-">          Tu has per mi obrat obres tan altes,</l>
+              <l n="7" met="-+-+-+-+-+-">          que no·s pot fer desfer-se per les mies.</l>
+              <l n="8" met="-+-+-+-+-+-">          Donchs, Jutge just, no sien per mes faltes</l>
+              <l n="9" met="-+-+-+-+-+-">          faltats los rius que·m corren per les galtes,</l>
+              <l n="10" met="-+-+-+-+-+-">         puix no pot ser que piadós no sies.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10e.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">          Y axí, Senyor, tinch ferma la sperança</l>
+              <l n="2" met="-+-+-+-+-+--">          yo, peccador, de gran misericòrdia.</l>
+              <l n="3" met="+--+-+-+-+-">          Grans són mos mals, major ma confiança.</l>
+              <l n="4" met="-+-+-+-+-+-">          Si·l deute és gran, major es la fermança</l>
+              <l n="5" met="-+-++--+-+--">          de Tu, acort do nostra desconcòrdia.</l>
+              <l n="6" met="+--+-+-+-+-">          Vert estandart victoriós, insigne,</l>
+              <l n="7" met="-+-+--+--+-">          dels flachs covarts esforçada bandera,</l>
+              <l n="8" met="-+-+-+-+-+-">          si do mercè, Senyor, so fet indigne,</l>
+              <l n="9" met="-+-+--+--+-">          contemple·t yo en un gest tan benigne,</l>
+              <l n="10" met="-+-+-+-+-+-">         que may do Tu mon cor se desespera.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10f.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--+-+-+-+--">          Fill de peccat y nat de inconstància,</l>
+              <l n="2" met="-+-+-+-+-+--">          nodrit ab llet amarga de malícia,</l>
+              <l n="3" met="+--+-+-+-+--">          nuu sens virtut de vera temperància,</l>
+              <l n="4" met="-+-+-+-+-+--">          tant peccador axí en la infància</l>
+              <l n="5" met="-+-++--+-+--">          com fuy aprés actes en puerícia;</l>
+              <l n="6" met="+--+-+-+-+--">          ja en edat vengut d’adolescència,</l>
+              <l n="7" met="-+-+-+-+-+--">          tan follament lo món prenguí per glòria,</l>
+              <l n="8" met="-+-+-+-+-+--">          que’n joventut havent dels mals ciència</l>
+              <l n="9" met="-+-+-+-+-+--">          y en velledat fallint me la potència,</l>
+              <l n="10" met="+--+-+-+-+--">         may he atés de mos peccats victòria.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10g.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+--+--+-">          Tu·ns has donat, Senyor, ampla carrera,</l>
+              <l n="2" met="+--+-+-+-+-">          plana y egual, sens volta ni girada;</l>
+              <l n="3" met="-+-+-+-+-+-">          a Tu anant qual cego la perdera,</l>
+              <l n="4" met="-+-++-+--+-">          si va de nit, ella ’s tan verdadera,</l>
+              <l n="5" met="-+-+-+-+-+-">          que no·s pot fer portar la may errada;</l>
+              <l n="6" met="-+-++-+--+-">          si·t vol fugir, compren tota la terra</l>
+              <l n="7" met="-+-+-+-+-+-">          en tant que may bastam exir nos d’ella;</l>
+              <l n="8" met="-+-+-+-+-+-">          qui molt girar se vol a part esquerra,</l>
+              <l n="9" met="--+--+-+-+-">          stret cami tant luny de Tu·l desterra,</l>
+              <l n="10" met="-+-+--+--+-">         que·l pren Satan com fa·l llop la ovella.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10h.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">          Serà fet net mon esperit immunde,</l>
+              <l n="2" met="+--+-+-+-+-">          l’ànima y cor y tota ma persona.</l>
+              <l n="3" met="+--+-+-+-+-">          E puix en mi de Tu, Senyor, habunde</l>
+              <l n="4" met="-+-+-+-+-+-">          Lo teu costat d’on sanch e aygua corre,</l>
+              <l n="5" met="-+-+--+--+-">          significant pietat habundosa,</l>
+              <l n="6" met="+--+-+-+-+-">          és lo gran riu d’on nostre bé decorre</l>
+              <l n="7" met="-+-+-+-+-+-">          y·l port segur on l’ànima recorre</l>
+              <l n="8" met="-+-+-+-+-+-">         per obtenir la vida gloriosa,</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10i.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+--+--+-">          Atenyeran aquells goigs mes orelles,</l>
+              <l n="2" met="-+-+-+-+-+-">          que’n Tu de Tu lo teu poder presenta,</l>
+              <l n="3" met="-+-+-+-+-+-">          y contemplant les tues maravelles</l>
+              <l n="4" met="-+-+-+-+-+-">          los meus trists ulls en Tu, spill d’aquelles,</l>
+              <l n="5" met="-+-+--+--+-">          ab l’esperit viuran vida contenta.</l>
+              <l n="6" met="+--+-+-+-+-">          Qual major goig que contemplar y veure</l>
+              <l n="7" met="-+-+-+-+-+-">          la font d’on naix sens mort eternal viure?</l>
+              <l n="8" met="-+-+-+-+-+-">          Qual mes delit que veure lo que·l creure</l>
+              <l n="9" met="-+-+-+-+-+-">          nos ha guanyat y aquell restaurant beure</l>
+              <l n="10" met="-+-+-+-+-+-">         que·ls cechs mortals no basten a descriure?</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10j.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">         Mos mals escrits, en compte del diable,</l>
+              <l n="2" met="+--+-+-+-+-">          damna·ls, Senyor, ab sangonosa tinta;</l>
+              <l n="3" met="-+-+-+-+-+-">          los meus peccats, ma culpa detestable,</l>
+              <l n="4" met="-+-+-+-+-+-">          si m’han portat en vida ’bominable,</l>
+              <l n="5" met="-+-+-+-+-+-">          no fon ni és de creure·t gens distinta,</l>
+              <l n="6" met="+--+-+-+-+-">          ni u serà may, que Tu no vols que u sia.</l>
+              <l n="7" met="-+-+-+-+-+--">          L’esser és teu, no·m resta cosa pròpia;</l>
+              <l n="8" met="-+-+-+-+-+-">          si qualque part yo tinch que sia mia,</l>
+              <l n="9" met="-+-+-+-+-+-">          liberalment voler la·t renuncia,</l>
+              <l n="10" met="-+-+-+-+-+--">         tant, que no·n vull original ni còpia.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10k.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--+-+-+-+-">          Crea·m, Senyor, hun cor de nova pasta,</l>
+              <l n="2" met="+--+-+-+-+-">          blan y humil, contrit y voluntari,</l>
+              <l n="3" met="-+-+--+--+-">          y, si aquell ver penident no y basta,</l>
+              <l n="4" met="+--+-+-+-+-">          taste almenys del bé que·l lladre tasta:</l>
+              <l n="5" met="+--+--+--+-">          veja m’ab Tu en l’alt Monti Calvari.</l>
+              <l n="6" met="-+-++--+-+-">          Clavat en creu sots un mateix supplici,</l>
+              <l n="7" met="-+-+-+-+-+-">          acompanyant misteri tan profunde,</l>
+              <l n="8" met="-+-+-+-+-+-">          si no mereixch haver tal benefici</l>
+              <l n="9" met="-+-+-+-+-+-">          (donar totstemps, Senyor, és ton ofici),</l>
+              <l n="10" met="-+-+--+--+-">         fes, donchs, que’n mi lo teu mèrit habunde.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10l.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--+-+-+-+-">          En aquell jorn amarch de dol y d’ira,</l>
+              <l n="2" met="+--+-+-+-+-">          dia cruel major que tots los dies,</l>
+              <l n="3" met="-+-+-+-+-+-">          veurem lo sol, que huy tant clar nos mira,</l>
+              <l n="4" met="--+--+-+-+-">          y·l cel, que ’ntorn de l’univers se gira,</l>
+              <l n="5" met="-+-+-+-+-+-">          cridar grans crits que piadós no sies.</l>
+              <l n="6" met="-+-+-+-+-+-">          Los elements, los arbres y les plantes,</l>
+              <l n="7" met="-+-+-+-+-+-">          i·ls animals, tots instaran la causa,</l>
+              <l n="8" met="-+-+-+-+-+-">          y Tu, Senyor, mostrant les naffres sanctes,</l>
+              <l n="9" met="-+-+-+-+-+-">          hoint de l’hom clamors y colpes tantes,</l>
+              <l n="10" met="-+-+-+-+-+-">         ab gran vigor lo jutgaràs sens pausa,</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10m.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--+-+-+-+-">       Just sacerdot, ministre sens cautela,</l>
+              <l n="2" met="+--+-+-+-+-">          font de salut y verdadera chrisma,</l>
+              <l n="3" met="+--+-+-+-+-">          l’esperit teu, Senyor, a mi revela,</l>
+              <l n="4" met="-+-+-+-+-+-">          perquè’n lo cel yo sia fet stela</l>
+              <l n="5" met="-+-+-+-+-+-">          on may haurà divisió ni cisma.</l>
+              <l n="6" met="+--+-+-+-+--">          Bàlsem elet y mirra suavíssima,</l>
+              <l n="7" met="+--+-+-+-+-">          viu restaurant de l’ànima smortida,</l>
+              <l n="8" met="-+-+--+--+--">          la tua carn y sanch neta puríssima,</l>
+              <l n="9" met="-+-++--+-+--">          rebé la yo, vera salut sanctíssima,</l>
+              <l n="10" met="+--+-+-+-+-">         fent-se ab Tu ma voluntat unida.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10n.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">          Los meus cinch senys rebelles, flachs y pobres,</l>
+              <l n="2" met="-+-+-+-+-+-">          si obtendran de Tu lo que reclamen,</l>
+              <l n="3" met="-+-+-+-+-+-">          com a elets ministres de tes obres,</l>
+              <l n="4" met="-+-+-+-+-+-">          ensenyaran la lum ab què Tu·ns cobres,</l>
+              <l n="5" met="-+-+-+-+-+-">          d’on nostres vots a ben obrar s’inflamen,</l>
+              <l n="6" met="-+-+--+--+-">          perquè·ls errats a Tu se converteixquen</l>
+              <l n="7" met="-+-++--+-+-">          y, convertits, vinguen a fer esmena</l>
+              <l n="8" met="-+-+-+-+-+-">          de los defalts, y axí tes lahors creixquen</l>
+              <l n="9" met="+--+-+-+-+-">          entre·ls vivents, perquè, Senyor, mereixquen</l>
+              <l n="10" met="-+-+-+-+-+-">         esser per Tu delliures de la pena.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10o.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--+--+--+-">      Cura·m los ulls ab l’engüent o colliri</l>
+              <l n="2" met="-+-+-+-+-+-">          que, per salut, del teu costat emana.</l>
+              <l n="3" met="+--+-+-+-+-">          Dona·m, Senyor, corona de martiri,</l>
+              <l n="4" met="-+-+-+---+-">          de castedat, lo ceptre d’aquell liri</l>
+              <l n="5" met="-+-+--+--+-">          que Tu sols dar a qui bé·l te demana.</l>
+              <l n="6" met="-+-+--+--+-">          La boca, donchs, e los labis me uncta</l>
+              <l n="7" met="-+-+-+-+-+-">          per a cantar lo cant que el cel te canta.</l>
+              <l n="8" met="-+-+--+--+-">          Ma voluntat ab Tu fes la conjuncta</l>
+              <l n="9" met="-+-+-+-+-+-">          perquè·l meu cors y l’ànima deffuncta</l>
+              <l n="10" met="+--+-+-+-+-">         puguen fruir la tua vida sancta.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10p.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--+--+--+-">          qu’és tot mon dir si Tu, Déu, no u escoltes?</l>
+              <l n="2" met="-+-+-+-+-+-">          Tu·ns has creats ab un’ amor tan tendra,</l>
+              <l n="3" met="-+-+-+-+-+-">          que’n nostre cor tan gran virtut engendra,</l>
+              <l n="4" met="-+-+--+--+-">          que·l mèrit poch ateny gràties moltes.</l>
+              <l n="5" met="+--+--+--+-">          En aquest món vivim vida tant noble,</l>
+              <l n="6" met="-+-+-+-+-+-">          l’esser creat, semblant a ta imatge,</l>
+              <l n="7" met="+--+-+-+-+-">          quant al món és, és fet per nostre moble,</l>
+              <l n="8" met="-+-+--+--+-">          y·l paradís, sobre lo primer moble,</l>
+              <l n="9" met="+--+-+-+-+-">         nostre serà en fi d’aquest viatge.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10q.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">       Mos donatius que són, ni mes offertes?</l>
+              <l n="2" met="-+-+-+-+-+-">          Tu és lo do y a Tu donar es propi,</l>
+              <l n="3" met="-+-+-+-+-+-">          o, ver’ amor que nostr’ amor despertes.</l>
+              <l n="4" met="-+-+-+-+-+-">          De Tu speram les esperances certes,</l>
+              <l n="5" met="-+-+-+-+-+-">          que lo restant del món tot és impropi.</l>
+              <l n="6" met="-+-+-+-+-+-">          Tu est lo tot, la part y la cintilla,</l>
+              <l n="7" met="-+-+-+-+-+-">          Tu·l donador, Tu la donada joya,</l>
+              <l n="8" met="-+-+--+--+-">          Tu est lo test y Tu est la postilla,</l>
+              <l n="9" met="-+-+-+-+-+-">          Tu est la font, d’on la salut destilla,</l>
+              <l n="10" met="-+-+-+-+-+-">         que·ns ha salvats de la confusa Troya.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10r.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-++-+--+-">          Senyor immens, Déu meu, no·m desempares,</l>
+              <l n="2" met="+--+-+-+-+-">          mira lo cor contrit qu’a Tu s’enclina.</l>
+              <l n="3" met="-+-+--+--+-">          Tant és mon bé quant Tu, Déu, lo prepares,</l>
+              <l n="4" met="-+-+-+-+-+-">          qui·m pot fer dany si Tu, Senyor, m’enpares,</l>
+              <l n="5" met="+--+-+-+-+-">          fent-me sentir la tua disciplina?</l>
+              <l n="6" met="-+-+-+-+-+-">          Mon cor enterch, si veus que s’amollexca,</l>
+              <l n="7" met="+--+-+-+-+--">          sembra y llavor de la divina gràcia,</l>
+              <l n="8" met="+--+-+-+-+-">          y perquè’n ell, Senyor, aquella creixca,</l>
+              <l n="9" met="-+-+--+--+-">          humilitat en mi may no pereixca,</l>
+              <l n="10" met="-+-+-+-+-+--">         foragitant superbiós’ audàcia.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10s.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">          Sion som tots ab l’aygua del babtisme,</l>
+              <l n="2" met="-+-+--+--+-">          Hierusalem de forts torres murada,</l>
+              <l n="3" met="-+-+--+--+-">          les mans de Déu, per virtut de l’Altisme,</l>
+              <l n="4" met="-+-+-+-+-+-">          son fonament segur sense sophisme</l>
+              <l n="5" met="+--+-+-+-+-">          hon nostra ffe és fort edificada.</l>
+              <l n="6" met="-+-+-+-+-+-">          Los durs combats, ab gran artellaria,</l>
+              <l n="7" met="-+-+---+-+-">          que·ls enemichs de cascun jorn nos donen,</l>
+              <l n="8" met="-+-+-+-+-+-">          si lo voler, obrant, no y consentia,</l>
+              <l n="9" met="-+-+-+-+-+-">          qui fora pres, o, fort defensa mia?</l>
+              <l n="10" met="-+-+-+-+-+-">         Ajuda·ls flachs vençuts que s’abandonen.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>10t.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">          Quant me veuràs apparellat a rebre</l>
+              <l n="2" met="-+-+-+-+-+-">          per mon poder los teus thesors sens compte,</l>
+              <l n="3" met="+--+-+-+-+-">          ans que·l peccat me puixa pus decebre,</l>
+              <l n="4" met="-+-+-+-+-+-">          O, Fill de Deu, fes-me de Tu percebre</l>
+              <l n="5" met="-+-+-+-+-+-">          lo que yo·t deig sens erra de bescompte.</l>
+              <l n="6" met="-+-+-+-+-+-">          Accepta y pren mon sacrifici pobre,</l>
+              <l n="7" met="-+-+-+-+-+-">          yo·l te offir al peu de la Creu sancta,</l>
+              <l n="8" met="-+-+-+-+-+-">          y ab claus d’amor les sanctes portes obre</l>
+              <l n="9" met="-+-+-+-+-+-">          del divinal secret on se descobre</l>
+              <l n="10" met="+--+-+-+-+-">         quant ací baix de Tu la Sgleya canta.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>11.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">          O, pur engast de l’alt carvoncle feta,</l>
+              <l n="2" met="+--+-+-+-+-">          archa de fe de pur setim forjada,</l>
+              <l n="3" met="+--+-+-+-+-">          mirra d’amor vos ha tant conservada</l>
+              <l n="4" met="-+-+--+--+-">          ab vostre Fill, qui us ha deyfficada.</l>
+              <l n="5" met="+--+-+-+-+-">          Mare de tots, aprés d’Ell pus eleta,</l>
+              <l n="6" met="+--+-+-+-+-">          hon permanent fos d’àngels circuhida,</l>
+              <l n="7" met="+--+-+-+-+-">          l’Esperit Sant de vós ha fet lanterna.</l>
+              <l n="8" met="-+-+-+-+-+-">          Puix, donchs, per mi sou tant ab Déu unida,</l>
+              <l n="9" met="-+-+--+--+-">          illuminau l’esperit que s’inferna,</l>
+              <l n="10" met="-+-+-+-+-+-">         perquè’b laors de mi siau servida.</l>
+              <l n="11" met="-+-+-+-+-+-">         Dels cristians la ley es favorida</l>
+              <l n="12" met="-+-+-+-+-+-">         per vós, portant nostra salut eterna.</l>
+              <l n="13" met="-+-+-+-+-+-">         La pietat de Déu qui la governa,</l>
+              <l n="14" met="-+-+-+-+-+-">         si no la let e caritat materna,</l>
+              <l n="15" met="-+-+--+--+-">         que Déu, quant hom, dòlgament ha monyida?</l>
+              <l n="16" met="+--+-+-+-+-">         O, beneyts hulls, mans, braços e mamelles</l>
+              <l n="17" met="-+-+-+-+-+-">         que dignament ver Déu e hom tractaren!</l>
+              <l n="18" met="+--+-+-+-+-">         Vostres cançons li són tostemps novelles;</l>
+              <l n="19" met="+--+-+-+-+-">         tant en lo breç d’amor l’affalegaren,</l>
+              <l n="20" met="-+-++-+--+-">         que may d’Ell «no» senten vostres orelles.</l>
+              <l n="21" met="+--++-+--+-">         L’àngel vos dix: «Ave, flor de donzelles»,</l>
+              <l n="22" met="-+-+-+-+-+-">         al qual parlar los cels s’agenollaren.</l>
+              <l n="23" met="+--+-+-+-+-">         Vós responent «Fiat», vos confessaren</l>
+              <l n="24" met="+--+-+-+-+-">         àngels e trons y·ls ceraffins cantaren</l>
+              <l n="25" met="+--+--+--+-">         càntichs molt bells en sonades molt belles.</l>
+              <l n="26" met="-+-+-+-+-+-">         Súbitament, prenyada gloriosa,</l>
+              <l n="27" met="+--+--+--+-">         Déu vos tramès del cel riques estrenes</l>
+              <l n="28" met="-+-+-+-+-+-">         de dotze stels, que us feren luminosa,</l>
+              <l n="29" met="-+-+-+-+-+-">         tant, que Adam, de les escures penes</l>
+              <l n="30" met="+--+-+-+-+-">         veu claredat dins vós, maravellosa.</l>
+              <l n="31" met="-+-+-+-+-+-">         O, claustra gran de plantes delitosa!</l>
+              <l n="32" met="+--+--+--+-">         D’archs crestallins e d’or fi son les menes,</l>
+              <l n="33" met="-+-+-+-+-+-">         de diamants les claus vostres son plenes</l>
+              <l n="34" met="-+-+-+-+-+-">         e de çaffirs, tan fetes sens esmenes,</l>
+              <l n="35" met="-+-+--+--+-">         que may degú la veu pus sumptuosa.</l>
+              <l n="36" met="-+-+--+--+-">         Jamés ivern los verts arbres despulla</l>
+              <l n="37" met="-+-+-+-+-+-">         ni optunnal tempesta los altera.</l>
+              <l n="38" met="-+-+--+--+-">         Divinitat que dins vós se reculla,</l>
+              <l n="39" met="-+-+-+-+-+-">         fent sant concert, o, divinal cambrera</l>
+              <l n="40" met="-+-+-+-+-+-">         e tan humil, que may en res ergulla!</l>
+              <l n="41" met="+--+-+-+-+-">         Planta de fruyt ab gloriosa fulla,</l>
+              <l n="42" met="-+-+-+-+-+-">         d’amor en Déu encesa gavarrera,</l>
+              <l n="43" met="-+-+-+-+-+-">         perquè lo cel nostre sperit espera,</l>
+              <l n="44" met="-+-+-+-+-+-">         vos sostengués cruel dolor e fera.</l>
+              <l n="45" met="-+-+-+-+-+-">         Tot quant voleu es just que Déu ho vulla.</l>
+              <l n="46" met="-+-+-+-+-+-">         Qui us és donat, lo pa del cel ell tasta.</l>
+              <l n="47" met="+--+-+-+-+-">         Dins qui vós sou gran caritat abunda.</l>
+              <l n="48" met="-+-+-+-+-+-">         Representau la flor de llir, tan casta,</l>
+              <l n="49" met="-+-+--+--+-">         original. De virginitat munda,</l>
+              <l n="50" met="+--+-+-+-+-">         dins puritat vostre çaffir s’engasta.</l>
+              <l n="51" met="+--+-+-+-+-">         Mare d’Aquell que la humana pasta</l>
+              <l n="52" met="-+-+-+-+-+-">         rebé dins vós, ab caritat profunda.</l>
+              <l n="53" met="-+-+---+-+-">         Contemple yo, si·l peccat no·m contrasta,</l>
+              <l n="54" met="-+-+--+--+-">         en paradís vostra cara jocunda,</l>
+              <l n="55" met="-+-++--+-+-">         puix mon pregar, alt en lo cel, no basta.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>12.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">       Pensant en vós, tresor de ma ventura,</l>
+              <l n="2" met="+--+-+-+-+">          plore·l passat ab aygua d’entrenyor;</l>
+              <l n="3" met="-+-+-+-+-+">          pensant en vós, coltell de ma dolor,</l>
+              <l n="4" met="+--+-+-+-+-">          plora·l desig pasant de goig fretura;</l>
+              <l n="5" met="+--+-+-+-+">          plora·l recort y plora·l pensament,</l>
+              <l n="6" met="+--+-+-+-+-">          plora lo cor offès de gran ofensa;</l>
+              <l n="7" met="+--++--+-+-">          plora lo gest, plora la triste pensa,</l>
+              <l n="8" met="-+-+-+-+-+">          plorant absent lo jorn que us fui present.</l>
+              <l n="9" met="+--+-+-+-+-">          Viuda roman la voluntat deserta,</l>
+              <l n="10" met="-+-+--+--+">         vivint en vós lo grat mort per a mi;</l>
+              <l n="11" met="+--+-+-+-+-">         viuda roman l’amor ab què us servi</l>
+              <l n="12" met="+--+-+-+-+-">         viuda roman la fe de dol cuberta;</l>
+              <l n="13" met="+--+-+-+-+">         viuda roman la pena del desig;</l>
+              <l n="14" met="+--+-+-+-+-">         viuda roman ma vida desolada;</l>
+              <l n="15" met="+--+-+-+-+-">         viuda roman la veu desemparada,</l>
+              <l n="16" met="+--+-+-+-+">         vesos cantant hon sols dolor se lig.</l>
+              <l n="17" met="-+-+-+-+-+-">         Sens vós tinch yo la pau per enerniga,</l>
+              <l n="18" met="-+-+-+-+-+">         puix me voleu en tot per enemich;</l>
+              <l n="19" met="-+-+-+-+-+">         sens vós prench yo aquell cruel abrich</l>
+              <l n="20" met="-+-+-+-+-+-">         de soledat que·ls desamats abriga;</l>
+              <l n="21" met="-+-+-+-+-+">         sens vós tinch yo mon sperit amarch;</l>
+              <l n="22" met="-+-+-+-+-+-">         sens vós tinch yo la vida tan amarga,</l>
+              <l n="23" met="-+-+-+-+-+-">         que, si mercè lo terme no m’allarga,</l>
+              <l n="24" met="+--+--+--+">         sens aver fi lo meu plant serà larch.</l>
+              <l n="25" met="-+-+-+-+-+-">         On és lo jorn, on és lo punt y l’ora</l>
+              <l n="26" met="+--+-+-+-+">         on yo perdí los bens de libertat?</l>
+              <l n="27" met="-+-+--+--+">         On és lo laç qu’axí·m té cativat?</l>
+              <l n="28" met="-+-+-+-+-+-">         On és lo mal per qui ma lengua plora?</l>
+              <l n="29" met="-+-+-+-+-+">         On és lo bé que·m fa tant desigar?</l>
+              <l n="30" met="-+-+-+-+-+-">         On és lo engan de tanta conexença?</l>
+              <l n="31" met="-+-+-+-+-+-">         On és lo grat amor y benvolença</l>
+              <l n="32" met="-+-+-+-+-+">         que del pus cert me fa desesperar?</l>
+              <l n="33" met="+--+-+-+-+-">         Lança del cos un' ànima tan trista,</l>
+              <l n="34" met="-+-+--+--+">         o, mort cruel!, y no pene tot sol;</l>
+              <l n="35" met="+--+-+-+-+">         lança·m del món, vaja’n infern si·s vol,</l>
+              <l n="36" met="-+-+-+-+-+-">         pux tanque·ls ulls de tan amarga vista;</l>
+              <l n="37" met="+--+-+-+-+">         obre·m los pits: mostrar s’a·l cor tancat,</l>
+              <l n="38" met="+--+-+-+-+-">         hon escolpit està, com en lo marbre,</l>
+              <l n="39" met="-+-+-+-+-+-">         aquell dolç nom qu’amor collí d’un arbre,</l>
+              <l n="40" met="-+-+-+-+-+">         florint virtuts en rama d’onestat.</l>
+              <l n="41" met="-+-+-+-+-+-">         Absent de vós, lo cor de mi s’absenta</l>
+              <l n="42" met="-+-+-+---+">         per ser present al seu desigat bé;</l>
+              <l n="43" met="-+-+-+-+-+">         absent de vós, ni so stat ni seré,</l>
+              <l n="44" met="-+-+-+-+-+-">         ni so content per fer a vós contenta;</l>
+              <l n="45" met="-+-+-+-+-+">         ans crech serà lo que us he dit tostemps,</l>
+              <l n="46" met="-+-+-+-+-+-">         pux viu so mort, y mort me desempara:</l>
+              <l n="47" met="-+-+-+-+-+-">         dos rius de plor me corren per la cara</l>
+              <l n="48" met="-+-+-+-+-+">         langat per vós d’amor en tals extrems.</l>
+              <l n="49" met="-+-+--+--+-">         En fe d’amor per vós passe tal vida,</l>
+              <l n="50" met="-+-+-+-+-+">         que dels pus trists me feu ser envejós;</l>
+              <l n="51" met="-+-+-+-+-+">         en fe d’amor al terme dolorós</l>
+              <l n="52" met="-+-+-+-+-+-">         yo so atès hon tot recort m’oblida;</l>
+              <l n="53" met="-+-+--+--+">         en fe d’amor seguex l’ús de rahó</l>
+              <l n="54" met="-+-+-+-+-+-">         la voluntat per suspitosa senda;</l>
+              <l n="55" met="-+-+-+-+-+-">         en fe d’amor de mi ha feta venda</l>
+              <l n="56" met="-+-+-+-+-+">         l’enteniment per preu d’un vostre «no».</l>
+              <l n="57" met="-+-+-+-+-+-">         Si és la fam que ’namorades ales</l>
+              <l n="58" met="+--+-+-+-+">         an perseguit, seguint-la fins al cel;</l>
+              <l n="59" met="-+-+-+-+-+">         si és lo golff qu’ab fortunal estel</l>
+              <l n="60" met="+--+-+-+-+-">         he navegat, corrent per ones males;</l>
+              <l n="61" met="-+-+--+--+">         si és estat un volant animal</l>
+              <l n="62" met="-+-+-+-+-+-">         Molt pus lauger que·ls pelegrins en l’ayre;</l>
+              <l n="63" met="-+-+--+--+-">         si és estat lo tro, lamps y desayre</l>
+              <l n="64" met="-+-+-+-+-+">         que m’ha lançat al centre de tot mal,</l>
+              <l n="65" met="+--+-+-+-+-">         Làgremes són los bens que puch atènyer,</l>
+              <l n="66" met="+--+-+-+-+">         làgremes són les leys en què yo crech,</l>
+              <l n="67" met="+--+-+-+-+">         làgremes són senyals, ab què conech</l>
+              <l n="68" met="-+-+-+-+-+-">         que·l bé que us vull a més no u pot estrènyer;</l>
+              <l n="69" met="+--+--+--+">         làgremes són lo dolç, past que·m nodrix:</l>
+              <l n="70" met="-+-+-+-+-+-">         tot altre gust mon apetit desdenya;</l>
+              <l n="71" met="+--+--+--+-">         làgremes són les que ’ncenen la lenya</l>
+              <l n="72" met="-+-+-+-+-+-">         Amor m’ofèn, y no d’amor me clame;</l>
+              <l n="73" met="-+-+--+--+">         amor me té, y no·m vol per catiu;</l>
+              <l n="74" met="-+-+-+-+-+">         amor m’ha pres sens ales en lo niu;</l>
+              <l n="75" met="-+-+-+-+-+-">         amor me fir pels ulls que yo tant ame;</l>
+              <l n="76" met="-+-+-+-+-+">         amor m’ha dat a qui no·m pren per seu;</l>
+              <l n="77" met="-+-+-+---+-">         amor no vol que d’altre voler sia;</l>
+              <l n="78" met="-+-+-+-+-+-">         amor consent que senta nit y dia</l>
+              <l n="79" met="+--+-+-+-+">         un sentiment que no·l sab dir ma veu.</l>
+              <l n="80" met="+--+-+-+-+-">         Va se·n lo jorn, y torna la nit queda,</l>
+              <l n="81" met="+--+-+-+-+">         hon tot treball té loch d’aver descans;</l>
+              <l n="82" met="+--+-+-+-+">         va se·n la nit, hi·l sol alegra·ls plans,</l>
+              <l n="83" met="-+-+-+-+-+-">         hi·ls ocellets cantant en l’arboreda.</l>
+              <l n="84" met="+--+--+--+">         Yo, tostemps trist, donant cert per incert,</l>
+              <l n="85" met="+--+-+-+-+-">         mal agraït, incessantment treballe,</l>
+              <l n="86" met="-+-+-+-+-+-">         plorant la nit los mals que·l dia calle,</l>
+              <l n="87" met="-+-+-+-+-+">         dormint en goig, y en la dolor despert.</l>
+              <l n="88" met="-+-++--+-+-">         Aconortat so ja de quant puch veure,</l>
+              <l n="89" met="-+-+--+--+">         aconortat de tot quant puch oyr,</l>
+              <l n="90" met="-+-+-+-+-+">         aconortat de viure o morir,</l>
+              <l n="91" met="-+-+-+-+-+-">         aconortat molt més del que·s pot creure,</l>
+              <l n="92" met="-+-+-+-+-+">         aconortat de tot lo bé perdut,</l>
+              <l n="93" met="-+-+-+-+-+-">         aconortat que desamor me cobra,</l>
+              <l n="94" met="+--+-+-+-+-">         hoc y a la fi aconortat que s’obra</l>
+              <l n="95" met="-+-+-+-+-+">         lo cor secret ab clau d’ingratitut.</l>
+              <l n="96" met="+--+-+-+-+-">         Aspre comport, comport que no comporta</l>
+              <l n="97" met="-+-+-+-+-+">         los mals presents y vol-los per venir;</l>
+              <l n="98" met="-+-+-+-+-+">         altar hon yo sacrifficant offir</l>
+              <l n="99" met="-+-+-+-+-+-">        los vius desigs ab la sperança morta;</l>
+              <l n="100" met="-+-+--+--+">        amarga font, que de trenta-tres anys</l>
+              <l n="101" met="-+-+-+-+-+-">        m’ha fet tornar al seny dels primers dies,</l>
+              <l n="102" met="-+-+-+-+-+-">        plorant tostemps no sols les penes mies</l>
+              <l n="103" met="+--+-+-+-+">        mas la error de tants perduts afanys.</l>
+              <l n="104" met="+--+--+--+">        Flor d’onestat, de vós naxen los banys</l>
+              <l n="105" met="-+-+-+-+-+-">        curant d’amor diverses malalties,</l>
+              <l n="106" met="+--+-+-+-+-">        mas a mi, trist de tristes fantasies,</l>
+              <l n="107" met="+--+-+-+-+">        m’han donat mal ple d’accidents estranys.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>13.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">        Per ymitar aquella gran reïna</l>
+              <l n="2" met="+--+-+-+-+-">          qu’és aprés Déu del cel la pus honrada,</l>
+              <l n="3" met="-+-+-+-+-+-">          mirant l’espill de virginal doctrina,</l>
+              <l n="4" met="-+-+-+-+-+-">          haveu seguit vós, noble Catherina,</l>
+              <l n="5" met="-+-++--+-+-">          tant com vixqués, vida sanctificada.</l>
+              <l n="6" met="-+-+-+-+-+-">          D’on merexeu, per mèrits tan notoris,</l>
+              <l n="7" met="+--+-+-+-+-">          alt en los cels eternament reviure,</l>
+              <l n="8" met="+--+-+-+-+-">          y en aquests prats, mundans y transitoris,</l>
+              <l n="9" met="-+-+-+-+-+-">          hoir cantant, en sacres auditoris,</l>
+              <l n="10" met="+--++--+-+-">         tantes lahors quant poden mans descriure,</l>
+              <l n="11" met="-+-+-+-+-+-">         puix sou l’esmalt y transparent veritcle</l>
+              <l n="12" met="-+-+-+-+-+-">         que·ns presentau de passió l’article.</l>
+              <l n="13" met="-+-+-+-+-+-">         Set anys aprés que fon vostra naxença,</l>
+              <l n="14" met="+--+-+-+-+-">         fes lo concert de vostre sanct prepòsit,</l>
+              <l n="15" met="-+-+--+--+-">         d’on començàs ab Deu tal conexença</l>
+              <l n="16" met="-+-+-+-+-+-">         y les virtuts vos feren tal valença,</l>
+              <l n="17" met="-+-+-+-+-+-">         que de vés fes a sols Jesús depòsit.</l>
+              <l n="18" met="-+-+-+-+-+-">         Y axí vivint ab Ell tostemps unida,</l>
+              <l n="19" met="+--+-+-+-+-">         feren amor y caritat profunda</l>
+              <l n="20" met="+--+-+-+-+-">         mena dins vós de nova caramida</l>
+              <l n="21" met="+--+---+-+-">         tal, que tirà lo sagrat Pa de vida,</l>
+              <l n="22" met="-+-+--+--+-">         ver Déu y hom, vostra boca jocunda,</l>
+              <l n="23" met="+--+-+-+-+-">         car de les mans del sacerdot insigne</l>
+              <l n="24" met="-+-+-+-+-+-">         levant, sé més dins vós com a pus digne.</l>
+              <l n="25" met="-+-+-+-+-+-">         Humilitat fon la primera pedra</l>
+              <l n="26" met="-+-+--+--+-">         que vos posàs en tan alt ediffici,</l>
+              <l n="27" met="-+-+-+-+-+-">         ab tal virtut, que les virtuts son pedra</l>
+              <l n="28" met="-+-+-+-+-+-">         al crucifix ab més raels que l’edra.</l>
+              <l n="29" met="-+-+-+-+-+-">         Servint, guanyàs tan digne benefici.</l>
+              <l n="30" met="-+-+--+--+-">         Que del seu cap vos prestà la corona</l>
+              <l n="31" met="-+-+-+-+-+-">         y us feu gustar la manna preciosa</l>
+              <l n="32" met="+--+-+-+-+-">         del costat seu, venint-vos en persona</l>
+              <l n="33" met="-+-+-+-+-+-">         lo donatiu y·l Donador que·l dona,</l>
+              <l n="34" met="-+-+-+-+-+-">         lo qual portau per palma gloriosa.</l>
+              <l n="35" met="-+-+-+-+-+-">         D’on merexqués gustar lo past dels àngels,</l>
+              <l n="36" met="+--+-+-+-+-">         en aquest món tractant ab los archàngels.</l>
+              <l n="37" met="-+-+-+-+-+-">         Per a seguir empresa tan honesta,</l>
+              <l n="38" met="-+-+---+-+-">         vos divisàs de color blanch y negre,</l>
+              <l n="39" met="-+-+--+--+-">         a denotar, ab semblant sobrevesta,</l>
+              <l n="40" met="+--+-+-+-+-">         verge constant, haver del cel conquesta</l>
+              <l n="41" met="-+-+-+-+-+-">         ab l’estandart del crucifix alegre.</l>
+              <l n="42" met="-+-+-+-+-+-">         Alegre dich, car mostra que us abraga,</l>
+              <l n="43" met="-+-+-+-+-+-">         y vos ab Ell vixqués tan abraçada,</l>
+              <l n="44" met="-+-+-+-+-+-">         que del peccat mortal, que·l món enllaça,</l>
+              <l n="45" met="--+--+-+-+-">         ni del leo, que tots jorn nos acaça,</l>
+              <l n="46" met="-+-+-+-+-+-">         hagués temor poguésseu ser naffrada,</l>
+              <l n="47" met="-+-+-+-+-+-">         ni may naffrar ni fer-vos un obstacle</l>
+              <l n="48" met="-+-+--+--+-">         pogué, quant fos per Déu fet tabernacle.</l>
+              <l n="49" met="-+-+-+-+-+-">         La puritat en infantea tendra</l>
+              <l n="50" met="-+-+-+-+-+-">         vos arreà de tan grans dons, beneyta,</l>
+              <l n="51" met="-+-+--+--+-">         que l’esperit, dins la corporal cendra,</l>
+              <l n="52" met="+--+-+-+-+-">         no alterat dels mals que·l cor engendra,</l>
+              <l n="53" met="+--++--+-+-">         may consellàs cosa que fos maleyta.</l>
+              <l n="54" met="+--+-+-+-+-">         Ans del sanct do racional dotada,</l>
+              <l n="55" met="+--+-+-+-+-">         dins lo cors chich fon l’ànima tan noble,</l>
+              <l n="56" met="-+-+-+-+-+-">         que de tres anys, si us era demanada</l>
+              <l n="57" met="+--+-+-+-+-">         cosa que fos per los sabuts dubtada,</l>
+              <l n="58" met="+--+-+-+-+-">         dàveu consell plahent a tot lo poble.</l>
+              <l n="59" met="-+-+--+--+-">         Y axí·l devot que per vós se consella,</l>
+              <l n="60" met="+--+--+--+-">         veu de peccat no sent may sa orella.</l>
+              <l n="61" met="-+-+-+-+-+-">         Ab puritat entre·ls mortals fos luna,</l>
+              <l n="62" met="-+-+-+-+-+-">         de vèrgens lum, estela, spill y palma;</l>
+              <l n="63" met="-+-+-+-+-+-">         les set virtuts en vós se feren una,</l>
+              <l n="64" met="+--+-+-+-+-">         y un’ aturàs la roda de fortuna,</l>
+              <l n="65" met="-+-+-+-+-+-">         y·l seu rodar fes aturar en calma.</l>
+              <l n="66" met="-+-+-+---+-">         Desestimant les coses d’aquest setgle,</l>
+              <l n="67" met="-+-+-+-+-+-">         tant estimàs les heretats supernes,</l>
+              <l n="68" met="-+-+--+--+-">         que lo devot que seguex vostre retgle,</l>
+              <l n="69" met="-+-+-+-+-+-">         errar no pot, ni crech que·l desaretgle</l>
+              <l n="70" met="+--+-+-+-+-">         cosa mortal a perdre les eternes,</l>
+              <l n="71" met="+--+-+-+-+-">         ans eternal per vida’n esta vida,</l>
+              <l n="72" met="-+-+--+--+-">         serà del cel la gloria complida.</l>
+              <l n="73" met="-+-+-+-+-+-">         Rebut lo past d’aquella font jordana,</l>
+              <l n="74" met="+--++--+-+-">         qu’entre·ls mortals vera salut destilla,</l>
+              <l n="75" met="-+-+-+-+-+-">         del sanct costat de Jesucrist, que·ns sana,</l>
+              <l n="76" met="-+-+--+--+-">         vixqués huyt anys, que de pasta humana</l>
+              <l n="77" met="-+-+-+-+-+-">         jamés tastar volgués una centilla.</l>
+              <l n="78" met="-+-+-+-+-+-">         Per vostres prechs, Jesús, del cors tan munde,</l>
+              <l n="79" met="-+-++--+-+-">         lo vostre cor lava de tots deffectes,</l>
+              <l n="80" met="-+-+-+---+-">         d’on és degut que tot peccador funde</l>
+              <l n="81" met="-+-+-+-+-+-">         devoció en vós perquè redonde</l>
+              <l n="82" met="+--+-+-+-+-">         àbit algú en fi de tals objectes.</l>
+              <l n="83" met="-+-+-+-+-+-">         Y tinch per cert sou advocada certa</l>
+              <l n="84" met="-+-+-+-+-+-">         de tots aquells que vostr’ amor desperta.</l>
+              <l n="85" met="-+-+---+-+-">         que·l temps passàs en servir Déu y·ls pobres:</l>
+              <l n="86" met="+--++--+-+-">         fes, servint Deu, vida contemplativa,</l>
+              <l n="87" met="-+-+-+-+-+-">         y als pobres seus aquella ver’ activa</l>
+              <l n="88" met="-+-+-+-+-+-">         que·s fa obrant caritatives obres.</l>
+              <l n="89" met="-+-+-+-+-+-">         Hi·l vostre cors, servint si s’alterava,</l>
+              <l n="90" met="-+-+-+-+-+-">         perquè perdés los àbits viciosos,</l>
+              <l n="91" met="+--+-+-+-+-">         quant los vils draps humilitat lavava,</l>
+              <l n="92" met="+--+-+-+-+-">         l’aygua d’aquells, que sangonosa estava,</l>
+              <l n="93" met="-+-+-+-+-+-">         vos la us begués per vins molt saborosos,</l>
+              <l n="94" met="-+-+-+-+-+-">         a denotar que no·s deu may complaure</l>
+              <l n="95" met="-+-+-+-+-+-">         en res lo cors que puxa Déu desplaure.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>14.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--+-+-+-+-">         Tal animal no·s posa may en rama</l>
+              <l n="2" met="-+-+-+-+-+">          hi lla on naix turmenta sense dan;</l>
+              <l n="3" met="-+-+-+-+-+-">          d’onor l’ordim y de virtuts la trama,</l>
+              <l n="4" met="-+-++--+-+-">          en ella ell hun abit vist de fama,</l>
+              <l n="5" met="-+-+-+-+-+">          tan rich y nou, qual nom no·s troba tal.</l>
+              <l n="6" met="+--+--+--+">          fent adormir l’esperit sensual:</l>
+              <l n="7" met="-+-+-+-+-+-">          Brianda, crech, es de tal font la vena,</l>
+              <l n="8" met="-+-+-+-+-+-">          y aquell dins mi, ab voluntat serena,</l>
+              <l n="9" met="+-+--+-+-+">         viu y viura lo terme natural.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>15.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+--+-+--+-">      Un qüern he legit de cobles discretes,</l>
+              <l n="2" met="-+--+-+--+">          fundades en art, en seny e saber,</l>
+              <l n="3" met="-+-+-+-+-+">          dient que los vells són més de voler</l>
+              <l n="4" met="--+-+-+--+-">          y axí m’an mogut, per veure les bones</l>
+              <l n="5" met="-+--+-+--+">          per part dels vellarts, de fer hi coment,</l>
+              <l n="6" met="-+--+-+--+-">          on puixen notar y apendre, les dones,</l>
+              <l n="7" met="-+--+--+-+">          que stan los delits en l’esperiment.</l>
+              <l n="8" met="-+--+-+--+-">          Servexen amor los vells sens defectes,</l>
+              <l n="9" met="--+-+-+--+">         hi no·n volen glòria, ans fugen del fum;</l>
+              <l n="10" met="-+-+-+-+-+">         honrar a qui amen és son bon costum,</l>
+              <l n="11" met="-+-+--+--+-">         Es del philòsoph doctrina vulgada</l>
+              <l n="12" met="-+--+-+--+">         que val més la fi que·l medi que y va:</l>
+              <l n="13" met="+--+-+-+-+-">         donchs, la qui vol esser en tot ben amada,</l>
+              <l n="14" met="-+--+-+--+">         serveixca lo vell, que sab lo que fa.</l>
+              <l n="15" met="-+-+-++--+-">         Amor ab amor se deuen respondre:</l>
+              <l n="16" met="-+-++-+--+">         car hun voler gran ab gran voluntat</l>
+              <l n="17" met="-+--+-+--+-">         se deu satisfer y egual corespondre.</l>
+              <l n="18" met="--+--+-+-+-">         tant mes crema quant es menys verda lenya,</l>
+              <l n="19" met="-+-+-+-+-+-">         La fi de l’amor és esser volguda</l>
+              <l n="20" met="-+--+--+-+">         ensemps ab los medis dels goigs y plahers:</l>
+              <l n="21" met="-+-+-+-+-+">         açò en los jóvens és tot lo revés,</l>
+              <l n="22" met="--+--++--+-">         que, per ajudar, vos dexen cayguda;</l>
+              <l n="23" met="-+-++-+--+-">         soccorren molt poch al temps de fretura,</l>
+              <l n="24" met="-+--+-+--+">         y, en pendre delits, ajuden molt menys.</l>
+              <l n="25" met="+-+-+--+-+">         és l’esperiment a tots quatre senys.</l>
+              <l n="26" met="--+-+-+--+-">         Dexem, donchs, les parts que són y redunden</l>
+              <l n="27" met="-+--+-+--+">         en sola vellea hi no’n lo jovent;</l>
+              <l n="28" met="-+--+-+--+">         vingam-nos a strènyer al punt solament,</l>
+              <l n="29" met="+-+--++--+-">         hon molt més los vells que·ls jòvens abunden.</l>
+              <l n="30" met="--+-+-+--+-">         Hi, venint primer, al fer la requesta,</l>
+              <l n="31" met="--+--++--+-">         hi del desonest fan cosa honesta</l>
+              <l n="32" met="-+--+-+--+">         ab art simulada hi dir molt gentil.</l>
+              <l n="33" met="-+--+-+--+-">         Venint a la pràtica hi orde d’escriure,</l>
+              <l n="34" met="-+--+-+--+-">         per què lo saber consent que conexen,</l>
+              <l n="35" met="-+--+-+--+">         al pendre del grat, lo ver sens engan;</l>
+              <l n="36" met="-+-+-+-+-+">         ans amen molt mes quant més los ne fan.</l>
+              <l n="37" met="-+--+-+--+-">         Hi guarden-se molt, amant, de offendre,</l>
+              <l n="38" met="-+-+-++--+">         fent voltes per hon qui amen està.</l>
+              <l n="39" met="--+--+---+-">         a la honor d’elles, que·ls seus delits pendre.</l>
+              <l n="40" met="-+---+-+-+-">         Si u tracta terçer, tan granment lo paguen,</l>
+              <l n="41" met="-+-+--+--+">         que·l fan, si no u era, secret natural,</l>
+              <l n="42" met="-+-+--+--+-">         hi, de rahons dolçes axí l’afalaguen,</l>
+              <l n="43" met="--+-+-+--+-">         E si, per ventura, atenyen lo cloure,</l>
+              <l n="44" met="-+---++--+">         lo tenen secret dins l’ànima clos;</l>
+              <l n="45" met="-+---++--+-">         ho cullen rosant, sens gotes de ploure;</l>
+              <l n="46" met="-+--+-+--+-">         y après de passat lo punt que delita,</l>
+              <l n="47" met="-+--+-+--+">         los resta·l parlar a pendre delit,</l>
+              <l n="48" met="-+--+-+--+-">         hi nou sentiment après los excita,</l>
+              <l n="49" met="--+-+-+--+-">         Vingam, donchs, per orde a strènyer la causa:</l>
+              <l n="50" met="-+--+--+-+">         la ley de la dona es tostemps mudar;</l>
+              <l n="51" met="-+-++-+--+">         lo vell, per ser vell, la vol compotar</l>
+              <l n="52" met="-+--+-+--+-">         lo pes soferint ab sàvia pausa,</l>
+              <l n="53" met="-+--+--+-+--">         dient ab desfreços los mals que sab d’ella,</l>
+              <l n="54" met="--+-+--+-+">         hi, si se n’enuja, desfà lo y ab art,</l>
+              <l n="55" met="-+-++-+--+-">         que tot lo qu’és fet hi dit descapdella,</l>
+              <l n="56" met="-+--+-+--+">         mostrant qu’és en ver fundada sa part.</l>
+              <l n="57" met="-+--+--+-+-">         No u dich d’aquells vells que son quasi terra,</l>
+              <l n="58" met="-+--+-+--+-">         hi saben regir la pau hi la guerra;</l>
+              <l n="59" met="-+--+-+--+-">         que no·ls soltaria l’entès’ ni l’entendre,</l>
+              <l n="60" met="--+-+-+--+">         ni los venidors passats ni presents.</l>
+              <l n="61" met="--+-+--+-+">         ab lo que declina, y no·l vell estrem:</l>
+              <l n="62" met="-+-+-+-+-+">         axí, fàcilment, crech yo que veurem</l>
+              <l n="63" met="-+--+-+--+-">         a qual d’aquests dos amor més convida,</l>
+              <l n="64" met="-+-++-+--+-">         Als jóvens sols mou la vil cobejança,</l>
+              <l n="65" met="-+-+-+-+-+">         per ser en lo medi del seu viu agent;</l>
+              <l n="66" met="-+-+---+-+">         y axí, ab l’efecte d’aquell moviment,</l>
+              <l n="67" met="-+--+-+--+-">         lo grat hi voler estan en balança.</l>
+              <l n="68" met="-+-++-+--+-">         Axí que, quant mor lo foch o s’apaga,</l>
+              <l n="69" met="-+--+-+--+">         fallint la matèria de hon se nodreix,</l>
+              <l n="70" met="-+-+-++--+-">         defall lo voler, hi sana la plaga;</l>
+              <l n="71" met="-+---++--+-">         Engana·ls après hun creure merèxer</l>
+              <l n="72" met="-+--+-+--+-">        engana·ls l’espill mostrant-los la mostra</l>
+              <l n="73" met="-+--+--+-+-">        engana·ls la fràgil espècia nostra,</l>
+              <l n="74" met="-+-+--+--+-">        Un fi un efecte promou en natura</l>
+              <l n="75" met="-+--+-+--+">        als bous hi als asens, als cans hi ocells:</l>
+              <l n="76" met="-+-++-+--+">        axí que’n son temps cascú de aquells</l>
+              <l n="77" met="-+--+-+--+-">        se mou per refer la sua factura;</l>
+              <l n="78" met="-+-+-++--+-">        aquest moviment no·l volen ni tenen</l>
+              <l n="79" met="-+--+-+--+">        per grat ni amor del seu femení,</l>
+              <l n="80" met="+-+-+-+--+-">        mas, per son instint, los tals delits prenen;</l>
+              <l n="81" met="-+--+-+--+-">        Los jóvens dotats dels dons rahonables,</l>
+              <l n="82" met="--+-+-+--+">        hi no duren pus, les sues amors,</l>
+              <l n="83" met="--+-+-+--+-">        de quant dura·l punt dels punts delitables;</l>
+              <l n="84" met="-+-+-++--+-">        pensant que als àngels son coses annexos;</l>
+              <l n="85" met="-+-++-+--+">        hi tot açò crehen per test verdader.</l>
+              <l n="86" met="-+-+-+-+-+">        y allò edificha del contentament</l>
+              <l n="87" met="-+--+--+-+-">        la gran fortalea d’amor entorrada.</l>
+              <l n="88" met="-+--+--+-+-">        Allí seu segura e inexpuchnable,</l>
+              <l n="89" met="-+--+--+-+-">        que porten bandera d’estol variable,</l>
+              <l n="90" met="-+-+-+-+-+-">        que may per disgrat pot esser diforme;</l>
+              <l n="91" met="-+-++-+--+-">        ans liga tan fort, o neix hi concassa,</l>
+              <l n="92" met="--+-+--+-+">        qu’es inseparable la tal unió;</l>
+              <l n="93" met="-+--+-+--+">        l’objecte requir egual passió.</l>
+              <l n="94" met="-+-+-+-+-+-">        Y ab tal egualtat hi gran consonança</l>
+              <l n="95" met="-+-+--+--+">        adormen tan fort los cinch sentiments,</l>
+              <l n="96" met="+-+-+-+--+-">        car ja són extits d’umor tan umida</l>
+              <l n="97" met="-+--+-+--+">        que puga ni baste a fer destenir</l>
+              <l n="98" met="-+--+-+--+-">        Aquestes rahons estan tan fundades</l>
+              <l n="99" met="-+--+--+-+">        hi són tan estremes del grat çensual,</l>
+              <l n="100" met="-+--+--+-+-">        y·l vell les aprova esperimentades;</l>
+              <l n="101" met="--+--+-+-+">        tanbé·s plau la flor, mas molt més lo fruyt;</l>
+              <l n="102" met="-+--+-+--+">        no fa com la vert que muça les dents;</l>
+              <l n="103" met="-+--+-+--+-">        que l’ull la desiga, y·l gust se·n desperta,</l>
+              <l n="104" met="-+--+--+-+">        de vells o de jòvens, prengam la rahó:</l>
+              <l n="105" met="--+-+--+-+">        o·l grat té corrupte la intençió,</l>
+              <l n="106" met="-+--+--+-+-">        si va pel desorde que·l jove importa,</l>
+              <l n="107" met="-+-+--+--+">        lo jove plau més que no lo vellart;</l>
+              <l n="108" met="+-+-+-+--+-">        mas, volent al grat entrar en la porta,</l>
+              <l n="109" met="-+--+-+--+">        lo vell és d’amar, que sap d’amor l’art.</l>
+              <l n="110" met="-+--+-+--+-">        Juhí natural amor vos exorta;</l>
+              <l n="111" met="-+--+-+--+">        lo ver vos convida, e yo per ma part,</l>
+              <l n="112" met="-+---+-+-+-">        que vos declareu qual va via torta</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>16.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="--+--+-+-+-">          Vos que portas aquella bala rica</l>
+              <l n="2" met="-+-+-+-+-+-">          de rich valer en tot inextimable,</l>
+              <l n="3" met="-+-+--+--+-">          a mi portau, que so bala tan chica,</l>
+              <l n="4" met="-+-+-+-+-+-">          puix que l’Inmens a vós se comunica,</l>
+              <l n="5" met="-+-+---+-+-">          perquè·m passeu per aquell riu fondable</l>
+              <l n="6" met="-+-+--+--+-">          on fos, per Ell, a Ell tan agradable.</l>
+              <l n="7" met="-+-+--+--+-">          passau me, donchs, perquè sol no m’asole</l>
+              <l n="8" met="-+-+-+-+-+-">         podeu granment volar y fer que vole</l>
+              <l n="9" met="+--+--+--+-">         l’esperit meu al çel hon m’aconsole.</l>
+              <l n="10" met="-+-+-+-+-+-">         A vós, castell fundat sobre la penya</l>
+              <l n="11" met="-+-+--+--+-">         de fortitut, qui bastara mirar vos,</l>
+              <l n="12" met="+--+-+-+-+-">         Jhesus tenint per gloriosa ’nsenya,</l>
+              <l n="13" met="-+-+-+-+-+-">         y per penell la dreta ma que us senya,</l>
+              <l n="14" met="-+--+-+--+">         y en defensor a Deu, per defensar vos</l>
+              <l n="15" met="-+-+--+--+-">         dels enemichs, que no puguen entrar vos?</l>
+              <l n="16" met="--+--+-+-+-">         Qui us ofendra tenint vos tal defensa?</l>
+              <l n="17" met="-+-+-+-+-+-">         Qui us pora ’ntrar ab cava tan profunda?</l>
+              <l n="18" met="--+--+-+-+-">         Qui minara los murs de vostra pensa?</l>
+              <l n="19" met="-+-+--+--+-">         Qui pot pensar en res fer vos ofensa?</l>
+              <l n="20" met="-+-+-+-+-+-">         Que sou fundat on fortitut se funda,</l>
+              <l n="21" met="+--+-+-+-+-">         ple del poder d’on tot poder abunda.</l>
+              <l n="22" met="-+-+--+--+-">         Redificant aquell gran edifici</l>
+              <l n="23" met="+-+-++-+-+-">         Que ’dificas quant prengues lo batisme,</l>
+              <l n="24" met="+--+-+-+-+-">         volgues morir prenent per benefici</l>
+              <l n="25" met="-+-+--+--+-">         cruels turments, de vós fent sacrifici,</l>
+              <l n="26" met="-+-+--+--+-">         sacrificant a Deu, Fill de l’Altisme,</l>
+              <l n="27" met="-+-+-+-+-+-">         Donat vos ha tan grans prerogatives,</l>
+              <l n="28" met="+--+-+-+-+-">         gran en lo çel ab grans demostratives,</l>
+              <l n="29" met="+--+-+-+-+-">         gran en lo mon hi gran en les pasives</l>
+              <l n="30" met="+--+--+--+">         aficions tals, que us han fet mereixer</l>
+              <l n="31" met="-+-+-+-+-+-">         O temple nou, o gloriosa sgleya,</l>
+              <l n="32" met="-+-+-+-+-+-">         retaule fresch e digne per miracle,</l>
+              <l n="33" met="-+-+-+-+-+-">         espill molt clar hon clar tot lo mon veya</l>
+              <l n="34" met="+-+-+--+-+-">         dins vos, axi com en los muscles seya</l>
+              <l n="35" met="+--+--+--+-">         Jhesus infant, del Qual fon spectacle</l>
+              <l n="36" met="-+-+-+-+-+-">         lo cos, y lo cor, insigne tabernacle.</l>
+              <l n="37" met="--+-+-+--+-">         Per Ell prengues molt doloros martiri,</l>
+              <l n="38" met="--+--+-+-+-">         per Ell passas la mort tan dolorosa,</l>
+              <l n="39" met="--+-+-+--+-">         per Ell sentis de passio·l cautiri,</l>
+              <l n="40" met="--+--+-+-+-">         per Ell, ençes, fos vos un cremant ciri</l>
+              <l n="41" met="-+-+-+-+-+-">         de ffe y amor, tan gran, tan abundosa,</l>
+              <l n="42" met="-+-+-+-+-+-">         que us fan de sant corona gloriosa.</l>
+              <l n="43" met="+-+-+-+--+-">         James parla l’Inmortal als profetes,</l>
+              <l n="44" met="-+-+-+-+-+-">         angels tanpoch mereixen de tocar lo,</l>
+              <l n="45" met="-+-+-+-+-+-">         ni foren may presones tan perfetes</l>
+              <l n="46" met="-+-+-+-+-+-">         com vos perfet, puix cosses tan secretes</l>
+              <l n="47" met="-+-+--+--+-">         haveu sabut, que us fan digne tractar lo,</l>
+              <l n="48" met="-+-+-+-+-+-">         glorificat, y sobre·l coll portar lo.</l>
+              <l n="49" met="+--++--+-+-">         Braços tan forts james los feu natura,</l>
+              <l n="50" met="+--++--+-+-">         muscles tan alts james los veu presona,</l>
+              <l n="51" met="+-+-+-+--+-">         ulls tan perfets may los tengue creatura,</l>
+              <l n="52" met="+--++-+--+-">         fet inmortal, may lo porta factura,</l>
+              <l n="53" met="-+-+--+--+-">         ni may de rey se lig hon ni rahona</l>
+              <l n="54" met="-+-+-+-+-+-">         que Deu li fes de Si mateix corona.</l>
+              <l n="55" met="+--+-+-+-+-">         Contra l’infern, per la mundana senda</l>
+              <l n="56" met="-+-+--+--+-">         entrant ab Deu, cavaller, en la vegua,</l>
+              <l n="57" met="-+-+-+-+-+-">         vos fon la fe de Jhesucrist la tenda,</l>
+              <l n="58" met="-+-+-+-+-+-">         la sua mort, les faldes y cloenda,</l>
+              <l n="59" met="+--+--+--+-">         lo titol, pom y pal hon se desplegua</l>
+              <l n="60" met="-+-+-+-+-+-">         la santa creu perquè d’Ell se conegua.</l>
+              <l n="61" met="-+-+-+-+-+-">         Essent los claus estaques molt segures,</l>
+              <l n="62" met="-+-+--+--+-">         les cordes fon aquells braços estesos</l>
+              <l n="63" met="-+-+-+-+-+-">         nuades fort ab gotes de sanch pures;</l>
+              <l n="64" met="+--+-+-+-+-">         vostre sperit, armat de tals figures,</l>
+              <l n="65" met="+--+-+-+-+-">         ha conbatut, y·ls enemichs sotmesos</l>
+              <l n="66" met="-+-+-+-+-+-">         y·ls pecadors del riu de mort defesos.</l>
+              <l n="67" met="+--+-+-+-+-">         Gran junyidor, pasau vos la carrera</l>
+              <l n="68" met="-+-+-+-+-+-">         pel rench que naix al mon y al çel termena;</l>
+              <l n="69" met="-+-+-+-+-+-">         haveu portat, la lança de palmera,</l>
+              <l n="70" met="+-+-+-+--+-">         l’elm de Jhesus hi d’El tot la çimera;</l>
+              <l n="71" met="-+-+--+--+-">         l’escut del peu de les cames ordena,</l>
+              <l n="72" met="-+-+-+-+-+-">         cenyint vos tot, un tacle que us defena.</l>
+              <l n="73" met="-+-+-+-+-+-">         Es lo caçot brodat del fruyt y rames</l>
+              <l n="74" met="+--+-+-+-+-">         y de les flos del sant voler que us porta;</l>
+              <l n="75" met="-+-+-+-+-+-">         hi per caval, lo riu entre les cames;</l>
+              <l n="76" met="-+-+-+-+-+-">         los paraments, de caritat les flames;</l>
+              <l n="77" met="-+-+-+-+-+-">         y en rench tan bell, hon Deu tan se deporta,</l>
+              <l n="78" met="-+-+-+-+-+-">         es Ell lo pris, hi vos, lo qui·l s’enporta.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>17.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-++--+-+--">      Per exercir Venus la sua glòria,</l>
+              <l n="2" met="-+-+-+-+-+-">         volgué per Roch Vergonya cautelosa;</l>
+              <l n="3" met="-+-+-+-+-+--">         Cavalls, Desdenys en paga meritòria;</l>
+              <l n="4" met="-+-+-+-+-+-">         Orfils, Esguarts de vista delitosa;</l>
+              <l n="5" met="-+-+-+-+-+-">         per Dama pres Bellea graciosa;</l>
+              <l n="6" met="-+-+-+-+-+--">         y lo seu Rey, seguint d’amor història,</l>
+              <l n="7" met="+--+-+-+-+-">         fon la Honor ab vida perillosa;</l>
+              <l n="8" met="-+-+-+-+-+-">         per fels Peons prengué les Cortesies,</l>
+              <l n="9" met="+--+-+---+-">        Dama gentil, ab ànimo no pobre,</l>
+              <l n="10" met="-+-+-+-+-+-">         portant de vert bandera de sperança,</l>
+              <l n="11" met="-+--+-+--+-">         per nom cridant: «Glòria, glòria cobre</l>
+              <l n="12" met="-+-+-+-+-+-">         la mia gent ab benaventurança!»</l>
+              <l n="13" met="-+-+-+-+-+-">         Lo seu Peó, cortès, ab gran temprança,</l>
+              <l n="14" met="-+-+-+-+-+-">         avant passà, perquè Bellea obre,</l>
+              <l n="15" met="-+-+--+--+-">         en joch d’amor, la primera parança.</l>
+              <l n="16" met="-+-+-+-+-+-">         Prenent hun gest humil per sa defesa,</l>
+              <l n="17" met="-+-+--+--+-">         lo cor ferí d’amorosa scomesa.</l>
+              <l n="18" met="-+-+--+--+-">       Perquè·l renom de Bellea rellua,</l>
+              <l n="19" met="+--+-+-+-+-">         vent que·l Servey gustava Cortesies,</l>
+              <l n="20" met="-+-+-+-+-+-">         ab gran rigor ixqué de casa sua</l>
+              <l n="21" met="-+-+-+-+-+-">         per castigar tant folles fantasies.</l>
+              <l n="22" met="-+-+-+-+-+-">         E, no curant de moltes lloçanies,</l>
+              <l n="23" met="-+-+-+-+-+-">         mirant-se ntorn, com fa lo camp la grua,</l>
+              <l n="24" met="-+-+-+-+-+-">         matà·l Peó que feya valenties.</l>
+              <l n="25" met="-+-+-+-+-+-">         Lo qui enprèn, mirar deu, ans que nprenga</l>
+              <l n="26" met="-+-+-+-+-+-">         perquè la fi del que fa no·l reprenga.</l>
+              <l n="27" met="-+-+-+-+-+-">          Per ben guardar la torra d’omenatge</l>
+              <l n="28" met="-+-+-+-+-+-">         tornà en son loch la graciosa Dama;</l>
+              <l n="29" met="-+-+--+--+-">         que·l Cavaller, majorment de paratge,</l>
+              <l n="30" met="-+-+-+-+-+-">         voler no deu taquar honesta fama.</l>
+              <l n="31" met="-+-+-+-+-+-">         L’anemorat, quant passió l’inflama,</l>
+              <l n="32" met="-+-+-+-+-+-">         no vulla dar als bens d’onor dampnatge;</l>
+              <l n="33" met="-+-+-+-+-+-">         e, si u vol fer, fogint se romp la trama.</l>
+              <l n="34" met="-+-+-+-+-+-">         Perquè quant plou, qui·s cobre de la fulla,</l>
+              <l n="35" met="+--+--+--+-">         crent ser exut, dos vegades se mulla.</l>
+              <l n="36" met="-+-+--+--+-">         La Honestat de qui sol arrear-se</l>
+              <l n="37" met="-+-+-+-+-+-">        Bellea gran, si vol esser divina,</l>
+              <l n="38" met="-+-+-+-+-+-">        lo seu Desdeny tramès, sens oblidar-se,</l>
+              <l n="39" met="-+-+-+-+-+-">        per a tallar del Pensament la mina.</l>
+              <l n="40" met="-+-+-+-+-+-">        Que si aquell de la virtut declina</l>
+              <l n="41" met="-+-+--+--+-">        y no volgués per si may limitar-se,</l>
+              <l n="42" met="-+-+-+-+-+-">        Defensió d’onor lo contramina.</l>
+              <l n="43" met="-+-+-+-+-+-">        Tostemps lo foch cremà per sa natura,</l>
+              <l n="44" met="-+-+-+-+-+-">        mas l’aygua·l fa dançar a sa mesura.</l>
+              <l n="45" met="-+-+-+-+-+-">     Amarch convit cubert de dolça crosta,</l>
+              <l n="46" met="-+-+-+-+-+-">        es lo Leguot, que·ls senys tots afalagua,</l>
+              <l n="47" met="-+-+-+-+-+-">        y affalaguant Bellea, ab grat s’acosta</l>
+              <l n="48" met="-+-+-+-+-+-">        al falç enguan que sots aquell s’amagua.</l>
+              <l n="49" met="-+-+-+-+-+-">        Trahent dels hulls, per dar-li d’amor paga,</l>
+              <l n="50" met="-+-+-+-+-+-">        hun Dolç Esguart’ en loch de la resposta,</l>
+              <l n="51" met="-+-+-+-+-+-">        que li guareix de sos Desdenys la plaga,</l>
+              <l n="52" met="+--+-+-+-+-">        poden los Hulls mirar lo invisible</l>
+              <l n="53" met="-+-+--+--+-">        y turmentar l’esperit impassible.</l>
+              <l n="54" met="-+-+-+-+-+-">         Perquè Lahor los esperits desperta</l>
+              <l n="55" met="-+-+-+-+-+-">        y fa placar Bellea·b cara francha,</l>
+              <l n="56" met="-+-+-+-+-+-">        ab Dolç Esguart, que·l cor ferint acerta,</l>
+              <l n="57" met="-+-+-+-+-+-">        Lahor prengué, en qui sperança tancha;</l>
+              <l n="58" met="-+-+-+-+-+-">        a denotar que a l’amant no mancha,</l>
+              <l n="59" met="+--+-+-+-+-">        en negun temps, la fi d’amor offerta,</l>
+              <l n="60" met="-+-+--+--+-">        si de lahors la font nuncha s’estancha.</l>
+              <l n="61" met="-+-+-+-+-+-">        Que los legots fan dama tan contenta,</l>
+              <l n="62" met="-+-+-+-+-+-">        que·l descontent content se representa.</l>
+              <l n="63" met="-+-+-+-+-+-">          Perquè·ls amants pus clarament coneguen</l>
+              <l n="64" met="-+-+--+--+-">        la Honestat ab quin tento comporta</l>
+              <l n="65" met="-+-+-+-+-+-">        lo Pensament, del qual aquells se seguen,</l>
+              <l n="66" met="-+-+--+--+-">        ab joch cortès los defença la porta,</l>
+              <l n="67" met="-+-+--+--+-">        movent lo Peu hun sol pas per escorta;</l>
+              <l n="68" met="-+-++-+--+-">        los enemichs ses esquadres despleguen</l>
+              <l n="69" met="-+-+-+-+-+-">        d’aquelles vent ja la sperança morta.</l>
+              <l n="70" met="-+-+-+-+-+-">        Discreció cortesament ordena</l>
+              <l n="71" met="+--+--+--+-">        quant lo voler follament desordena.</l>
+              <l n="72" met="-+-+-+-+-+-">     Bellea, vent que Voluntat s’inflama</l>
+              <l n="73" met="+--+-+-+-+-">        contra·l Desdeny prenent sa Cortesia</l>
+              <l n="74" met="-+-+-+-+-+-">        y manaçant la Vergonyosa Fama,</l>
+              <l n="75" met="-+-+-+-+-+-">        per deffensar, ab gràcia·s movia;</l>
+              <l n="76" met="-+-+-+-+-+-">        y, ab son Cavall saltant, se offeria</l>
+              <l n="77" met="-+-+--+--+-">        a batallar contra·l camp de la Dama,</l>
+              <l n="78" met="-+-+-+-+-+-">        que ab esforç Vergonya combatia;</l>
+              <l n="79" met="-+-+-+-+-+-">        Exemple’s cert que may seguex desastre</l>
+              <l n="80" met="-+-+-+-+-+-">        al qui bé sab d’aquell trobar lo rastre.</l>
+              <l n="81" met="-+-+--+--+-">         Vergonya·s l’or on Bellea s’encasta:</l>
+              <l n="82" met="--+-+--+-+-">        per ço·s posa prop d’ella en l’atallaya,</l>
+              <l n="83" met="-+-+-+-+-+-">        abandonant, pus veu que Laguot guasta,</l>
+              <l n="84" met="-+-+-+-+-+-">        l’Estil Cortès, que ya d’espant s’esmaya.</l>
+              <l n="85" met="+--+-+-+-+-">        Car Honestat, qui bé no l’atallaya,</l>
+              <l n="86" met="+--+-+-+-+-">        reb lesió en la presona casta,</l>
+              <l n="87" met="-+-+-+-+-+-">        dexant entrar Legots dintra la naya.</l>
+              <l n="88" met="+--+--+--+-">        Bé stà la por a l’oçell qu’és en vela,</l>
+              <l n="89" met="-+-+-+-+-+-">        puix que·l defén de caure dins la tela.</l>
+              <l n="90" met="-+-+-+-+-+-">        Quant mes no pot, ab un Ultrage mira,</l>
+              <l n="91" met="+--+-+-+-+-">        guarda y deffén Bellea lo seu Moble,</l>
+              <l n="92" met="+--+--+--+-">        y si los seus Laor mou o regira,</l>
+              <l n="93" met="+--++--+-+-">        ella s’està ferma, constant, immoble.</l>
+              <l n="94" met="+--+-+-+-+-">        Donchs, si lo tot es a la part pus noble,</l>
+              <l n="95" met="-+-+-+-+-+-">        y semblarà que fora el carrer tira</l>
+              <l n="96" met="-+-+-+-+-+-">        lo seu Desdeny, segons juhí de poble,</l>
+              <l n="97" met="+--+-+-+-+-">        diu lo discret, quant veu fer cosa estrema:</l>
+              <l n="98" met="-+-+-+-+-+-">        «Bé sab que fa lo qui sa casa crema».</l>
+              <l n="99" met="-+-+-+-+-+-">         Havent perdut Vergonya, qu’és la çima</l>
+              <l n="100" met="-+-+--+--+-">        de Honestat, refragant com lo lliri,</l>
+              <l n="101" met="-+-+-+---+-">        y llima fort que tota viltat llima,</l>
+              <l n="102" met="-+-+--+--+-">        Ultratge·s mou, mes cremant que cautiri,</l>
+              <l n="103" met="+--+-+-+-+-">        contra·l Llegot, donant li tal martiri,</l>
+              <l n="104" met="-+-+-+-+-+-">        que·l falç amarch ab son turment aprima,</l>
+              <l n="105" met="-+-+-+-+-+-">        y del suc dolç fa hun suau colliri.</l>
+              <l n="106" met="-+-+-+-+-+-">        Deffendre·s deu Bellea y ser avara,</l>
+              <l n="107" met="+--++--+-+-">        car tant val més, quant més nos costa cara.</l>
+              <l n="108" met="-+-+--+--+-">         La Reyna, vent que tan mal acompanya</l>
+              <l n="109" met="-+-+--+--+-">        la Voluntat lo Servey que li dexa,</l>
+              <l n="110" met="-+-+-+-+-+-">        hun gran Desdeny tramès, ab vista stranya,</l>
+              <l n="111" met="-+-+--+--+-">        per ultrajar la çelada que veya,</l>
+              <l n="112" met="-+-+-+-+-+-">        e, majorment, perquè pensava y creya</l>
+              <l n="113" met="-+-+-+---+-">        foragitar, ab ell, l’altre companya</l>
+              <l n="114" met="-+-+-+-+-+-">        del Pensament o del Voler que·n feya.</l>
+              <l n="115" met="+--+-+-+-+-">        Quant l’anemich fengex que s’abandona,</l>
+              <l n="116" met="-+-+-+-+-+-">        fugiu també, que l’art ab l’art se dona.</l>
+              <l n="117" met="+--+-+-+-+-">        L’Ultrajós Gest, vent que·l Penser menasçe</l>
+              <l n="118" met="-+-+-+-+-+-">        la Honestat, forçant la fort que·s leve,</l>
+              <l n="119" met="-+-+-+-+-+-">        desliberà voler morir en plaça,</l>
+              <l n="120" met="+--+-+-+-+-">        ans que d’Onor mal Pensament s’ençeve;</l>
+              <l n="121" met="-+-+--+--+-">        donant rahó que, tostemps que se lleve</l>
+              <l n="122" met="-+-+-+-+-+-">        algun falç crim, remoure no la faça,</l>
+              <l n="123" met="-+-+-+-+-+-">        puix veritat de culpa la relleve.</l>
+              <l n="124" met="+--+-+-+-+-">        Diu lo refrany: «Qui sa lo dit se lliga,</l>
+              <l n="125" met="-+-+--+--+-">        puix mal no té, sanament lo deslliga».</l>
+              <l n="126" met="-+-+--+--+-">        L’autoritat real nunque·s deu moure,</l>
+              <l n="127" met="-+-+-+-+-+-">        sinó per cas molt gran y necessari:</l>
+              <l n="128" met="-+-+-+-+-+-">        axí Honor se desliberà encloure,</l>
+              <l n="129" met="+--+-+-+-+-">        Desdenyant molt l’intent de l’adversari.</l>
+              <l n="130" met="-+-+--+--+-">        De tal servir aquest és lo salari,</l>
+              <l n="131" met="+--+-+-+-+-">        car lo Cortés Estil poria noure</l>
+              <l n="132" met="-+-+-+-+-+-">        en tal trespàs, y ser-li molt contrari.</l>
+              <l n="133" met="-+-+-+-+-+-">        En joch estret, la cortesia cessa</l>
+              <l n="134" met="-+-+-+-+-+-">        la gravitat y pompa, en la pressa.</l>
+              <l n="135" met="-+-+-+-+-+-">         Lo Cortesà que té la bossa flacha,</l>
+              <l n="136" met="-+-+---+-+-">        lo donatiu en nengun temps rebuja,</l>
+              <l n="137" met="-+-+-+-+-+-">        o, si u ha fet, tostemps lo cor li’n racha</l>
+              <l n="138" met="-+-+-+-+-+-">        per l’apetit, qu’és sech y vol la pluja.</l>
+              <l n="139" met="-+-+-+-+-+-">        Y axí, tantost lo pren, que no li fuja,</l>
+              <l n="140" met="-+-+--+--+-">        per fer castell de sa xica barracha;</l>
+              <l n="141" met="-+-+-+-+-+-">        mas quant li fall, mes agrament s’anuja.</l>
+              <l n="142" met="-+-+-+-+-+-">        Qui pren, cové que’n lo tornar ell pense,</l>
+              <l n="143" met="+--+-+-+-+-">        car, forçant grat, es força que u compense.</l>
+              <l n="144" met="-+-+-+-+-+-">         La Dama diu, cantant ab veu distincta:</l>
+              <l n="145" met="+--+--+--+-">        «Vetla, Honor!» mirant fasen la guarda</l>
+              <l n="146" met="-+-+-+-+-+-">        los Hulls; legint d’amor vermella tinta</l>
+              <l n="147" met="-+-+-+-+-+-">        desperts vallant, que l’ora par ja tarda,</l>
+              <l n="148" met="--+-+--+-+-">        talleyant-sè, car ialayant se guarde</l>
+              <l n="149" met="-+-+-+-+-+-">        Bellea gran, senyint se de tal cinta,</l>
+              <l n="150" met="-+-+-+-+-+-">        que puga star segura’n la reguarde.</l>
+              <l n="151" met="-+-+-+-+-+-">        Aquest combat se venç de tal manera,</l>
+              <l n="152" met="-+-+-+-+-+-">        que·l vençedor fuig i·l vençut spera.</l>
+              <l n="153" met="-+-+-+-+-+-">         Principiant Desig en son effecte,</l>
+              <l n="154" met="-+-+-+-+-+-">        vengué al loch on Voluntat solia</l>
+              <l n="155" met="-+-+-+-+-+-">        liberta star, perquè per camí recte</l>
+              <l n="156" met="-+-+-+-+-+-">        tirar pogués on la Bellea·l guia;</l>
+              <l n="157" met="-+-+-+-+-+-">        la qual, ab lum de gràcia·s metia</l>
+              <l n="158" met="-+-+-+-+-+-">        en lo terç grau del Delitós Aspecte</l>
+              <l n="159" met="-+-+--+--+-">        de la Honor, que’n perill concistia.</l>
+              <l n="160" met="-+-+--+--+-">        Bellea deu de virtuts esmaltar-se,</l>
+              <l n="161" met="+--+--+--+-">        si en lo món de tots vol adorar-se.</l>
+              <l n="162" met="-+-+-+-+-+-">         Portant esforç Bellea per ensenya</l>
+              <l n="163" met="-+-+--+--+-">        per castigar los Serveys enganosos,</l>
+              <l n="164" met="+--+--+--+-">        mès-se davant lo Desdeny que desdenya:</l>
+              <l n="165" met="+--+-+-+-+-">        pert lo d’Onor los grats cubdiciosos,</l>
+              <l n="166" met="+--+-+-+-+-">        car los combats d’amor, quan graciosos</l>
+              <l n="167" met="-+-+-+-+-+-">        que prest no do als actes delitosos?</l>
+              <l n="168" met="-+-+-+-+-+-">        Mes val hun no de la persona casta</l>
+              <l n="169" met="-+-+-+---+-">        que quant lo sí del vici donar basta.</l>
+              <l n="170" met="-+-+-+-+-+-">         Lo Pensament, que·l Dolç Esguart acaça,</l>
+              <l n="171" met="-+-+-+-+-+-">        en contr aquell metent-se’n so de brega,</l>
+              <l n="172" met="-+-+-+-+-+-">        fon pres y mort, perquè pus mal no faça</l>
+              <l n="173" met="-+-+--+--+-">        ni faça fer a la Voluntat cega;</l>
+              <l n="174" met="-+-+--+--+-">        que tant s’empeny quant ansia la nsega,</l>
+              <l n="175" met="-+-+-+-+-+-">        que·ls bens d’Onor enfrasca y embarasça,</l>
+              <l n="176" met="-+-+-+-+-+-">        y·ls espirits lavant-li-lo offega.</l>
+              <l n="177" met="-+-+-+-+-+-">        Honor viu tant quant Voluntat comporta;</l>
+              <l n="178" met="-+-++--+-+-">        de bens y mals sols ella és la porta.</l>
+              <l n="179" met="-+-+-+-+-+-">         La Honestat ab tals paraules forma</l>
+              <l n="180" met="-+-+-+-+-+-">        sa gran clamor, cridant: «O, Venus alta!</l>
+              <l n="181" met="-+-+-+-+-+-">        Puix ta virtud la mia no refforma</l>
+              <l n="182" met="-+-+---+-+-">        y·l teu socors en aquest punt me falta,</l>
+              <l n="183" met="-+-+-+-+-+-">        lo meu poder Valer lo desesmalta;</l>
+              <l n="184" met="-+-+-+-+-+-">        y vist que·l teu ab mi ya no·s conforma,</l>
+              <l n="185" met="-+-+-+---+-">        fugint quant pot la mia Virtut salta».</l>
+              <l n="186" met="-+-+--+--+-">        Si tals espants als Reys prou no convenen,</l>
+              <l n="187" met="-+-+-+-+-+-">        son naturals, y·l seu esser sostenen.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>18.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="--+-+--+-+-">          Vos sou, quant yo parle, la veu que rahona,</l>
+              <l n="2" met="-+-++--+-+-">          si us loa mon dir, virtut os corona,</l>
+              <l n="3" met="-+-++-+--+-">          y ab vostre bell nom honor se blasona.</l>
+              <l n="4" met="+-+-+-+--+-">          Quant vos navegau, la mar esta en calma;</l>
+              <l n="5" met="--+--+-+-+-">          del fenix, lo lit hon mort lo renova;</l>
+              <l n="6" met="+--+--+--+-">          vos sou pur examen de nostres cauteles</l>
+              <l n="7" met="-+-+-+---+-">         a tots los que vos miren plorar y riure:</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>2.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--+-+-+-+-">        Bell papagay ab penes d’esperança,</l>
+              <l n="2" met="+--+-+-+-+-">          pago smaltat de celsitut insigne,</l>
+              <l n="3" met="-+-+-+-+-+-">          ffalcó gentil ab ales de temprança,</l>
+              <l n="4" met="+--+--+--+-">          corb revestit de fe sinse mudança,</l>
+              <l n="5" met="-+-+-+-+-+-">          leó d’onor, coloma molt benigne,</l>
+              <l n="6" met="-+-+-+-+-+-">          rebeu dels dos aquest present de fama</l>
+              <l n="7" met="+--+-+-+-+-">          y de la hu la gran amor profunda</l>
+              <l n="8" met="-+-+-+-+-+-">          d’on es exit l’ordim tot y la trama</l>
+              <l n="9" met="-+-+-+-+-+-">          d’aquest procés, lo qui per tots reclama</l>
+              <l n="10" met="+--+-+-+-+-">         vostre juhí, hon veritat se funda:</l>
+              <l n="11" met="-+-+-+-+-+-">         lo premi gran que·l guanyador espera</l>
+              <l n="12" met="-+-+--+--+-">         es sots l’amor de vós, noble Corbera.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>3.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">        Del zodiach, on són los dotze signes,</l>
+              <l n="2" met="-+-+-+-+-+-">          daurats platons de la correga bella,</l>
+              <l n="3" met="+--+-+-+-+-">          sant gloriós, insigne dels insignes,</l>
+              <l n="4" met="-+-+-+-+-+-">          les mans de Déu ab mostres més que dignes</l>
+              <l n="5" met="-+-+--+--+-">          mèritament vos han feta civella,</l>
+              <l n="6" met="-+-+-+-+-+-">          d’on Ell és cap per nova maravella,</l>
+              <l n="7" met="+--+-+-+-+-">          planta de goig en l’ort, divinal edra</l>
+              <l n="8" met="-+-+-+-+-+-">          ab mil raels de ffe per Ell filada,</l>
+              <l n="9" met="-+-+-+-+-+-">          del nom de Crist una scolpida pedra,</l>
+              <l n="10" met="+--+-+-+-+-">         font de virtuts tan gran, que per vós medra</l>
+              <l n="11" met="-+-+-+-+-+-">         lo desmedrat mirant vivificada</l>
+              <l n="12" met="-+-+-+-+-+-">         la palma’n vós, que’n vós floreix granada.</l>
+              <l n="13" met="+--++-+--+-">         Vós, cavaller, portas Déu per divissa,</l>
+              <l n="14" met="-+-+-+-+-+-">         del Fil, Jhesús crucificat, l'empresa,</l>
+              <l n="15" met="-+-+-+-+-+-">         la sua sanch, vestida per camisa.</l>
+              <l n="16" met="-+-++-+--+-">         Ab preu tan gran pagues la mortal cisa,</l>
+              <l n="17" met="+--+--+--+-">         ver penident tenint vera promesa.</l>
+              <l n="18" met="+--+-+-+-+-">         L’ànima’m foch de ver’amor encesa,</l>
+              <l n="19" met="-+-+--+--+-">         vos griu portàs, aquell gran Alexandre,</l>
+              <l n="20" met="+--+--+--+-">         l’increat Sol que vem sol en vós pondre.</l>
+              <l n="21" met="-+-+-+-+-+-">         Morint per Ell, pogués en Ell romandre</l>
+              <l n="22" met="-+-+-+-+-+-">         enamorat com d’Ero fon Leandre.</l>
+              <l n="23" met="-+-+-+-+-+-">         Si vos l’oiu y li podeu respondre,</l>
+              <l n="24" met="-+-+-+-+-+-">         qui pot, loant, de vós lahós compondre?</l>
+              <l n="25" met="+--+-+-+-+-">         Com per lo riu passant los que passàveu,</l>
+              <l n="26" met="-+-+--+--+-">         la caritat, la mar hon navegàveu,</l>
+              <l n="27" met="-+-+-+-+-+-">         vos lo cridau, y, Déu cridant, invoca</l>
+              <l n="28" met="-+-+-+-+-+-">         la vostra mà, que dignament lo toca.</l>
+              <l n="29" met="-+-+-+-+-+-">         Y, finalment, mostrat haveu la suma</l>
+              <l n="30" met="-+-+--+--+-">         de l’Increat en creada figura,</l>
+              <l n="31" met="-+-+-+-+-+-">         passant lauger per l’aygua com la scuma.</l>
+              <l n="32" met="-+-+-+-+-+-">         Ni passarà ni passareu fretura,</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>4.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">       L’espill inmens hon vós morau, senyora,</l>
+              <l n="2" met="-+-+-+-+-+-">          de Jesucrist, ab claus guarnit en fusta,</l>
+              <l n="3" met="-+-+-+-+-+-">          nos mostra clar que·n fos merexedora</l>
+              <l n="4" met="+--+-+-+-+-">          pot en aquells que ver’ amor ajusta.</l>
+              <l n="5" met="-+-+-+-+-+-">          En ell miràs, beneyta, la ymatge</l>
+              <l n="6" met="-+-+-+-+-+-">          qu’Ell, Déu, obrà ab tan secret misteri;</l>
+              <l n="7" met="-+-+-+-+-+-">          y ves tanbé aquell perfet obratge</l>
+              <l n="8" met="--+--+-+-+-">          que revela l’angelical misatge,</l>
+              <l n="9" met="-+-+-+-+-+-">         de tot lo món salut y refrigeri.</l>
+              <l n="10" met="-+-+--+--+-">         Y com l’amant en l’amat se transforma</l>
+              <l n="11" met="-+-+-+-+-+-">         y com roman en ell la sua forma.</l>
+              <l n="12" met="+--+-+-+-+-">         Luna de foch tenia, y luna clara,</l>
+              <l n="13" met="-+-+-+-+-+-">         on ver’ amor y caritat miràveu:</l>
+              <l n="14" met="-+-+--+--+-">         la caritat la del foch vos declara,</l>
+              <l n="15" met="-+-+-+-+-+-">         y en l’altra ves l’amor d’aquella cara</l>
+              <l n="16" met="+--+-+-+-+-">         de Qui vos tant ennamorada stàveu.</l>
+              <l n="17" met="-+-+-+-+-+-">         Y, aprés, mirant devotament la mostra</l>
+              <l n="18" met="-+-+-+-+-+-">         del cors plaguat de tant cruels ferides,</l>
+              <l n="19" met="-+-+--+--+-">         se imprimí axí’n l’ànima vostra</l>
+              <l n="20" met="-+-+--+--+-">         fervent ardor tal, que d’ella’n la nostra</l>
+              <l n="21" met="-+-+-+-+-+-">         se impremex seguint la nostres vides</l>
+              <l n="22" met="+--+-+-+-+-">         Un voler sant, un grat, un’ amor neta,</l>
+              <l n="23" met="+--+--+--+-">         un’ abtitut de fer vida perfeta.</l>
+              <l n="24" met="-+-+-+-+-+-">         Efectes tals en estes dues lunes</l>
+              <l n="25" met="-+-+-+-+-+-">         especulà lo vostre viu entendre,</l>
+              <l n="26" met="+--+-+-+-+-">         que pogué fer les dos voluntats unes;</l>
+              <l n="27" met="+--+-+-+-+-">         unes en hu, y en dos axí comunes,</l>
+              <l n="28" met="-+-+-+-+-+-">         que per l’obrar axí u podem compendre.</l>
+              <l n="29" met="+--+-+-+-+-">         Vostre sperit, clavat en la creu nua,</l>
+              <l n="30" met="+--+-+-+-+-">         fon, ab la carn del Just, immaculada:</l>
+              <l n="31" met="-+-+-+-+-+-">         pels lochs dels claus, anant ab la sanch sua</l>
+              <l n="32" met="-+-+-+-+-+-">         la vostra sanch en l’esperit mesclada.</l>
+              <l n="33" met="-+-+-+-+-+-">         Los seus açots prenent per diciplines,</l>
+              <l n="34" met="-+-+--+--+-">         ses passions, la corona d’espines.</l>
+              <l n="35" met="+--+-+-+-+-">         Jesus, espill tot enramat de liris,</l>
+              <l n="36" met="-+-+-+-+-+-">         portau, mostrant l’odor dels sacrificis</l>
+              <l n="37" met="-+-+-+-+-+-">         que vós li fes ab foguejants cautiris,</l>
+              <l n="38" met="-+-+-+-+-+-">         al cor donant martiri pels martiris,</l>
+              <l n="39" met="-+-+-+-+-+-">         que·l Just rebé per nostres maleficis.</l>
+              <l n="40" met="-+-+---+-+-">         Tanbé prengués per l’amarch gust de suja,</l>
+              <l n="41" met="+--+-+-+-+-">         l’aygua bevent d’enpostemades benes</l>
+              <l n="42" met="+--+-+-+-+-">         contra·l ventrell, que’n ben obrar s’enuja,</l>
+              <l n="43" met="-+-+-+-+-+-">         donant en vós de caritat la pluja</l>
+              <l n="44" met="-+-+-+-+-+-">         que·l seu costat decorren vostres venes.</l>
+              <l n="45" met="+--+-+-+-+-">         Esperit nou tenint perfet y recte</l>
+              <l n="46" met="-+-+-+-+-+-">         y en lo cor, fix, del crucifix l’objecte.</l>
+              <l n="47" met="-+-+-+-+-+-">         Ab tan fervent devoció encesa</l>
+              <l n="48" met="-+-+--+--+-">         rebent lo cors de Jesús per miracle,</l>
+              <l n="49" met="+--+-+-+-+-">         l’Òstia on rebem la gran promesa,</l>
+              <l n="50" met="-+-+-+-+-+-">         levant-se de les mans on era mesa,</l>
+              <l n="51" met="-+-+-+-+-+-">         en vós se mes per digne tabernacle</l>
+              <l n="52" met="+--+-+-+-+-">         Tal dignitat, efecte tan amable,</l>
+              <l n="53" met="-+-+-+-+-+-">         no·s diu ni·s sap ni·s lig d’algú ni·s canta:</l>
+              <l n="54" met="-+-+-+-+-+-">         Jesús, plaguat, fer-se comunicable</l>
+              <l n="55" met="-+-+-+-+-+-">         ab tals senyals d’amor inextimable</l>
+              <l n="56" met="-+-+-+-+-+-">         comunicat no·s diu a sant ni santa</l>
+              <l n="57" met="-+-+-+-+-+--">         Ni·s lig tanpoch ni·s troba’n la hystòria</l>
+              <l n="58" met="-+-+--+--+--">         de sent Francesch, sant de tanta memòria.</l>
+              <l n="59" met="+--+-+-+-+-">         Viure y morir volgués religiosa,</l>
+              <l n="60" met="-+-+-+-+-+-">         significats seguint del blanch y negre:</l>
+              <l n="61" met="+--+-+-+-+-">         per lo del blanch fos casta, virtuosa;</l>
+              <l n="62" met="-+-+--+--+-">         la passió de Jesús dolorosa,</l>
+              <l n="63" met="-+-+-+-+-+-">         Allegre dich, esent ab Ell unida</l>
+              <l n="64" met="-+-+-+-+-+-">         per unió de ver’ amor que junta</l>
+              <l n="65" met="-+-+-+-+-+-">         y ensemps fa star unides mort y vida,</l>
+              <l n="66" met="-+-+-+-+-+-">         y ensemps ferir a dos d’una ferida,</l>
+              <l n="67" met="-+-+-+-+-+-">         y en un instant nafrar dos d’una punta.</l>
+              <l n="68" met="+--+-+-+-+-">         De Jesús, donchs, les plagues si us pintaven</l>
+              <l n="69" met="+--+-+-+-+-">         era mostrar lo com en vós estaven.</l>
+              <l n="70" met="-+-+-+-+-+-">         Morint tots jorns vixqués ab Aquell morta,</l>
+              <l n="71" met="-+-+-+-+-+-">         que’n creu morí per vós y per nosaltres,</l>
+              <l n="72" met="-+-+-+-+-+-">         ab Ell sentint lo qu’Ell per tots comporta;</l>
+              <l n="73" met="-+-+-+-+-+-">         y en lo comport vostr’ ànima·s deporta</l>
+              <l n="74" met="+--+-+-+-+-">         d’un deport dolç que pasa tots los altres.</l>
+              <l n="75" met="+--+-+-+-+-">         Tota’n Aquell, que de tots vida era,</l>
+              <l n="76" met="-+-++--+-+-">         en vós axí fon tota sa fixura,</l>
+              <l n="77" met="-+-+--+--+-">         com del sagell roman fixa la cera</l>
+              <l n="78" met="-+-+--+--+-">         ni més ni menys, y d’aquella manera</l>
+              <l n="79" met="-+-++--+-+-">         que·l figurat dexa de sa figura.</l>
+              <l n="80" met="-+-++--+-+-">         Tan gran honor, mèrits tan grans merexen,</l>
+              <l n="81" met="-+-+--+--+-">         que’n processó les vergens vos seguexen.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>5.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+--+--+-">       La nau Jesús d’aquell port se partia</l>
+              <l n="2" met="-+-+-+-+-+-">          de Ponç Pilat, ab vela sangonosa,</l>
+              <l n="3" met="+--+-+-+-+-">          quant de Sion partí la nau Maria</l>
+              <l n="4" met="+--+-+-+-+-">          sense govern, portant la trista via</l>
+              <l n="5" met="-+-+-+-+-+-">          en mar de plor, ab vela dolorosa.</l>
+              <l n="6" met="--+-+-+--+-">          Trobarent-se en la platja deserta</l>
+              <l n="7" met="-+-+-+-+-+-">          Jherusalem, ab vàlida fortuna:</l>
+              <l n="8" met="+--+-+-+-+-">          l’una quant fon per l’altra descuberta,</l>
+              <l n="9" met="-+-+-+-+-+-">          d’un colp de mar, que l’esme desconcerta,</l>
+              <l n="10" met="-+-+--+--+-">         en ffons de mort perir cuyda cascuna.</l>
+              <l n="11" met="+--+---+-+-">         Vent-se tan prest per cruel vent escórrer,</l>
+              <l n="12" met="-+-+--+--+-">         que no pogué l’un’ a l’altra socórrer.</l>
+              <l n="13" met="-+-+-+-+-+-">         Los mariners que les amarinaven,</l>
+              <l n="14" met="-+-+-+-+-+-">         los sentiments eren que prest espiren,</l>
+              <l n="15" met="-+-+-+-+-+-">         y axí·l lavor aquells abandonaven,</l>
+              <l n="16" met="-+-+-+-+-+-">         que la dolor de pedre·s no sentiren</l>
+              <l n="17" met="+--+-+-+-+-">         quant, tribulats, per a neguar estaven.</l>
+              <l n="18" met="-+-+-+-+-+-">         Y, majorment, la nau Maria trista,</l>
+              <l n="19" met="-+-+-+-+-+">         que de l’amor perdia·l gran nolit</l>
+              <l n="20" met="-+-+-+-+-+-">         ab lo naucher del sanct evangelista,</l>
+              <l n="21" met="-+-+-+-+-+-">         que, ja perdut tot l’esme de la vista,</l>
+              <l n="22" met="+--+--+--+">         via no ffent, resta la trista’n jolit.</l>
+              <l n="23" met="-+-+-+-+-+-">         Espasme greu l’avia descosida,</l>
+              <l n="24" met="-+-+-+-+-+-">         dels esperits havent-la departida.</l>
+              <l n="25" met="-+-+-+-+-+-">         En tant combat y en mar de tanta força</l>
+              <l n="26" met="-+-+-+-+-+-">         y en tal perill la nau Maria estava,</l>
+              <l n="27" met="-+-+-+-+-+-">         y ab tot l’esforç, que·ls més esforçats força,</l>
+              <l n="28" met="+--+-+-+-+-">         sense poder a puja ni a l’orça</l>
+              <l n="29" met="+--+--+--+-">         dar-lo timó, totalment se negava.</l>
+              <l n="30" met="-+-+-+-+-+-">         Volent girar, escota la cadena</l>
+              <l n="31" met="-+-+-+-+-+-">         sentí desmay que los amants fallien.</l>
+              <l n="32" met="+--+-+-+-+-">         D’aygües de plor estant ja tota plena,</l>
+              <l n="33" met="-+-+-+-+-+-">         y trantollant, les veles y l’antena</l>
+              <l n="34" met="-+-+-+-+-+-">         venint abaix, aydar no li podien.</l>
+              <l n="35" met="+--+-+-+-+-">         L’arbre perdut, la xàrcia rompuda,</l>
+              <l n="36" met="+--++--+-+-">         resta la nau quasi del tot perduda.</l>
+              <l n="37" met="+--+-+-+-+-">         Mas encenent la divinal lanterna</l>
+              <l n="38" met="-+-+-+-+-+-">         de vera lum la nau Jesús a popa,</l>
+              <l n="39" met="-+-++--+-+-">         ab esme tal guia la nau materna,</l>
+              <l n="40" met="-+-+-+-+-+-">         que reparà la ’mfrachte que desqüerna</l>
+              <l n="41" met="-+-+-+-+-+-">         y fa sortir del ver juhí la stopa.</l>
+              <l n="42" met="-+-++--+-+-">         Y axí seguint l’esme de la primera,</l>
+              <l n="43" met="-+-+--+--+-">         surgint les dos al trist port de Calvari,</l>
+              <l n="44" met="+--+-+-+-+-">         en aquell loch on més repòs s’espera,</l>
+              <l n="45" met="-+-+-+-+-+-">         allí fon més, fortuna verdadera,</l>
+              <l n="46" met="+--+-+-+-+-">         més esforçant l’esforç del vent contrari.</l>
+              <l n="47" met="-+-+--+--+-">         De fortitut tres anchores lançaren</l>
+              <l n="48" met="-+-+-+-+-+-">         d’aquells tres claus hon juntes s’ormejaren.</l>
+              <l n="49" met="-+-+-+-+-+-">         Cubert lo cel de núvols de tristura,</l>
+              <l n="50" met="-+-+-+-+-+-">         vengué un grop tan gran y tan terrible</l>
+              <l n="51" met="-+-+-+-+-+-">         ab trons y lamps encesos d’amargura,</l>
+              <l n="52" met="-+-+-+-+-+-">         que los nauchers, estant en tal pressura,</l>
+              <l n="53" met="-+-+-+-+-+-">         lo salvament los era impossible.</l>
+              <l n="54" met="+--+-+-+-+-">         Dona a través la nau Jesús en terra.</l>
+              <l n="55" met="--+--+-+-+-">         L’altra resta en penes encallada,</l>
+              <l n="56" met="-+-+-+-+-+-">         avent perdut la filial desferra.</l>
+              <l n="57" met="-+-+--+--+-">         Y ab ferma fe, qu’és anchora que afferra</l>
+              <l n="58" met="-+-+-+-+-+-">         en tal naufrayg, romàs, tota spasmada.</l>
+              <l n="59" met="-+-+-+-+-+-">         Y sens haver un’ ora de bonança,</l>
+              <l n="60" met="+--+-+-+-+-">         ferm la tingué l’ormeyg de la sperança.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>6.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="+--+-+-+-+-">          Mare de Déu, qui sols pogués merèixer</l>
+              <l n="2" met="+--+--+--+-">          nom divinal per virtut de l’Altisme.</l>
+              <l n="3" met="+--+-+-+-+-">          Font d’on nasqué lo sant Cristianisme,</l>
+              <l n="4" met="-+-+-+-+-+-">          regau lo Puig y en fruyts sants feu lo créixer.</l>
+              <l n="5" met="-+-+-+-+-+">          Girau vers ell, moguts de pietat,</l>
+              <l n="6" met="-+-+--+--+-">          los vostres hulls, ab la qual contemplaren</l>
+              <l n="7" met="-+-+-+-+-+">          lo Fill humil, sens colpa turmentat,</l>
+              <l n="8" met="-+-+-+-+-+-">          y en tot obrar jamés lo desemparen.</l>
+              <l n="9" met="+--+--+--+-">          Mare de Déu, com lo sant matrimoni,</l>
+              <l n="10" met="-+-+-+-+-+-">         vos abillàs de joyes precioses:</l>
+              <l n="11" met="-+-+-+-+-+-">         lo cap guarnit de penses luminoses,</l>
+              <l n="12" met="-+-+-+-+-+">         al coll portàs collar d’or fi bronit;</l>
+              <l n="13" met="-+-+-+-+-+-">         als muscles sants, aquella gran cadena</l>
+              <l n="14" met="-+-+-+-+-+">         de nostra fe; y en vostres pits, guarnit</l>
+              <l n="15" met="-+-+--+--+-">         carvoncle pur de la divinal mena.</l>
+              <l n="16" met="+--+-+-+-+-">         Mare de Déu, vestís-vos per camisa</l>
+              <l n="17" met="-+-+-+-+-+-">         la fermetat listada, y d’amor casta</l>
+              <l n="18" met="+--+-+-+-+-">         cobre los pits de tan eleta pasta</l>
+              <l n="19" met="-+-+-+-+-+-">         guarnit cabés de virginal camisa.</l>
+              <l n="20" met="-+-+-+-+-+">         Tot lo restant era de prim cambray.</l>
+              <l n="21" met="-+-+--+--+-">         De caritat eren vostres faldetes</l>
+              <l n="22" met="+--+-+-+-+">         ab marvets grochs, posats de tal espay,</l>
+              <l n="23" met="-+-+-+-+-+-">         que geny humà jamés tals les ha fetes.</l>
+              <l n="24" met="+--+-+-+-+-">         Mare de Déu, la nubcial gonella</l>
+              <l n="25" met="+--+-+-+-+-">         fonch en lo món a tots incomprensible;</l>
+              <l n="26" met="-+-+--+--+-">         lo drap, estrany; la color, invisible;</l>
+              <l n="27" met="-+-+--+--+-">         y, entom de peus, una cercha molt bella.</l>
+              <l n="28" met="-+-++--+-+">         Les mostres són fetes per xerubins,</l>
+              <l n="29" met="-+-+--+--+-">         brodant lo goig que remé nostra colpa.</l>
+              <l n="30" met="-+-+-+-+-+">         Daurat cordó, texit per cerafins,</l>
+              <l n="31" met="+--+-+-+-+-">         cobre la let que menja qui·ns descolpa.</l>
+              <l n="32" met="+--+-+---+-">         Mare de Déu, cobria l’arreu digne</l>
+              <l n="33" met="-+-+-+-+-+-">         mongil tallat per l’Escriptura Santa.</l>
+              <l n="34" met="+--+-+-+-+-">         Vostre palau, ornat de claror tanta,</l>
+              <l n="35" met="-+-+--+--+-">         misteri fon a vós, pura, condigne.</l>
+              <l n="36" met="--+--+-+-+">         A Déu placca l’umil sant continent,</l>
+              <l n="37" met="-+-+-+-+-+-">         y, enamorat del que creat havia,</l>
+              <l n="38" met="-+-+-+-+-+">         prengué de vós, per sant obumbrament,</l>
+              <l n="39" met="+--+-+-+-+-">         Fill redemptor de l’home, que·s perdia.</l>
+              <l n="40" met="+--+-+-+-+-">         Mare de Déu, no seyta, mas prostrada</l>
+              <l n="41" met="+--+-+-+-+-">         sobre·l tapit dels purs virginals liris.</l>
+              <l n="42" met="-+-+-+-+-+-">         Acompanyat de multitut de ciris,</l>
+              <l n="43" met="+--+-+-+-+-">         sant Gabriel vos troba’n la posada,</l>
+              <l n="44" met="-+-+-+-+-+">         genolls ficats; mostrant se ja vassall,</l>
+              <l n="45" met="-+-+-+-+-+">         per tot lo cel vos presta homenage.</l>
+              <l n="46" met="-+-+-+-+-+">         Al que vull dir, l’enteniment defall.</l>
+              <l n="47" met="+--++-+--+-">         Quanta valor causa tal vassallatge!</l>
+              <l n="48" met="+--+-+-+-+-">         Mare de Déu, en lo món pus amarga,</l>
+              <l n="49" met="+--+-+-+-+-">         y ara’b lo Fill regnau la mes contenta.</l>
+              <l n="50" met="-+-+--+--+-">         Ab pur vestit, en tant qu’ab Deu parenta,</l>
+              <l n="51" met="-+-+-+-+-+-">         vos avistàs nostra humana sarga.</l>
+              <l n="52" met="-+-+--+--+">         Lo més valer vos ha fet mes humil;</l>
+              <l n="53" met="-+-+--+--+-">         virginitat, sobre·ls cels habundosa;</l>
+              <l n="54" met="-+-+-+-+-+">         de puritats, florida com l’abrill.</l>
+              <l n="55" met="-+-+-+-+-+-">         Dins vós se cull la fruyta saborosa.</l>
+              <l n="56" met="+--+-+-+-+-">         Mare de Déu, insigna creatura,</l>
+              <l n="57" met="+--+-+-+-+-">         quant humilment rebés tal maravella,</l>
+              <l n="58" met="-+-+-+-+-+-">         rebeu lo Puig, que’n vida s’aparella</l>
+              <l n="59" met="-+-+-+-+-+-">         servir a vós, ab gran benaventura.</l>
+              <l n="60" met="-+-+-+-+-+">         En ell florint lo ceptre de virtut,</l>
+              <l n="61" met="+--+-+-+-+-">         grana dins vós lo fruyt de l’esperança.</l>
+              <l n="62" met="+--+--+--+">         Deu qual viurà, puix a Déu ha plagut,</l>
+              <l n="63" met="-+-+-+-+-+-">         vos migençant en benaventurança.</l>
+              <l n="64" met="+--+-+-+-+">         Mare de Déu bandera de salut,</l>
+              <l n="65" met="-+-+-+-+-+-">         tant vos suplich quant mon saber alcança.</l>
+              <l n="66" met="-+-+-+-+-+">         Lo meu lohar, si no us haurà plagut,</l>
+              <l n="67" met="-+-+-+-+-+-">         a peu descalç visite·l Puig de França.</l>
+              <l n="68" met="-+-+-+-+-+">         Senyor Visrey, justicier escut</l>
+              <l n="69" met="-+-+-+-+-+-">         dels cavallers, victoriosa lança,</l>
+              <l n="70" met="+--++-+--+">         bon capità may en armes vençut,</l>
+              <l n="71" met="-+-+--+--+-">         faça-us Jhesús servar just la balança.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>7.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">         Mirant en vós, examen de pintura,</l>
+              <l n="2" met="+--+-+-+-+-">          totes les parts que us fan del món pus bella,</l>
+              <l n="3" met="-+-+--+--+-">          yo so stat pres, y, si us par maravella,</l>
+              <l n="4" met="-+-+-+-+-+-">          no pot algú fugir a ssa ventura.</l>
+              <l n="5" met="-+-+-+-+-+-">          Preneu-me, donchs, que no us serà ofensa</l>
+              <l n="6" met="-+-+-+-+-+-">          tenir-me ensemps ab tots los altres vostres,</l>
+              <l n="7" met="-+-+-+-+-+-">          perquè vegau, ab verdaderes mostres,</l>
+              <l n="8" met="-+-+-+-+-+-">          les grans virtuts que’n vós lo cel dispensa,</l>
+              <l n="9" met="-+-+-+-+-+-">          mostrant que sou de puritat l’ermini,</l>
+              <l n="10" met="-+-+-+-+-+-">         senyorejant amor ab gran domini.</l>
+              <l n="11" met="-+-+-+-+-+-">         Vos demanau qual pena més turmenta</l>
+              <l n="12" met="-+-+-+-+-+-">         l’enamorat, perdent sa namorada:</l>
+              <l n="13" met="+--+-+-+-+-">         veure la’n mans d’algú senyoregada,</l>
+              <l n="14" met="-+-++-+--+-">         o que·s morís quant més ella contenta.</l>
+              <l n="15" met="-+-+--+--+-">         Mon poch saber no pot dir ni compendre</l>
+              <l n="16" met="-+-+-+-+-+-">         lo que·s pertany, seguint la vera stima,</l>
+              <l n="17" met="-+-+-+-+-+-">         y majorment en qüestió tan prima</l>
+              <l n="18" met="-+-+-+-+-+-">         que m’ha sobrat les forces de l’entendre.</l>
+              <l n="19" met="+--+--+--+-">         Mas perquè sé lo desdeny quant me costa,</l>
+              <l n="20" met="-+-+--+--+-">         plorant mos mals, yo faré la resposta.</l>
+              <l n="21" met="-+-+-+-+-+-">         Tots los treballs, turment, dolor y pena</l>
+              <l n="22" met="-+-+-+---+-">         que·ls amadors sostenen cascun dia,</l>
+              <l n="23" met="-+-+-+-+-+-">         son per haver cascú la que voldria,</l>
+              <l n="24" met="-+-+-+-+-+-">         segons la sort naturalment ordena,</l>
+              <l n="25" met="-+-+-+-+-+-">         la qual jamés ni cessa, ni reposa,</l>
+              <l n="26" met="+--+-+-+-+-">         fins que lo grat nostra salut desperta,</l>
+              <l n="27" met="-+-+--+--+-">         que lo desdeny al grat fa major nosa,</l>
+              <l n="28" met="+--+-+-+-+-">         hi, si la mort lo bé dels ulls s’emporta,</l>
+              <l n="29" met="-+-+-+-+-+-">         recort d’amor l’enamorat conforta.</l>
+              <l n="30" met="-+-+-+-+-+-">         No és negú que sols per si merexca</l>
+              <l n="31" met="-+-+-+-+-+-">         aquell gran do qu’a mort amant li dona;</l>
+              <l n="32" met="-+-+-+-+-+-">         y axí jamés ni mata, ni perdona,</l>
+              <l n="33" met="-+-+-+-+-+-">         ni viure vol, y tem que no pereixca.</l>
+              <l n="34" met="-+-+-+-+-+-">         Viu trist, confús, morint de ora en ora:</l>
+              <l n="35" met="+--+-+-+-+-">         vol lo desig y no lo que desiga;</l>
+              <l n="36" met="-+-+-+-+-+-">         escriu tristor hon par que goig se liga;</l>
+              <l n="37" met="-+-+-+-+-+-">         riu s’ab dolor y d’alegria plora;</l>
+              <l n="38" met="+--+-+-+-+-">         fuig de l’engan seguint lo que l’engana;</l>
+              <l n="39" met="-+-+-+-+-+-">         desdiu parlant lo que callant demana.</l>
+              <l n="40" met="-+-+-+-+-+-">         Per lo desig qui pert la companyia,</l>
+              <l n="41" met="+--+-+-+-+-">         resta content vençut de sa empresa,</l>
+              <l n="42" met="+--+-+-+-+-">         és de tot mal sa voluntat defesa,</l>
+              <l n="43" met="+--+-+-+-+-">         cessa·l recel que viva·l constrenyia,</l>
+              <l n="44" met="+--+--+--+-">         cessa·l treball ab tot fos agradable,</l>
+              <l n="45" met="+--+-+-+-+-">         cessa·l perill y cessa la sospita;</l>
+              <l n="46" met="-+-+-+-+-+-">         lo seu stat en mans de Déu abita:</l>
+              <l n="47" met="-+-+-+-+-+-">         no pot lançar fortuna variable,</l>
+              <l n="48" met="-+-+-+-+-+-">         ni·ls accidents de passió·l turmenten,</l>
+              <l n="49" met="-+-+-+-+-+-">         ni sent dels mals que·ls trists desamats senten.</l>
+              <l n="50" met="-+-+-+-+-+-">         Que sent lo cor estant dins la que us ama</l>
+              <l n="51" met="-+-+-+-+-+-">         tot transportat quan veu aquelles festes,</l>
+              <l n="52" met="-+-+-+-+-+-">         los dolços mots, les naturals requestes,</l>
+              <l n="53" met="-+-+-+-+-+-">         que sols d’oir l’enteniment s’inflama?</l>
+              <l n="54" met="-+-+-+-+-+-">         Que sent lo grat? Que senten les orelles</l>
+              <l n="55" met="-+-+-+-+-+-">         y voluntat, ofesa sense culpa?</l>
+              <l n="56" met="-+-+-+-+-+-">         Que sent lo trist que·s mor y desenculpa,</l>
+              <l n="57" met="-+-+-+-+-+-">         vivint d’afanys y d’esperances velles?</l>
+              <l n="58" met="-+-+--+--+-">         No sab d’amar lo qui mort acompara</l>
+              <l n="59" met="-+-+-+-+-+-">         a la dolor que·s mostra cara a cara.</l>
+              <l n="60" met="-+-+-+-+-+-">         En tal parer yo vull morir y viure,</l>
+              <l n="61" met="-+-+--+--+-">         cercant les leys d’amor clar a la letra.</l>
+              <l n="62" met="-+-+-+-+-+-">         Ab passió que·ls ossos me penetra,</l>
+              <l n="63" met="-+-+-+-+-+-">         si vos no·m feu de mort que so reviure,</l>
+              <l n="64" met="-+-+-+-+-+-">         de què us han vist, mos ulls jamés es tanquen</l>
+              <l n="65" met="-+-+-+-+-+-">         per dar descans a la cansada força,</l>
+              <l n="66" met="-+-+-+-+-+-">         los sperits s’aparten de la scorça,</l>
+              <l n="67" met="-+-+-+-+-+-">         fogint de mi, perquè a vós no manquen.</l>
+              <l n="68" met="-+-+-+-+-+-">         Vos sols bastau mirant tant alegrar-me,</l>
+              <l n="69" met="-+-+-+-+-+-">         que cessaran los mals de turmentar-me.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>8.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-">          Mirant lo cel brodat d’estelles clares,</l>
+              <l n="2" met="-+-+-+-+-+-">          mirant lo sol, los signes y planetes,</l>
+              <l n="3" met="-+-+-+-+-+-">          mirant tanbé les formes de les cares</l>
+              <l n="4" met="-+-+-+-+-+-">          tan differents on Tu, Senyor, declares</l>
+              <l n="5" met="+--+-+-+-+-">          quant de tes mans les obres són perfetes.</l>
+              <l n="6" met="-+-+-+-+-+-">          Com pot loar humana creatura</l>
+              <l n="7" met="-+-+-+-+-+-">          la puritat d’aquella Verge mare,</l>
+              <l n="8" met="+--+--+--+-">          filla del Fill, que’n humana figura</l>
+              <l n="9" met="+--+-+-+-+-">          verge tostemps feu del Factor factura,</l>
+              <l n="10" met="-+-+---+-+-">         sobrevenint l’Esperit sant del pare?</l>
+              <l n="11" met="-+-+---+-+-">         Semblant laor li podem dar sens falta,</l>
+              <l n="12" met="-+-+-+-+-+-">         que dignament és aprés Déu més alta.</l>
+              <l n="13" met="+--+-+-+-+--">         Si aprés, donchs, sens medi ni distàntia</l>
+              <l n="14" met="+--+-+-+-+-">         bé podem dir esser en tot perfeta,</l>
+              <l n="15" met="+--+--+--+--">         callen los buyts vexells, plens d’ignoràntia,</l>
+              <l n="16" met="-+-+-+-+-+--">         que no·s pot fer fretura y abundàntia</l>
+              <l n="17" met="-+-+-+-+-+-">         estar ensemps perfet ab imperfeta.</l>
+              <l n="18" met="-+-+--+--+--">         Tots l’atorgam tota plena de gràtia.</l>
+              <l n="19" met="-+-+-+-+-+-">         Hon donchs és tot no y pot fallir centilla.</l>
+              <l n="20" met="-+-+-+-+-+--">         O tot no hi és. Mirau la gran fallàcia</l>
+              <l n="21" met="-+-+-+-+-+--">         dels que dubtau a Déu no li desplàcia</l>
+              <l n="22" met="-+-+-+-+-+-">         que·ls sants doctors glosem ab tal postilla.</l>
+              <l n="23" met="-+-+---+-+-">         D’ací·s conclou y d’ací·l ver se funda</l>
+              <l n="24" met="-+-+-+-+-+-">         que del peccat original sou munda.</l>
+              <l n="25" met="+--+-+-+-+-">         Mare de Déu vol dir que sou divina,</l>
+              <l n="26" met="-+-++--+-+-">         divina, donchs, pura per sempre y sempre.</l>
+              <l n="27" met="-+-+-+-+-+-">         Si sou mortal, puix Déu a vós s’enclina,</l>
+              <l n="28" met="+--+--+--+-">         és argument que del ver no declina</l>
+              <l n="29" met="-+-+-+-+-+-">         que may tingués ab Ell algun destempre.</l>
+              <l n="30" met="-+-+-+-+-+--">         Si per Adam humana descendèntia</l>
+              <l n="31" met="+--+-+-+-+-">         deu succehir en l’infernal conflicte,</l>
+              <l n="32" met="-+-+-+-+-+--">         es gran rahó que Deu per excellèntia</l>
+              <l n="33" met="-+-+-+-+-+--">         ne preservàs a vós, d’on tal essèntia</l>
+              <l n="34" met="+--+-+-+-+-">         pendre volgué. Salvant nostre delicte</l>
+              <l n="35" met="-+-+-+-+-+-">         a tots salvà. Axí que, donchs, crear-vos</l>
+              <l n="36" met="-+-+--+--+-">         per a tal fi mester fon preservar-vos.</l>
+              <l n="37" met="-+-+-+-+-+-">         Redemtió a vós si comprenia,</l>
+              <l n="38" met="-+-++-+--+-">         no us ha comprès colpa tan infinida.</l>
+              <l n="39" met="-+-+-+-+-+-">         Remuda fos y vostra carn remia,</l>
+              <l n="40" met="-+-+-+-+-+-">         Jesús morint, la vostra’b Ell prenia</l>
+              <l n="41" met="-+-+-+-+-+-">         cruel turment de vera mort en vida.</l>
+              <l n="42" met="+--+--+--+-">         Donchs si trobam que per vós ha remuda</l>
+              <l n="43" met="+--+--+--+-">         Déu infinit nostra colpa primera,</l>
+              <l n="44" met="+--++-+--+-">         és error gran creure sou concebuda</l>
+              <l n="45" met="+--+--+--+-">         en aquell crim d’on natura cayguda</l>
+              <l n="46" met="-+-+-+-+-+-">         pogués pujar en la superna spera.</l>
+              <l n="47" met="-+-+-+-+-+-">         Lo que us ha dat per a tals actes força,</l>
+              <l n="48" met="-+-+-+-+-+-">         tanbé us ha fet del seu fruyt pura scorça.</l>
+              <l n="49" met="-+-+-+-+-+-">         L’estèril camp del ventre de sent’ Anna,</l>
+              <l n="50" met="-+-+-+-+-+-">         passat lo temps per a poder concebre,</l>
+              <l n="51" met="-+-++--+-+-">         vos produí pura de carn humana</l>
+              <l n="52" met="-+-+-+---+-">         a denotar que d’on puritat mana</l>
+              <l n="53" met="-+-++-+--+-">         corruptió ni·s pot ni·s deu percebre.</l>
+              <l n="54" met="-+-+-+-+-+-">         Si no fos tal, qui no te dar no basta</l>
+              <l n="55" met="-+-+-+-+-+-">         lo que no té, donchs, Verge sens exemple,</l>
+              <l n="56" met="+--+-+-+-+-">         bé podem dir al qui tant vos contrasta</l>
+              <l n="57" met="-+-++--+-+-">         dient no sou pura de pura pasta,</l>
+              <l n="58" met="+--+-+---+-">         que·s deu lançar del vostre sagrat temple.</l>
+              <l n="59" met="+--+-+-+-+-">         Vostre diem, puix Deu per vós lo dona</l>
+              <l n="60" met="-+-+-+-+-+-">         ab Ell regnant per maternal corona.</l>
+              <l n="61" met="+--+-+-+-+-">         Cechs són aquells que tenen lo contrari,</l>
+              <l n="62" met="-+-+-+-+-+-">         puix tal parer no ve contra·ls articles.</l>
+              <l n="63" met="+--+-+-+-+-">         Sou de Jesús santíssim santuari</l>
+              <l n="64" met="-+-+-+-+-+-">         y d’Ell matex tan divinal sacrari</l>
+              <l n="65" met="-+-+-+-+-+-">         que de vós pres los humanals verieles.</l>
+              <l n="66" met="-+-+-+-+-+-">         Sou l’ort tancat de precioses fruytes.</l>
+              <l n="67" met="+--+-+-+-+-">         Sou paradís y goig de nostre viure.</l>
+              <l n="68" met="+--+-+-+-+-">         Sou lo recós de totes nostres cuytes.</l>
+              <l n="69" met="-+-+-+-+-+-">         Sou foch on són tan purament recuytes</l>
+              <l n="70" met="-+-+-+-+-+-">         les formes grans que·ns fan al cel reviure.</l>
+              <l n="71" met="+--+-+-+-+-">         Sou la salut salvant la vida nostra.</l>
+              <l n="72" met="+--+-+-+-+-">         Sou y sereu de puritat la mostra.</l>
+              <l n="73" met="-+-+-+-+-+-">         Sols pur se diu en l’umanal linatge</l>
+              <l n="74" met="-+-+-+-+-+-">         Aquell y vós que’n vos pres pure forma.</l>
+              <l n="75" met="+--+-+-+-+-">         Ell, per si pur, vós, pura per guiatge.</l>
+              <l n="76" met="+--+-+-+-+-">         Sou estat pont d’aquell mortal passatge</l>
+              <l n="77" met="-+-+-+-+-+-">         y de l’Inmens la forma que·ns informa,</l>
+              <l n="78" met="+--+-+-+-+-">         forma formant Aquell qui us ha formada</l>
+              <l n="79" met="-+-+-+-+-+-">         y preparat original tan digne,</l>
+              <l n="80" met="-+-+--+--+-">         que vostra carn, de tot crim preservada,</l>
+              <l n="81" met="+--+-+-+-+-">         ans fos que·l món per a tal fi creada.</l>
+              <l n="82" met="-+-+-+-+-+-">         No pura sols, mas apurant l’indigne</l>
+              <l n="83" met="-+-+-+-+-+--">         Mèritament aministrau. la glòria,</l>
+              <l n="84" met="-+-+-+-+-+--">         puix vós teniu lo ceptre de victòria.</l>
+              <l n="85" met="-+-+-+-+-+-">         Divinitat que’n vós s’és encarnada</l>
+              <l n="86" met="+--+--+--+-">         creure devem vos creà tan insigne,</l>
+              <l n="87" met="-+-+-+-+-+-">         que solament no fos sanctificada</l>
+              <l n="88" met="+--+-+-+-+-">         mas Ell, Déu sol, vos ha deïficada</l>
+              <l n="89" met="+--+--+--+-">         dea dels cels y d’Ell mare condigne.</l>
+              <l n="90" met="+--+--+--+--">         Vostra laor no la compren istòria</l>
+              <l n="91" met="-+-+-+-+-+--">         ni fon jamés als cechs mortals notòria.</l>
+              <l n="92" met="-+-+-+-+-+-">         Divina font, si mal hauré fundada</l>
+              <l n="93" met="-+-+-+-+-+-">         aquesta part o prou no la designe,</l>
+              <l n="94" met="-+-+-+-+-+-">         vos la fundau, que may haveu dexada</l>
+              <l n="95" met="+--+-+-+-+-">         caure’n error la mà que us ha loada.</l>
+              <l n="96" met="-+-+--+--+-">         Ab cor sancer, humil, just y benigne,</l>
+              <l n="97" met="-+-+--+--+--">         dels peccadors espill sou de memòria,</l>
+              <l n="98" met="-+-+-+-+-+--">         conort complit de vida transitòria.</l>
+            </lg>
+          </div>
+          <div type="poem">
+            <head>
+              <title>9.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+--+--+-">         Mon esperit està ple de sospita,</l>
+              <l n="2" met="-+-+-+-+-+-">          però lo ver en part me da sospita</l>
+              <l n="3" met="-+-+-+-+-+-">          ab lo desig tan gran que’n vós abita</l>
+              <l n="4" met="-+-+-+-+-+-">          per cotlocar Leunor entre les santes.</l>
+              <l n="5" met="-+-+-+-+-+-">          Y axí, senyor, mes vesos vos responen,</l>
+              <l n="6" met="-+-+-+-+-+-">          seguint l’encal, l’estil y les maneres</l>
+              <l n="7" met="-+-+-+-+-+-">          de vós, qui sou la hu d’aquells qui sonen</l>
+              <l n="8" met="-+-+-+-+-+-">          les grans lahors que·ls actes corresponen</l>
+              <l n="9" met="-+-+-+-+-+-">         del nom donat al bé de les Corberes:</l>
+              <l n="10" met="-+-+-+-+-+-">         Elionor es cert la que·ns contenta,</l>
+              <l n="11" met="-+-++-+--+-">         e, si no es, «no siento quien lo sienta».</l>
+            </lg>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

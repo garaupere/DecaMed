@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CoVerCat.Deca — d'Erill, Arnau (TEI export)</title>
+        <principal>Pere Garau Borràs</principal>
+        <respStmt>
+          <name>Pere Garau Borràs</name>
+          <resp>AiMeRiC (automatic metrical annotation and TEI export)</resp>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>CoVerCat / AiMeRiC</publisher>
+        <idno>AiMeRiC 0.7.1</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>CoVerCat.Deca</title>
+          <idno>CoVerCat.Deca</idno>
+          <author>Pere Garau Borràs</author>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <metDecl xml:id="aimeric" type="met" pattern="((\+|\-)+)*">
+        <metSym value="+">stressed syllable</metSym>
+        <metSym value="-">unstressed syllable</metSym>
+      </metDecl>
+    </encodingDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="Arnau d'Erill">
+            <persName>
+              <name>d'Erill, Arnau</name>
+            </persName>
+            <birth when="1380"/>
+            <death when="1450"/>
+            <note>city: Barcelona</note>
+            <note>dialect: central</note>
+            <idno type="Wikidata">Q19289883</idno>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change>Generated with AiMeRiC version 0.7.1</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="author" xml:id="Arnau d'Erill">
+        <head>d'Erill, Arnau</head>
+        <div type="book" n="poesies">
+          <head>Poesies</head>
+          <div type="poem">
+            <head>
+              <title>1.txt</title>
+            </head>
+            <lg>
+              <l n="1" met="-+-+-+-+-+-"> no pase jorn que·l sagrament no·t begues</l>
+              <l n="2" met="-+-+--+--+"> com a infel, menscrahent de ta ley;</l>
+              <l n="3" met="+--+--+--+"> no es al món ten malvat, segons vey.</l>
+              <l n="4" met="-+-+-+-+-+-"> Tu vas fugent, no ausas far batalla,</l>
+              <l n="5" met="+--+-+-+-+-"> por has del foch, la coha tens de palla.</l>
+              <l n="6" met="-+-+--+--+-"> ben has mostrat aver por e temença</l>
+              <l n="7" met="-+-+--+--+-"> despuys trobist qui·t provech tes falcies.</l>
+              <l n="8" met="-+-+--+--+-"> Tu est confés per ta carta pubblica;</l>
+              <l n="9" met="-+-+--+--+-"> Ab Judes fas tot sovint companyia.</l>
+              <l n="10" met="-+-+-+-+-+-"> Bé tench per foll qui sa muller ta ffia.</l>
+              <l n="11" met="-+-+--+--+-"> on pots anar ab aytal entresenya?</l>
+              <l n="12" met="-+-+-+-+-+-"> Consell te do que vages en Serdenya,</l>
+              <l n="13" met="+--+--+--+-"> car los arauts portaran sobrevesta</l>
+              <l n="14" met="+-+-+-+--+-"> Dins en Rodes ez enquer en Costança</l>
+              <l n="15" met="-+-+-+-+-+-"> per tot lo món te cridaran no fuges,</l>
+              <l n="16" met="--+--+-+-+-"> e les dones qui son dins en Alguayre.</l>
+              <l n="17" met="-+-++-+--+-"> tal por aguist quant ausist la demanda</l>
+              <l n="18" met="-+-+-+-+-+-"> no·t plague ges auzir aytals novelles</l>
+              <l n="19" met="-+-++-+--+-"> quant te remí cors a cors de combatre.</l>
+              <l n="20" met="+--+--+--+-"> Judes malvat, per què·t lexes abatre?</l>
+              <l n="21" met="-+-+--+--+-"> vituperat e ab paucha vergonya,</l>
+              <l n="22" met="+--+-+-+-+-"> carn de masell e sutze pien de ronya:</l>
+              <l n="23" met="-+-+-+-+-+"> per què no vas sercant algun remey?</l>
+              <l n="24" met="+--+-+-+-+-"> car lo Setan de tots bens le·t desarma</l>
+              <l n="25" met="+--+-+-+-+"> pus que·l prenguist del tot per ton senyor,</l>
+              <l n="26" met="-+-+-+-+-+-"> e que·t nomens Alí de Barbaria,</l>
+              <l n="27" met="-+-++-+--+-"> per renegar Déus e santa Maria.</l>
+              <l n="28" met="-+-+-+-+-+-"> No·ls cal star, car mantes gens ho dien</l>
+              <l n="29" met="-+-+-+-+-+"> que moltas vetz sus lo sant cors sagrat</l>
+              <l n="30" met="--+--+-+-+"> renegant-lo com falç malvat traydor,</l>
+              <l n="31" met="-+-+-+-+-+"> e Lucifer prenies per senyor.</l>
+              <l n="32" met="-+-+-+-+-+"> no és segur tant no·l sabràs armar;</l>
+              <l n="33" met="-+-+-+-+-+-"> ne lo teu bran no val res, car no talla,</l>
+              <l n="34" met="-+-+-+-+-+-"> de ton asberch has por que no·t defalla:</l>
+              <l n="35" met="+-+--++--+"> no has armes de qui·t puxes fiar.</l>
+              <l n="36" met="-+-+--+--+"> Jo·m son armat si bé·m suy mes en torn</l>
+              <l n="37" met="-+-+--+--+"> Per nulla res no podies fallir:</l>
+              <l n="38" met="-+-+--+--+"> no has gossat a la plassa venir.</l>
+              <l n="39" met="-+-+--+--+-"> haguist complits per anar vuyt jornadas,</l>
+              <l n="40" met="+--+-+-+-+-"> mas ton flach cor te bat dins las coradas,</l>
+              <l n="41" met="-+-+--+--+"> lo seny te fall e las bonas rahons.</l>
+              <l n="42" met="-+-+-+-+-+-"> Del jutge dius de què·t deu hom rependre,</l>
+              <l n="43" met="-+-+-+-+-+-"> tant vols cobrir que del tot tu descobres</l>
+              <l n="44" met="-+-+-+-+-+-"> los teus vils fayts e tes vilanas obres.</l>
+              <l n="45" met="-+-+-+-+-+"> per suspitós lo príncep de valor,</l>
+              <l n="46" met="+--+-+-+-+"> car de bondats es vuy cabdels e flor?</l>
+              <l n="47" met="-+-+-+-+-+"> Ta malvestats te fay guinerdejar,</l>
+              <l n="48" met="-+-+-+-+-+-"> malvats juseu e molt pus flach que lebre.</l>
+              <l n="49" met="-+-+--+--+-"> Jo·t seguiré tant que·t puxe consegre</l>
+              <l n="50" met="-+-+-+-+-+-"> en manta part, no allegant sinistre,</l>
+              <l n="51" met="-+-+-+-+-+-"> com tu has fayt ab lo teu gran ministre.</l>
+              <l n="52" met="-+-+--+--+"> per tan vill nom, com no serques senyor</l>
+              <l n="53" met="-+-+-+-+-+"> e jutge gran que·s preu de sa honor,</l>
+              <l n="54" met="+--+-+-+-+"> hon jo e tu provem la nostra pell?</l>
+              <l n="55" met="+--+-+-+-+-"> Car jo·t promet que·t seguiré dins França,</l>
+              <l n="56" met="+--+--+--+-"> per ço com han molt millor la ussança</l>
+              <l n="57" met="-+-+-+-+-+-"> per ço vull eu seguir ayçella via.</l>
+              <l n="58" met="-+-+--+--+"> daràs per part, si com has començat;</l>
+              <l n="59" met="-+-+-+-+-+-"> per nulla res jo no·ll refuserie,</l>
+              <l n="60" met="+--+-+-+-+-"> ffins que la hu los peus no puga batre;</l>
+              <l n="61" met="-+-+-+-+-+-"> e sertament auré de leys jornada,</l>
+              <l n="62" met="+--+--+--+-"> no·t falliré a la taula perada,</l>
+              <l n="63" met="-+-+-+-+-+"> ab gran plaser ez ab trop gran desduyt.</l>
+              <l n="64" met="+--+-+-+-+"> ez ab ayçò lo gatge·s complirà:</l>
+              <l n="65" met="-+-+--+--+"> allí veurem qui bon dret mantendrà.</l>
+              <l n="66" met="-+-+--+--+"> de ton magor que poguesses fer camp?</l>
+              <l n="67" met="+--+--+--+"> Als majors obs has trobat tal barranch</l>
+              <l n="68" met="--+-+-+--+"> que no·t lexa veure sol Montpeller;</l>
+              <l n="69" met="+--+-+-+-+"> mas dubtant fort de perdre ta vil sanch</l>
+              <l n="70" met="+--+-+-+-+-"> has deffallit, mostrant covarderia,</l>
+              <l n="71" met="-+-++-+--+"> quaranta jorns vull per far mon camí</l>
+              <l n="72" met="-+-+-+-+-+-"> denant aycell hon complirem lo gatge,</l>
+              <l n="73" met="+--+--+--+-"> has a entrar a peu dintra la lissa,</l>
+              <l n="74" met="-+-+--+--+-"> ez eu aytal, per provar ta palissa;</l>
+              <l n="75" met="+--+-+-+-+-"> sens refussar e sens tornar a mida</l>
+              <l n="76" met="+--+-+-+-+-"> lança, coltell, spasa ben fabrida,</l>
+              <l n="77" met="+--+--+--+-"> atxe pesant o que·n sia laugera,</l>
+              <l n="78" met="+--+-+-+-+-"> tal con voldrà cascú per sa manera.</l>
+              <l n="79" met="+--+-+-+-+"> ara coneixs si·l teu maldir responch;</l>
+              <l n="80" met="+--+--+--+"> Ez ab ayçò jo·t daré per scrit</l>
+              <l n="81" met="+--++-+--+"> mas lo teu cor, flach, cohart e manich,</l>
+              <l n="82" met="+--+--+--+-"> Dins lo palays de la flor Margarita</l>
+              <l n="83" met="+--+-+-+-+-"> grans asaigs fist, però dubtant la dita</l>
+              <l n="84" met="-+-+-+-+-+-"> no est gosat exir de Barchinona,</l>
+              <l n="85" met="+--+-+-+-+-"> bacallar fat, com est tan vill persona?</l>
+              <l n="86" met="+--+---+-+"> Mas tant no fech que pertot no·t segís:</l>
+              <l n="87" met="+--+--+--+"> ten ben armat que no y vesses perill.</l>
+              <l n="88" met="-+-+--+--+"> Tu has la carn de guineu e la pell;</l>
+              <l n="89" met="-+-+--+--+-"> tu est dret mull, per ço·t beus las adives.</l>
+              <l n="90" met="-+-+--+--+"> No has de Déu ni vergonya ni por;</l>
+              <l n="91" met="--+-+-+--+"> si no y guarde lo marit de ta sor,</l>
+              <l n="92" met="-+-+--+--+"> tu li faràs ço que fas als parents:</l>
+              <l n="93" met="-+-+--+--+"> jo·n se ben tres de qui·s trufen les gents.</l>
+              <l n="94" met="+--+-+-+-+"> bé poran dir tu vals menys que infell</l>
+              <l n="95" met="+--+-+-+-+-"> Enemich est de tota gentilesa,</l>
+              <l n="96" met="-+-+-+-+-+-"> e de valor, de prets e de noblesa;</l>
+              <l n="97" met="+--+--+--+"> tota bondats has lexada derrer:</l>
+              <l n="98" met="+--+--+--+"> ara·m pinet com te fiu cavaller.</l>
+              <l n="99" met="-+-+-+-+-+"> ne per ciutats, mesclat ab bones gents?</l>
+              <l n="100" met="-+-+-+-+-+"> Tot lo mon sab tos greus deffalliments;</l>
+              <l n="101" met="+--+-+-+-+"> Non has gosat deffendre ton leig crim:</l>
+              <l n="102" met="-+-+--+--+"> tu est Mordret e semblant de Cahim,</l>
+              <l n="103" met="+--++-+--+"> ple de viltats ez exorch de tots bens:</l>
+              <l n="104" met="-+-+-+-+-+"> e raysonar del teu capteniment</l>
+              <l n="105" met="-+-+--+--+"> que pot esser ne com est tan dolent.</l>
+              <l n="106" met="-+-+--+--+-"> Renegues Déu e no·t goses combatre;</l>
+              <l n="107" met="-+-+-+-+-+-"> sovint desments sens proferir batalla,</l>
+              <l n="108" met="-+-+-+-+-+-"> no has gosar de calsigar la ralla;</l>
+              <l n="109" met="+--+--+--+"> mas contra Déu tu prens gran ardiment:</l>
+              <l n="110" met="+--+-+-+-+"> tal a scuat lo teu traydor lahó,</l>
+              <l n="111" met="+--+-+-+-+"> e·ll cap tallat, perquè no tinguè pro:</l>
+              <l n="112" met="-+-+-+-+-+"> ayçò seran tes armes e divís.</l>
+              <l n="113" met="-+-+-+-+-+-"> A tal traydor, atal la sobrevesta,</l>
+              <l n="114" met="-+-++-+--+-"> segons lo sant sia·n fayta la festa.</l>
+              <l n="115" met="-+-+-+-+-+"> Tu est traydor segons lo teu cartell:</l>
+              <l n="116" met="-+-+-+-+-+"> a pessa vil meté y hom vil coltell.</l>
+              <l n="117" met="-+-+--+--+"> ab tos amichs, com prenguist lo pijor?</l>
+              <l n="118" met="-+-+-+-+-+"> No·t valgre mays morir per ta honor?</l>
+              <l n="119" met="+--+-+-+-+-"> Car, tu vivent, veu hom que mors tots dies.</l>
+              <l n="120" met="-+-+-+-+-+"> tu no te·n sents ni ous la gran remor</l>
+              <l n="121" met="-+-+-+-+-+-"> que les gents fan detraç tu e rialles.</l>
+              <l n="122" met="-+-+-+-+-+-"> No pots res far que no torn joch de falles.</l>
+              <l n="123" met="-+-++--+-+"> com est traydor, çertes, no pens ni creu</l>
+              <l n="124" met="-+-+--+--+-"> car gran error e vergonya seria</l>
+              <l n="125" met="-+-+--+--+"> tan gran senyall ni daurat speró</l>
+              <l n="126" met="+-+-+-+--+-"> portas en si ço que·l rey portaria;</l>
+              <l n="127" met="-+-+-++--+-"> de mes en mes te don serques la plaça;</l>
+              <l n="128" met="-+-++--+-+-"> E si no u fas no·t daré plus fadiga,</l>
+              <l n="129" met="-+-+-+-+-+"> trop mays li put. Tu puts a bona gent.</l>
+              <l n="130" met="-+-+-+-+-+-"> per un traydor se pert molt gran desferra</l>
+              <l n="131" met="-+-++-+--+-"> al pus leyal mans e peus enbaraça</l>
+              <l n="132" met="-+-+-+-+-+"> e·l fay tornar sovint de vert en groch.</l>
+              <l n="133" met="-+-+-+-+-+"> axí reptant sovint de tració;</l>
+              <l n="134" met="+--++--+-+"> Romanrràs say, mullas desvergonyit:</l>
+            </lg>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
